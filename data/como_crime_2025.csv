@@ -1,0 +1,3364 @@
+year,month,offense,crimes,clearances,rate,month_num
+2021,Jan,All Offense Types,733,205,579.8199999999999,1
+2021,Feb,All Offense Types,534,185,422.41,2
+2021,Mar,All Offense Types,662,248,523.66,3
+2021,Apr,All Offense Types,589,185,465.91,4
+2021,May,All Offense Types,657,201,519.7,5
+2021,Jun,All Offense Types,657,177,519.7,6
+2021,Jul,All Offense Types,785,219,620.9599999999999,7
+2021,Aug,All Offense Types,810,207,640.73,8
+2021,Sep,All Offense Types,806,234,637.57,9
+2021,Oct,All Offense Types,864,208,683.4499999999999,10
+2021,Nov,All Offense Types,720,186,569.54,11
+2021,Dec,All Offense Types,634,165,501.51,12
+2022,Jan,All Offense Types,586,170,458.31,1
+2022,Feb,All Offense Types,557,189,435.63,2
+2022,Mar,All Offense Types,771,260,602.99,3
+2022,Apr,All Offense Types,695,207,543.55,4
+2022,May,All Offense Types,916,346,716.4,5
+2022,Jun,All Offense Types,777,241,607.69,6
+2022,Jul,All Offense Types,869,249,679.64,7
+2022,Aug,All Offense Types,820,235,641.3199999999999,8
+2022,Sep,All Offense Types,868,258,678.8599999999999,9
+2022,Oct,All Offense Types,818,245,639.75,10
+2022,Nov,All Offense Types,674,189,527.13,11
+2022,Dec,All Offense Types,590,146,461.4299999999999,12
+2023,Jan,All Offense Types,685,190,528.54,1
+2023,Feb,All Offense Types,574,177,442.89,2
+2023,Mar,All Offense Types,608,202,469.13,3
+2023,Apr,All Offense Types,710,196,547.8299999999999,4
+2023,May,All Offense Types,738,229,569.4399999999999,5
+2023,Jun,All Offense Types,669,174,516.2,6
+2023,Jul,All Offense Types,671,150,517.74,7
+2023,Aug,All Offense Types,733,185,565.58,8
+2023,Sep,All Offense Types,744,179,574.07,9
+2023,Oct,All Offense Types,851,177,656.63,10
+2023,Nov,All Offense Types,600,137,462.96,11
+2023,Dec,All Offense Types,553,129,426.69,12
+2024,Jan,All Offense Types,440,127,339.5,1
+2024,Feb,All Offense Types,674,178,520.05,2
+2024,Mar,All Offense Types,587,168,452.9299999999999,3
+2024,Apr,All Offense Types,662,208,510.79,4
+2024,May,All Offense Types,607,192,468.36,5
+2024,Jun,All Offense Types,678,182,523.14,6
+2024,Jul,All Offense Types,657,193,506.94,7
+2024,Aug,All Offense Types,752,191,580.24,8
+2024,Sep,All Offense Types,707,221,545.52,9
+2024,Oct,All Offense Types,675,219,520.8299999999999,10
+2024,Nov,All Offense Types,642,162,495.36,11
+2024,Dec,All Offense Types,633,166,488.42,12
+2025,Jan,All Offense Types,518,197,399.69,1
+2025,Feb,All Offense Types,455,152,351.07,2
+2025,Mar,All Offense Types,668,243,515.42,3
+2025,Apr,All Offense Types,555,202,428.23,4
+2025,May,All Offense Types,681,243,525.4499999999999,5
+2025,Jun,All Offense Types,591,190,456.01,6
+2025,Jul,All Offense Types,552,139,425.92,7
+2025,Aug,All Offense Types,82,20,63.27,8
+2025,Sep,All Offense Types,NA,NA,NA,9
+2021,Jan,Crimes Against Person,190,78,150.3,1
+2021,Feb,Crimes Against Person,175,65,138.43,2
+2021,Mar,Crimes Against Person,230,95,181.94,3
+2021,Apr,Crimes Against Person,215,76,170.07,4
+2021,May,Crimes Against Person,245,84,193.8,5
+2021,Jun,Crimes Against Person,217,95,171.65,6
+2021,Jul,Crimes Against Person,223,100,176.4,7
+2021,Aug,Crimes Against Person,210,77,166.12,8
+2021,Sep,Crimes Against Person,259,106,204.88,9
+2021,Oct,Crimes Against Person,251,74,198.55,10
+2021,Nov,Crimes Against Person,230,84,181.94,11
+2021,Dec,Crimes Against Person,177,57,140.01,12
+2022,Jan,Crimes Against Person,202,89,157.98000000000002,1
+2022,Feb,Crimes Against Person,206,82,161.11,2
+2022,Mar,Crimes Against Person,236,107,184.57,3
+2022,Apr,Crimes Against Person,205,75,160.33,4
+2022,May,Crimes Against Person,333,193,260.44,5
+2022,Jun,Crimes Against Person,223,88,174.41,6
+2022,Jul,Crimes Against Person,251,91,196.31,7
+2022,Aug,Crimes Against Person,222,99,173.62,8
+2022,Sep,Crimes Against Person,245,110,191.61,9
+2022,Oct,Crimes Against Person,266,107,208.04,10
+2022,Nov,Crimes Against Person,223,95,174.41,11
+2022,Dec,Crimes Against Person,160,78,125.13,12
+2023,Jan,Crimes Against Person,236,97,182.1,1
+2023,Feb,Crimes Against Person,189,75,145.83,2
+2023,Mar,Crimes Against Person,210,109,162.03,3
+2023,Apr,Crimes Against Person,225,90,173.61,4
+2023,May,Crimes Against Person,287,143,221.45,5
+2023,Jun,Crimes Against Person,182,80,140.43,6
+2023,Jul,Crimes Against Person,192,66,148.15,7
+2023,Aug,Crimes Against Person,224,89,172.84,8
+2023,Sep,Crimes Against Person,236,91,182.1,9
+2023,Oct,Crimes Against Person,227,95,175.15,10
+2023,Nov,Crimes Against Person,159,63,122.68,11
+2023,Dec,Crimes Against Person,166,63,128.08,12
+2024,Jan,Crimes Against Person,138,62,106.48,1
+2024,Feb,Crimes Against Person,180,93,138.89,2
+2024,Mar,Crimes Against Person,187,74,144.29,3
+2024,Apr,Crimes Against Person,211,100,162.81,4
+2024,May,Crimes Against Person,203,108,156.63,5
+2024,Jun,Crimes Against Person,209,77,161.26,6
+2024,Jul,Crimes Against Person,212,88,163.58,7
+2024,Aug,Crimes Against Person,253,103,195.21,8
+2024,Sep,Crimes Against Person,243,121,187.5,9
+2024,Oct,Crimes Against Person,242,110,186.73,10
+2024,Nov,Crimes Against Person,195,81,150.46,11
+2024,Dec,Crimes Against Person,184,81,141.97,12
+2025,Jan,Crimes Against Person,193,97,148.92000000000002,1
+2025,Feb,Crimes Against Person,151,76,116.51,2
+2025,Mar,Crimes Against Person,219,114,168.98000000000002,3
+2025,Apr,Crimes Against Person,203,110,156.63,4
+2025,May,Crimes Against Person,233,121,179.78,5
+2025,Jun,Crimes Against Person,175,83,135.03,6
+2025,Jul,Crimes Against Person,191,60,147.37,7
+2025,Aug,Crimes Against Person,27,9,20.83,8
+2025,Sep,Crimes Against Person,NA,NA,NA,9
+2021,Jan,Murder and Nonnegligent Manslaughter,NA,NA,NA,1
+2021,Feb,Murder and Nonnegligent Manslaughter,1,1,0.7899999999999999,2
+2021,Mar,Murder and Nonnegligent Manslaughter,2,1,1.58,3
+2021,Apr,Murder and Nonnegligent Manslaughter,1,1,0.7899999999999999,4
+2021,May,Murder and Nonnegligent Manslaughter,1,NA,0.7899999999999999,5
+2021,Jun,Murder and Nonnegligent Manslaughter,NA,NA,NA,6
+2021,Jul,Murder and Nonnegligent Manslaughter,NA,NA,NA,7
+2021,Aug,Murder and Nonnegligent Manslaughter,NA,NA,NA,8
+2021,Sep,Murder and Nonnegligent Manslaughter,NA,NA,NA,9
+2021,Oct,Murder and Nonnegligent Manslaughter,1,NA,0.7899999999999999,10
+2021,Nov,Murder and Nonnegligent Manslaughter,NA,NA,NA,11
+2021,Dec,Murder and Nonnegligent Manslaughter,NA,NA,NA,12
+2022,Jan,Murder and Nonnegligent Manslaughter,1,1,0.7799999999999999,1
+2022,Feb,Murder and Nonnegligent Manslaughter,1,1,0.7799999999999999,2
+2022,Mar,Murder and Nonnegligent Manslaughter,1,1,0.7799999999999999,3
+2022,Apr,Murder and Nonnegligent Manslaughter,NA,NA,NA,4
+2022,May,Murder and Nonnegligent Manslaughter,1,1,0.7799999999999999,5
+2022,Jun,Murder and Nonnegligent Manslaughter,NA,NA,NA,6
+2022,Jul,Murder and Nonnegligent Manslaughter,NA,NA,NA,7
+2022,Aug,Murder and Nonnegligent Manslaughter,1,1,0.7799999999999999,8
+2022,Sep,Murder and Nonnegligent Manslaughter,NA,NA,NA,9
+2022,Oct,Murder and Nonnegligent Manslaughter,2,2,1.56,10
+2022,Nov,Murder and Nonnegligent Manslaughter,3,3,2.3499999999999996,11
+2022,Dec,Murder and Nonnegligent Manslaughter,1,1,0.7799999999999999,12
+2023,Jan,Murder and Nonnegligent Manslaughter,1,1,0.77,1
+2023,Feb,Murder and Nonnegligent Manslaughter,NA,NA,NA,2
+2023,Mar,Murder and Nonnegligent Manslaughter,NA,NA,NA,3
+2023,Apr,Murder and Nonnegligent Manslaughter,NA,NA,NA,4
+2023,May,Murder and Nonnegligent Manslaughter,2,2,1.54,5
+2023,Jun,Murder and Nonnegligent Manslaughter,1,1,0.77,6
+2023,Jul,Murder and Nonnegligent Manslaughter,NA,NA,NA,7
+2023,Aug,Murder and Nonnegligent Manslaughter,NA,NA,NA,8
+2023,Sep,Murder and Nonnegligent Manslaughter,1,1,0.77,9
+2023,Oct,Murder and Nonnegligent Manslaughter,1,1,0.77,10
+2023,Nov,Murder and Nonnegligent Manslaughter,NA,NA,NA,11
+2023,Dec,Murder and Nonnegligent Manslaughter,1,1,0.77,12
+2024,Jan,Murder and Nonnegligent Manslaughter,1,1,0.77,1
+2024,Feb,Murder and Nonnegligent Manslaughter,1,1,0.77,2
+2024,Mar,Murder and Nonnegligent Manslaughter,2,1,1.54,3
+2024,Apr,Murder and Nonnegligent Manslaughter,2,2,1.54,4
+2024,May,Murder and Nonnegligent Manslaughter,4,4,3.09,5
+2024,Jun,Murder and Nonnegligent Manslaughter,NA,NA,NA,6
+2024,Jul,Murder and Nonnegligent Manslaughter,NA,NA,NA,7
+2024,Aug,Murder and Nonnegligent Manslaughter,NA,NA,NA,8
+2024,Sep,Murder and Nonnegligent Manslaughter,NA,NA,NA,9
+2024,Oct,Murder and Nonnegligent Manslaughter,2,2,1.54,10
+2024,Nov,Murder and Nonnegligent Manslaughter,1,1,0.77,11
+2024,Dec,Murder and Nonnegligent Manslaughter,NA,NA,NA,12
+2025,Jan,Murder and Nonnegligent Manslaughter,NA,NA,NA,1
+2025,Feb,Murder and Nonnegligent Manslaughter,1,1,0.77,2
+2025,Mar,Murder and Nonnegligent Manslaughter,NA,NA,NA,3
+2025,Apr,Murder and Nonnegligent Manslaughter,NA,NA,NA,4
+2025,May,Murder and Nonnegligent Manslaughter,1,NA,0.77,5
+2025,Jun,Murder and Nonnegligent Manslaughter,1,1,0.77,6
+2025,Jul,Murder and Nonnegligent Manslaughter,NA,NA,NA,7
+2025,Aug,Murder and Nonnegligent Manslaughter,NA,NA,NA,8
+2025,Sep,Murder and Nonnegligent Manslaughter,NA,NA,NA,9
+2021,Jan,Negligent Manslaughter,NA,NA,NA,1
+2021,Feb,Negligent Manslaughter,NA,NA,NA,2
+2021,Mar,Negligent Manslaughter,NA,NA,NA,3
+2021,Apr,Negligent Manslaughter,NA,NA,NA,4
+2021,May,Negligent Manslaughter,NA,NA,NA,5
+2021,Jun,Negligent Manslaughter,NA,NA,NA,6
+2021,Jul,Negligent Manslaughter,NA,NA,NA,7
+2021,Aug,Negligent Manslaughter,NA,NA,NA,8
+2021,Sep,Negligent Manslaughter,NA,NA,NA,9
+2021,Oct,Negligent Manslaughter,NA,NA,NA,10
+2021,Nov,Negligent Manslaughter,NA,NA,NA,11
+2021,Dec,Negligent Manslaughter,NA,NA,NA,12
+2022,Jan,Negligent Manslaughter,NA,NA,NA,1
+2022,Feb,Negligent Manslaughter,NA,NA,NA,2
+2022,Mar,Negligent Manslaughter,NA,NA,NA,3
+2022,Apr,Negligent Manslaughter,NA,NA,NA,4
+2022,May,Negligent Manslaughter,NA,NA,NA,5
+2022,Jun,Negligent Manslaughter,NA,NA,NA,6
+2022,Jul,Negligent Manslaughter,1,NA,0.7799999999999999,7
+2022,Aug,Negligent Manslaughter,NA,NA,NA,8
+2022,Sep,Negligent Manslaughter,NA,NA,NA,9
+2022,Oct,Negligent Manslaughter,NA,NA,NA,10
+2022,Nov,Negligent Manslaughter,NA,NA,NA,11
+2022,Dec,Negligent Manslaughter,NA,NA,NA,12
+2023,Jan,Negligent Manslaughter,NA,NA,NA,1
+2023,Feb,Negligent Manslaughter,NA,NA,NA,2
+2023,Mar,Negligent Manslaughter,NA,NA,NA,3
+2023,Apr,Negligent Manslaughter,NA,NA,NA,4
+2023,May,Negligent Manslaughter,2,1,1.54,5
+2023,Jun,Negligent Manslaughter,NA,NA,NA,6
+2023,Jul,Negligent Manslaughter,NA,NA,NA,7
+2023,Aug,Negligent Manslaughter,1,1,0.77,8
+2023,Sep,Negligent Manslaughter,NA,NA,NA,9
+2023,Oct,Negligent Manslaughter,NA,NA,NA,10
+2023,Nov,Negligent Manslaughter,NA,NA,NA,11
+2023,Dec,Negligent Manslaughter,NA,NA,NA,12
+2024,Jan,Negligent Manslaughter,NA,NA,NA,1
+2024,Feb,Negligent Manslaughter,NA,NA,NA,2
+2024,Mar,Negligent Manslaughter,NA,NA,NA,3
+2024,Apr,Negligent Manslaughter,NA,NA,NA,4
+2024,May,Negligent Manslaughter,NA,NA,NA,5
+2024,Jun,Negligent Manslaughter,NA,NA,NA,6
+2024,Jul,Negligent Manslaughter,NA,NA,NA,7
+2024,Aug,Negligent Manslaughter,2,2,1.54,8
+2024,Sep,Negligent Manslaughter,NA,NA,NA,9
+2024,Oct,Negligent Manslaughter,NA,NA,NA,10
+2024,Nov,Negligent Manslaughter,NA,NA,NA,11
+2024,Dec,Negligent Manslaughter,NA,NA,NA,12
+2025,Jan,Negligent Manslaughter,NA,NA,NA,1
+2025,Feb,Negligent Manslaughter,NA,NA,NA,2
+2025,Mar,Negligent Manslaughter,NA,NA,NA,3
+2025,Apr,Negligent Manslaughter,NA,NA,NA,4
+2025,May,Negligent Manslaughter,NA,NA,NA,5
+2025,Jun,Negligent Manslaughter,NA,NA,NA,6
+2025,Jul,Negligent Manslaughter,NA,NA,NA,7
+2025,Aug,Negligent Manslaughter,NA,NA,NA,8
+2025,Sep,Negligent Manslaughter,NA,NA,NA,9
+2021,Jan,Justifiable Homicide,NA,NA,NA,1
+2021,Feb,Justifiable Homicide,NA,NA,NA,2
+2021,Mar,Justifiable Homicide,NA,NA,NA,3
+2021,Apr,Justifiable Homicide,NA,NA,NA,4
+2021,May,Justifiable Homicide,NA,NA,NA,5
+2021,Jun,Justifiable Homicide,NA,NA,NA,6
+2021,Jul,Justifiable Homicide,NA,NA,NA,7
+2021,Aug,Justifiable Homicide,NA,NA,NA,8
+2021,Sep,Justifiable Homicide,NA,NA,NA,9
+2021,Oct,Justifiable Homicide,NA,NA,NA,10
+2021,Nov,Justifiable Homicide,NA,NA,NA,11
+2021,Dec,Justifiable Homicide,NA,NA,NA,12
+2022,Jan,Justifiable Homicide,NA,NA,NA,1
+2022,Feb,Justifiable Homicide,NA,NA,NA,2
+2022,Mar,Justifiable Homicide,NA,NA,NA,3
+2022,Apr,Justifiable Homicide,NA,NA,NA,4
+2022,May,Justifiable Homicide,NA,NA,NA,5
+2022,Jun,Justifiable Homicide,NA,NA,NA,6
+2022,Jul,Justifiable Homicide,NA,NA,NA,7
+2022,Aug,Justifiable Homicide,NA,NA,NA,8
+2022,Sep,Justifiable Homicide,NA,NA,NA,9
+2022,Oct,Justifiable Homicide,NA,NA,NA,10
+2022,Nov,Justifiable Homicide,NA,NA,NA,11
+2022,Dec,Justifiable Homicide,NA,NA,NA,12
+2023,Jan,Justifiable Homicide,NA,NA,NA,1
+2023,Feb,Justifiable Homicide,NA,NA,NA,2
+2023,Mar,Justifiable Homicide,NA,NA,NA,3
+2023,Apr,Justifiable Homicide,NA,NA,NA,4
+2023,May,Justifiable Homicide,NA,NA,NA,5
+2023,Jun,Justifiable Homicide,NA,NA,NA,6
+2023,Jul,Justifiable Homicide,NA,NA,NA,7
+2023,Aug,Justifiable Homicide,NA,NA,NA,8
+2023,Sep,Justifiable Homicide,NA,NA,NA,9
+2023,Oct,Justifiable Homicide,NA,NA,NA,10
+2023,Nov,Justifiable Homicide,NA,NA,NA,11
+2023,Dec,Justifiable Homicide,NA,NA,NA,12
+2024,Jan,Justifiable Homicide,NA,NA,NA,1
+2024,Feb,Justifiable Homicide,NA,NA,NA,2
+2024,Mar,Justifiable Homicide,NA,NA,NA,3
+2024,Apr,Justifiable Homicide,NA,NA,NA,4
+2024,May,Justifiable Homicide,NA,NA,NA,5
+2024,Jun,Justifiable Homicide,NA,NA,NA,6
+2024,Jul,Justifiable Homicide,NA,NA,NA,7
+2024,Aug,Justifiable Homicide,NA,NA,NA,8
+2024,Sep,Justifiable Homicide,NA,NA,NA,9
+2024,Oct,Justifiable Homicide,NA,NA,NA,10
+2024,Nov,Justifiable Homicide,NA,NA,NA,11
+2024,Dec,Justifiable Homicide,NA,NA,NA,12
+2025,Jan,Justifiable Homicide,NA,NA,NA,1
+2025,Feb,Justifiable Homicide,NA,NA,NA,2
+2025,Mar,Justifiable Homicide,NA,NA,NA,3
+2025,Apr,Justifiable Homicide,NA,NA,NA,4
+2025,May,Justifiable Homicide,NA,NA,NA,5
+2025,Jun,Justifiable Homicide,NA,NA,NA,6
+2025,Jul,Justifiable Homicide,NA,NA,NA,7
+2025,Aug,Justifiable Homicide,NA,NA,NA,8
+2025,Sep,Justifiable Homicide,NA,NA,NA,9
+2021,Jan,Kidnapping/Abduction,5,3,3.96,1
+2021,Feb,Kidnapping/Abduction,2,NA,1.58,2
+2021,Mar,Kidnapping/Abduction,6,5,4.75,3
+2021,Apr,Kidnapping/Abduction,1,1,0.7899999999999999,4
+2021,May,Kidnapping/Abduction,4,3,3.16,5
+2021,Jun,Kidnapping/Abduction,6,5,4.75,6
+2021,Jul,Kidnapping/Abduction,2,2,1.58,7
+2021,Aug,Kidnapping/Abduction,10,8,7.91,8
+2021,Sep,Kidnapping/Abduction,8,5,6.33,9
+2021,Oct,Kidnapping/Abduction,8,5,6.33,10
+2021,Nov,Kidnapping/Abduction,4,4,3.16,11
+2021,Dec,Kidnapping/Abduction,7,4,5.54,12
+2022,Jan,Kidnapping/Abduction,3,3,2.3499999999999996,1
+2022,Feb,Kidnapping/Abduction,6,5,4.6899999999999995,2
+2022,Mar,Kidnapping/Abduction,6,6,4.6899999999999995,3
+2022,Apr,Kidnapping/Abduction,4,4,3.13,4
+2022,May,Kidnapping/Abduction,3,2,2.3499999999999996,5
+2022,Jun,Kidnapping/Abduction,4,2,3.13,6
+2022,Jul,Kidnapping/Abduction,3,2,2.3499999999999996,7
+2022,Aug,Kidnapping/Abduction,5,4,3.91,8
+2022,Sep,Kidnapping/Abduction,6,6,4.6899999999999995,9
+2022,Oct,Kidnapping/Abduction,4,4,3.13,10
+2022,Nov,Kidnapping/Abduction,3,1,2.3499999999999996,11
+2022,Dec,Kidnapping/Abduction,3,3,2.3499999999999996,12
+2023,Jan,Kidnapping/Abduction,7,6,5.4,1
+2023,Feb,Kidnapping/Abduction,6,6,4.63,2
+2023,Mar,Kidnapping/Abduction,4,4,3.09,3
+2023,Apr,Kidnapping/Abduction,8,6,6.17,4
+2023,May,Kidnapping/Abduction,6,3,4.63,5
+2023,Jun,Kidnapping/Abduction,2,2,1.54,6
+2023,Jul,Kidnapping/Abduction,2,2,1.54,7
+2023,Aug,Kidnapping/Abduction,3,1,2.3099999999999996,8
+2023,Sep,Kidnapping/Abduction,4,2,3.09,9
+2023,Oct,Kidnapping/Abduction,3,2,2.3099999999999996,10
+2023,Nov,Kidnapping/Abduction,7,6,5.4,11
+2023,Dec,Kidnapping/Abduction,4,4,3.09,12
+2024,Jan,Kidnapping/Abduction,4,3,3.09,1
+2024,Feb,Kidnapping/Abduction,2,1,1.54,2
+2024,Mar,Kidnapping/Abduction,8,3,6.17,3
+2024,Apr,Kidnapping/Abduction,12,9,9.26,4
+2024,May,Kidnapping/Abduction,3,2,2.3099999999999996,5
+2024,Jun,Kidnapping/Abduction,2,1,1.54,6
+2024,Jul,Kidnapping/Abduction,5,2,3.86,7
+2024,Aug,Kidnapping/Abduction,2,1,1.54,8
+2024,Sep,Kidnapping/Abduction,8,7,6.17,9
+2024,Oct,Kidnapping/Abduction,7,5,5.4,10
+2024,Nov,Kidnapping/Abduction,2,1,1.54,11
+2024,Dec,Kidnapping/Abduction,7,5,5.4,12
+2025,Jan,Kidnapping/Abduction,5,5,3.86,1
+2025,Feb,Kidnapping/Abduction,4,2,3.09,2
+2025,Mar,Kidnapping/Abduction,3,1,2.3099999999999996,3
+2025,Apr,Kidnapping/Abduction,1,1,0.77,4
+2025,May,Kidnapping/Abduction,8,4,6.17,5
+2025,Jun,Kidnapping/Abduction,5,4,3.86,6
+2025,Jul,Kidnapping/Abduction,6,4,4.63,7
+2025,Aug,Kidnapping/Abduction,1,NA,0.77,8
+2025,Sep,Kidnapping/Abduction,NA,NA,NA,9
+2021,Jan,All Rape,19,5,15.03,1
+2021,Feb,All Rape,9,NA,7.119999999999999,2
+2021,Mar,All Rape,20,2,15.82,3
+2021,Apr,All Rape,12,NA,9.49,4
+2021,May,All Rape,12,1,9.49,5
+2021,Jun,All Rape,12,NA,9.49,6
+2021,Jul,All Rape,16,3,12.66,7
+2021,Aug,All Rape,16,1,12.66,8
+2021,Sep,All Rape,9,NA,7.119999999999999,9
+2021,Oct,All Rape,10,2,7.91,10
+2021,Nov,All Rape,11,1,8.7,11
+2021,Dec,All Rape,8,1,6.33,12
+2022,Jan,All Rape,9,3,7.04,1
+2022,Feb,All Rape,8,NA,6.26,2
+2022,Mar,All Rape,6,1,4.6899999999999995,3
+2022,Apr,All Rape,5,NA,3.91,4
+2022,May,All Rape,6,1,4.6899999999999995,5
+2022,Jun,All Rape,9,1,7.04,6
+2022,Jul,All Rape,5,1,3.91,7
+2022,Aug,All Rape,8,NA,6.26,8
+2022,Sep,All Rape,6,NA,4.6899999999999995,9
+2022,Oct,All Rape,9,2,7.04,10
+2022,Nov,All Rape,9,NA,7.04,11
+2022,Dec,All Rape,10,1,7.819999999999999,12
+2023,Jan,All Rape,4,NA,3.09,1
+2023,Feb,All Rape,4,NA,3.09,2
+2023,Mar,All Rape,8,NA,6.17,3
+2023,Apr,All Rape,9,2,6.94,4
+2023,May,All Rape,10,2,7.72,5
+2023,Jun,All Rape,7,NA,5.4,6
+2023,Jul,All Rape,9,NA,6.94,7
+2023,Aug,All Rape,7,NA,5.4,8
+2023,Sep,All Rape,12,NA,9.26,9
+2023,Oct,All Rape,8,NA,6.17,10
+2023,Nov,All Rape,2,NA,1.54,11
+2023,Dec,All Rape,2,NA,1.54,12
+2024,Jan,All Rape,4,1,3.09,1
+2024,Feb,All Rape,4,1,3.09,2
+2024,Mar,All Rape,1,NA,0.77,3
+2024,Apr,All Rape,3,1,2.3099999999999996,4
+2024,May,All Rape,NA,NA,NA,5
+2024,Jun,All Rape,7,1,5.4,6
+2024,Jul,All Rape,4,2,3.09,7
+2024,Aug,All Rape,3,1,2.3099999999999996,8
+2024,Sep,All Rape,10,2,7.72,9
+2024,Oct,All Rape,4,NA,3.09,10
+2024,Nov,All Rape,6,4,4.63,11
+2024,Dec,All Rape,4,2,3.09,12
+2025,Jan,All Rape,4,1,3.09,1
+2025,Feb,All Rape,3,NA,2.3099999999999996,2
+2025,Mar,All Rape,3,NA,2.3099999999999996,3
+2025,Apr,All Rape,3,NA,2.3099999999999996,4
+2025,May,All Rape,6,NA,4.63,5
+2025,Jun,All Rape,3,NA,2.3099999999999996,6
+2025,Jul,All Rape,4,NA,3.09,7
+2025,Aug,All Rape,1,NA,0.77,8
+2025,Sep,All Rape,NA,NA,NA,9
+2021,Jan,Rape,12,4,9.49,1
+2021,Feb,Rape,4,NA,3.16,2
+2021,Mar,Rape,13,1,10.28,3
+2021,Apr,Rape,6,NA,4.75,4
+2021,May,Rape,8,NA,6.33,5
+2021,Jun,Rape,7,NA,5.54,6
+2021,Jul,Rape,10,NA,7.91,7
+2021,Aug,Rape,12,1,9.49,8
+2021,Sep,Rape,4,NA,3.16,9
+2021,Oct,Rape,6,1,4.75,10
+2021,Nov,Rape,9,NA,7.119999999999999,11
+2021,Dec,Rape,6,1,4.75,12
+2022,Jan,Rape,5,NA,3.91,1
+2022,Feb,Rape,6,NA,4.6899999999999995,2
+2022,Mar,Rape,5,1,3.91,3
+2022,Apr,Rape,5,NA,3.91,4
+2022,May,Rape,6,1,4.6899999999999995,5
+2022,Jun,Rape,4,NA,3.13,6
+2022,Jul,Rape,3,1,2.3499999999999996,7
+2022,Aug,Rape,5,NA,3.91,8
+2022,Sep,Rape,2,NA,1.56,9
+2022,Oct,Rape,6,2,4.6899999999999995,10
+2022,Nov,Rape,7,NA,5.470000000000001,11
+2022,Dec,Rape,7,1,5.470000000000001,12
+2023,Jan,Rape,3,NA,2.3099999999999996,1
+2023,Feb,Rape,3,NA,2.3099999999999996,2
+2023,Mar,Rape,8,NA,6.17,3
+2023,Apr,Rape,7,2,5.4,4
+2023,May,Rape,6,2,4.63,5
+2023,Jun,Rape,6,NA,4.63,6
+2023,Jul,Rape,7,NA,5.4,7
+2023,Aug,Rape,5,NA,3.86,8
+2023,Sep,Rape,7,NA,5.4,9
+2023,Oct,Rape,6,NA,4.63,10
+2023,Nov,Rape,2,NA,1.54,11
+2023,Dec,Rape,1,NA,0.77,12
+2024,Jan,Rape,NA,NA,NA,1
+2024,Feb,Rape,3,1,2.3099999999999996,2
+2024,Mar,Rape,1,NA,0.77,3
+2024,Apr,Rape,2,1,1.54,4
+2024,May,Rape,NA,NA,NA,5
+2024,Jun,Rape,6,1,4.63,6
+2024,Jul,Rape,4,2,3.09,7
+2024,Aug,Rape,2,1,1.54,8
+2024,Sep,Rape,8,2,6.17,9
+2024,Oct,Rape,3,NA,2.3099999999999996,10
+2024,Nov,Rape,5,4,3.86,11
+2024,Dec,Rape,2,1,1.54,12
+2025,Jan,Rape,2,1,1.54,1
+2025,Feb,Rape,3,NA,2.3099999999999996,2
+2025,Mar,Rape,3,NA,2.3099999999999996,3
+2025,Apr,Rape,2,NA,1.54,4
+2025,May,Rape,5,NA,3.86,5
+2025,Jun,Rape,2,NA,1.54,6
+2025,Jul,Rape,4,NA,3.09,7
+2025,Aug,Rape,1,NA,0.77,8
+2025,Sep,Rape,NA,NA,NA,9
+2021,Jan,Sodomy,6,1,4.75,1
+2021,Feb,Sodomy,6,NA,4.75,2
+2021,Mar,Sodomy,7,1,5.54,3
+2021,Apr,Sodomy,6,NA,4.75,4
+2021,May,Sodomy,5,1,3.96,5
+2021,Jun,Sodomy,4,NA,3.16,6
+2021,Jul,Sodomy,6,3,4.75,7
+2021,Aug,Sodomy,3,NA,2.3699999999999997,8
+2021,Sep,Sodomy,4,NA,3.16,9
+2021,Oct,Sodomy,4,1,3.16,10
+2021,Nov,Sodomy,5,1,3.96,11
+2021,Dec,Sodomy,2,NA,1.58,12
+2022,Jan,Sodomy,4,3,3.13,1
+2022,Feb,Sodomy,1,NA,0.7799999999999999,2
+2022,Mar,Sodomy,1,NA,0.7799999999999999,3
+2022,Apr,Sodomy,NA,NA,NA,4
+2022,May,Sodomy,NA,NA,NA,5
+2022,Jun,Sodomy,5,1,3.91,6
+2022,Jul,Sodomy,4,1,3.13,7
+2022,Aug,Sodomy,5,NA,3.91,8
+2022,Sep,Sodomy,4,NA,3.13,9
+2022,Oct,Sodomy,3,NA,2.3499999999999996,10
+2022,Nov,Sodomy,2,NA,1.56,11
+2022,Dec,Sodomy,2,NA,1.56,12
+2023,Jan,Sodomy,1,NA,0.77,1
+2023,Feb,Sodomy,NA,NA,NA,2
+2023,Mar,Sodomy,1,NA,0.77,3
+2023,Apr,Sodomy,2,NA,1.54,4
+2023,May,Sodomy,3,1,2.3099999999999996,5
+2023,Jun,Sodomy,1,NA,0.77,6
+2023,Jul,Sodomy,2,NA,1.54,7
+2023,Aug,Sodomy,1,NA,0.77,8
+2023,Sep,Sodomy,5,NA,3.86,9
+2023,Oct,Sodomy,1,NA,0.77,10
+2023,Nov,Sodomy,NA,NA,NA,11
+2023,Dec,Sodomy,1,NA,0.77,12
+2024,Jan,Sodomy,3,1,2.3099999999999996,1
+2024,Feb,Sodomy,NA,NA,NA,2
+2024,Mar,Sodomy,NA,NA,NA,3
+2024,Apr,Sodomy,1,NA,0.77,4
+2024,May,Sodomy,NA,NA,NA,5
+2024,Jun,Sodomy,1,NA,0.77,6
+2024,Jul,Sodomy,NA,NA,NA,7
+2024,Aug,Sodomy,NA,NA,NA,8
+2024,Sep,Sodomy,2,NA,1.54,9
+2024,Oct,Sodomy,1,NA,0.77,10
+2024,Nov,Sodomy,1,NA,0.77,11
+2024,Dec,Sodomy,2,1,1.54,12
+2025,Jan,Sodomy,1,NA,0.77,1
+2025,Feb,Sodomy,NA,NA,NA,2
+2025,Mar,Sodomy,NA,NA,NA,3
+2025,Apr,Sodomy,1,NA,0.77,4
+2025,May,Sodomy,1,NA,0.77,5
+2025,Jun,Sodomy,1,NA,0.77,6
+2025,Jul,Sodomy,NA,NA,NA,7
+2025,Aug,Sodomy,NA,NA,NA,8
+2025,Sep,Sodomy,NA,NA,NA,9
+2021,Jan,Sexual Assault With An Object,1,NA,0.7899999999999999,1
+2021,Feb,Sexual Assault With An Object,NA,NA,NA,2
+2021,Mar,Sexual Assault With An Object,1,NA,0.7899999999999999,3
+2021,Apr,Sexual Assault With An Object,NA,NA,NA,4
+2021,May,Sexual Assault With An Object,NA,NA,NA,5
+2021,Jun,Sexual Assault With An Object,2,NA,1.58,6
+2021,Jul,Sexual Assault With An Object,NA,NA,NA,7
+2021,Aug,Sexual Assault With An Object,1,NA,0.7899999999999999,8
+2021,Sep,Sexual Assault With An Object,1,NA,0.7899999999999999,9
+2021,Oct,Sexual Assault With An Object,NA,NA,NA,10
+2021,Nov,Sexual Assault With An Object,NA,NA,NA,11
+2021,Dec,Sexual Assault With An Object,NA,NA,NA,12
+2022,Jan,Sexual Assault With An Object,NA,NA,NA,1
+2022,Feb,Sexual Assault With An Object,1,NA,0.7799999999999999,2
+2022,Mar,Sexual Assault With An Object,NA,NA,NA,3
+2022,Apr,Sexual Assault With An Object,NA,NA,NA,4
+2022,May,Sexual Assault With An Object,NA,NA,NA,5
+2022,Jun,Sexual Assault With An Object,NA,NA,NA,6
+2022,Jul,Sexual Assault With An Object,NA,NA,NA,7
+2022,Aug,Sexual Assault With An Object,NA,NA,NA,8
+2022,Sep,Sexual Assault With An Object,NA,NA,NA,9
+2022,Oct,Sexual Assault With An Object,NA,NA,NA,10
+2022,Nov,Sexual Assault With An Object,NA,NA,NA,11
+2022,Dec,Sexual Assault With An Object,1,NA,0.7799999999999999,12
+2023,Jan,Sexual Assault With An Object,1,NA,0.77,1
+2023,Feb,Sexual Assault With An Object,1,NA,0.77,2
+2023,Mar,Sexual Assault With An Object,NA,NA,NA,3
+2023,Apr,Sexual Assault With An Object,NA,NA,NA,4
+2023,May,Sexual Assault With An Object,2,NA,1.54,5
+2023,Jun,Sexual Assault With An Object,NA,NA,NA,6
+2023,Jul,Sexual Assault With An Object,NA,NA,NA,7
+2023,Aug,Sexual Assault With An Object,1,NA,0.77,8
+2023,Sep,Sexual Assault With An Object,NA,NA,NA,9
+2023,Oct,Sexual Assault With An Object,1,NA,0.77,10
+2023,Nov,Sexual Assault With An Object,NA,NA,NA,11
+2023,Dec,Sexual Assault With An Object,NA,NA,NA,12
+2024,Jan,Sexual Assault With An Object,1,NA,0.77,1
+2024,Feb,Sexual Assault With An Object,1,NA,0.77,2
+2024,Mar,Sexual Assault With An Object,NA,NA,NA,3
+2024,Apr,Sexual Assault With An Object,NA,NA,NA,4
+2024,May,Sexual Assault With An Object,NA,NA,NA,5
+2024,Jun,Sexual Assault With An Object,NA,NA,NA,6
+2024,Jul,Sexual Assault With An Object,NA,NA,NA,7
+2024,Aug,Sexual Assault With An Object,1,NA,0.77,8
+2024,Sep,Sexual Assault With An Object,1,NA,0.77,9
+2024,Oct,Sexual Assault With An Object,NA,NA,NA,10
+2024,Nov,Sexual Assault With An Object,NA,NA,NA,11
+2024,Dec,Sexual Assault With An Object,NA,NA,NA,12
+2025,Jan,Sexual Assault With An Object,1,NA,0.77,1
+2025,Feb,Sexual Assault With An Object,NA,NA,NA,2
+2025,Mar,Sexual Assault With An Object,NA,NA,NA,3
+2025,Apr,Sexual Assault With An Object,NA,NA,NA,4
+2025,May,Sexual Assault With An Object,NA,NA,NA,5
+2025,Jun,Sexual Assault With An Object,NA,NA,NA,6
+2025,Jul,Sexual Assault With An Object,NA,NA,NA,7
+2025,Aug,Sexual Assault With An Object,NA,NA,NA,8
+2025,Sep,Sexual Assault With An Object,NA,NA,NA,9
+2021,Jan,Criminal Sexual Contact,5,1,3.96,1
+2021,Feb,Criminal Sexual Contact,7,2,5.54,2
+2021,Mar,Criminal Sexual Contact,6,NA,4.75,3
+2021,Apr,Criminal Sexual Contact,5,1,3.96,4
+2021,May,Criminal Sexual Contact,5,1,3.96,5
+2021,Jun,Criminal Sexual Contact,5,NA,3.96,6
+2021,Jul,Criminal Sexual Contact,6,NA,4.75,7
+2021,Aug,Criminal Sexual Contact,12,NA,9.49,8
+2021,Sep,Criminal Sexual Contact,6,NA,4.75,9
+2021,Oct,Criminal Sexual Contact,3,NA,2.3699999999999997,10
+2021,Nov,Criminal Sexual Contact,4,NA,3.16,11
+2021,Dec,Criminal Sexual Contact,9,NA,7.119999999999999,12
+2022,Jan,Criminal Sexual Contact,6,NA,4.6899999999999995,1
+2022,Feb,Criminal Sexual Contact,10,NA,7.819999999999999,2
+2022,Mar,Criminal Sexual Contact,10,NA,7.819999999999999,3
+2022,Apr,Criminal Sexual Contact,7,2,5.470000000000001,4
+2022,May,Criminal Sexual Contact,8,1,6.26,5
+2022,Jun,Criminal Sexual Contact,5,NA,3.91,6
+2022,Jul,Criminal Sexual Contact,4,NA,3.13,7
+2022,Aug,Criminal Sexual Contact,5,1,3.91,8
+2022,Sep,Criminal Sexual Contact,5,NA,3.91,9
+2022,Oct,Criminal Sexual Contact,6,1,4.6899999999999995,10
+2022,Nov,Criminal Sexual Contact,3,2,2.3499999999999996,11
+2022,Dec,Criminal Sexual Contact,4,1,3.13,12
+2023,Jan,Criminal Sexual Contact,10,NA,7.72,1
+2023,Feb,Criminal Sexual Contact,4,NA,3.09,2
+2023,Mar,Criminal Sexual Contact,10,3,7.72,3
+2023,Apr,Criminal Sexual Contact,4,NA,3.09,4
+2023,May,Criminal Sexual Contact,6,1,4.63,5
+2023,Jun,Criminal Sexual Contact,10,1,7.72,6
+2023,Jul,Criminal Sexual Contact,5,NA,3.86,7
+2023,Aug,Criminal Sexual Contact,3,NA,2.3099999999999996,8
+2023,Sep,Criminal Sexual Contact,9,NA,6.94,9
+2023,Oct,Criminal Sexual Contact,5,1,3.86,10
+2023,Nov,Criminal Sexual Contact,4,NA,3.09,11
+2023,Dec,Criminal Sexual Contact,6,1,4.63,12
+2024,Jan,Criminal Sexual Contact,1,NA,0.77,1
+2024,Feb,Criminal Sexual Contact,1,NA,0.77,2
+2024,Mar,Criminal Sexual Contact,NA,NA,NA,3
+2024,Apr,Criminal Sexual Contact,NA,NA,NA,4
+2024,May,Criminal Sexual Contact,NA,NA,NA,5
+2024,Jun,Criminal Sexual Contact,1,NA,0.77,6
+2024,Jul,Criminal Sexual Contact,4,NA,3.09,7
+2024,Aug,Criminal Sexual Contact,1,1,0.77,8
+2024,Sep,Criminal Sexual Contact,NA,NA,NA,9
+2024,Oct,Criminal Sexual Contact,1,NA,0.77,10
+2024,Nov,Criminal Sexual Contact,4,1,3.09,11
+2024,Dec,Criminal Sexual Contact,1,NA,0.77,12
+2025,Jan,Criminal Sexual Contact,1,NA,0.77,1
+2025,Feb,Criminal Sexual Contact,1,NA,0.77,2
+2025,Mar,Criminal Sexual Contact,NA,NA,NA,3
+2025,Apr,Criminal Sexual Contact,1,NA,0.77,4
+2025,May,Criminal Sexual Contact,2,2,1.54,5
+2025,Jun,Criminal Sexual Contact,1,NA,0.77,6
+2025,Jul,Criminal Sexual Contact,4,NA,3.09,7
+2025,Aug,Criminal Sexual Contact,NA,NA,NA,8
+2025,Sep,Criminal Sexual Contact,NA,NA,NA,9
+2021,Jan,Incest,NA,NA,NA,1
+2021,Feb,Incest,NA,NA,NA,2
+2021,Mar,Incest,NA,NA,NA,3
+2021,Apr,Incest,NA,NA,NA,4
+2021,May,Incest,NA,NA,NA,5
+2021,Jun,Incest,NA,NA,NA,6
+2021,Jul,Incest,NA,NA,NA,7
+2021,Aug,Incest,NA,NA,NA,8
+2021,Sep,Incest,NA,NA,NA,9
+2021,Oct,Incest,NA,NA,NA,10
+2021,Nov,Incest,NA,NA,NA,11
+2021,Dec,Incest,NA,NA,NA,12
+2022,Jan,Incest,NA,NA,NA,1
+2022,Feb,Incest,NA,NA,NA,2
+2022,Mar,Incest,NA,NA,NA,3
+2022,Apr,Incest,NA,NA,NA,4
+2022,May,Incest,NA,NA,NA,5
+2022,Jun,Incest,NA,NA,NA,6
+2022,Jul,Incest,NA,NA,NA,7
+2022,Aug,Incest,NA,NA,NA,8
+2022,Sep,Incest,NA,NA,NA,9
+2022,Oct,Incest,NA,NA,NA,10
+2022,Nov,Incest,NA,NA,NA,11
+2022,Dec,Incest,NA,NA,NA,12
+2023,Jan,Incest,NA,NA,NA,1
+2023,Feb,Incest,1,NA,0.77,2
+2023,Mar,Incest,NA,NA,NA,3
+2023,Apr,Incest,NA,NA,NA,4
+2023,May,Incest,NA,NA,NA,5
+2023,Jun,Incest,NA,NA,NA,6
+2023,Jul,Incest,NA,NA,NA,7
+2023,Aug,Incest,NA,NA,NA,8
+2023,Sep,Incest,NA,NA,NA,9
+2023,Oct,Incest,NA,NA,NA,10
+2023,Nov,Incest,NA,NA,NA,11
+2023,Dec,Incest,NA,NA,NA,12
+2024,Jan,Incest,NA,NA,NA,1
+2024,Feb,Incest,NA,NA,NA,2
+2024,Mar,Incest,NA,NA,NA,3
+2024,Apr,Incest,NA,NA,NA,4
+2024,May,Incest,NA,NA,NA,5
+2024,Jun,Incest,NA,NA,NA,6
+2024,Jul,Incest,NA,NA,NA,7
+2024,Aug,Incest,NA,NA,NA,8
+2024,Sep,Incest,NA,NA,NA,9
+2024,Oct,Incest,NA,NA,NA,10
+2024,Nov,Incest,NA,NA,NA,11
+2024,Dec,Incest,NA,NA,NA,12
+2025,Jan,Incest,1,NA,0.77,1
+2025,Feb,Incest,NA,NA,NA,2
+2025,Mar,Incest,NA,NA,NA,3
+2025,Apr,Incest,NA,NA,NA,4
+2025,May,Incest,NA,NA,NA,5
+2025,Jun,Incest,NA,NA,NA,6
+2025,Jul,Incest,NA,NA,NA,7
+2025,Aug,Incest,NA,NA,NA,8
+2025,Sep,Incest,NA,NA,NA,9
+2021,Jan,Statutory Rape,1,NA,0.7899999999999999,1
+2021,Feb,Statutory Rape,1,NA,0.7899999999999999,2
+2021,Mar,Statutory Rape,2,NA,1.58,3
+2021,Apr,Statutory Rape,1,NA,0.7899999999999999,4
+2021,May,Statutory Rape,NA,NA,NA,5
+2021,Jun,Statutory Rape,1,NA,0.7899999999999999,6
+2021,Jul,Statutory Rape,NA,NA,NA,7
+2021,Aug,Statutory Rape,NA,NA,NA,8
+2021,Sep,Statutory Rape,1,NA,0.7899999999999999,9
+2021,Oct,Statutory Rape,1,NA,0.7899999999999999,10
+2021,Nov,Statutory Rape,NA,NA,NA,11
+2021,Dec,Statutory Rape,NA,NA,NA,12
+2022,Jan,Statutory Rape,2,NA,1.56,1
+2022,Feb,Statutory Rape,NA,NA,NA,2
+2022,Mar,Statutory Rape,2,NA,1.56,3
+2022,Apr,Statutory Rape,3,NA,2.3499999999999996,4
+2022,May,Statutory Rape,2,NA,1.56,5
+2022,Jun,Statutory Rape,NA,NA,NA,6
+2022,Jul,Statutory Rape,NA,NA,NA,7
+2022,Aug,Statutory Rape,NA,NA,NA,8
+2022,Sep,Statutory Rape,NA,NA,NA,9
+2022,Oct,Statutory Rape,2,NA,1.56,10
+2022,Nov,Statutory Rape,NA,NA,NA,11
+2022,Dec,Statutory Rape,1,NA,0.7799999999999999,12
+2023,Jan,Statutory Rape,NA,NA,NA,1
+2023,Feb,Statutory Rape,NA,NA,NA,2
+2023,Mar,Statutory Rape,1,NA,0.77,3
+2023,Apr,Statutory Rape,1,NA,0.77,4
+2023,May,Statutory Rape,1,1,0.77,5
+2023,Jun,Statutory Rape,NA,NA,NA,6
+2023,Jul,Statutory Rape,NA,NA,NA,7
+2023,Aug,Statutory Rape,NA,NA,NA,8
+2023,Sep,Statutory Rape,1,NA,0.77,9
+2023,Oct,Statutory Rape,1,NA,0.77,10
+2023,Nov,Statutory Rape,1,NA,0.77,11
+2023,Dec,Statutory Rape,NA,NA,NA,12
+2024,Jan,Statutory Rape,2,2,1.54,1
+2024,Feb,Statutory Rape,NA,NA,NA,2
+2024,Mar,Statutory Rape,NA,NA,NA,3
+2024,Apr,Statutory Rape,NA,NA,NA,4
+2024,May,Statutory Rape,NA,NA,NA,5
+2024,Jun,Statutory Rape,NA,NA,NA,6
+2024,Jul,Statutory Rape,NA,NA,NA,7
+2024,Aug,Statutory Rape,NA,NA,NA,8
+2024,Sep,Statutory Rape,1,NA,0.77,9
+2024,Oct,Statutory Rape,1,NA,0.77,10
+2024,Nov,Statutory Rape,1,NA,0.77,11
+2024,Dec,Statutory Rape,NA,NA,NA,12
+2025,Jan,Statutory Rape,1,NA,0.77,1
+2025,Feb,Statutory Rape,NA,NA,NA,2
+2025,Mar,Statutory Rape,NA,NA,NA,3
+2025,Apr,Statutory Rape,NA,NA,NA,4
+2025,May,Statutory Rape,2,1,1.54,5
+2025,Jun,Statutory Rape,NA,NA,NA,6
+2025,Jul,Statutory Rape,2,1,1.54,7
+2025,Aug,Statutory Rape,NA,NA,NA,8
+2025,Sep,Statutory Rape,NA,NA,NA,9
+2021,Jan,Aggravated Assault,26,13,20.57,1
+2021,Feb,Aggravated Assault,25,14,19.78,2
+2021,Mar,Aggravated Assault,48,34,37.97,3
+2021,Apr,Aggravated Assault,39,12,30.85,4
+2021,May,Aggravated Assault,35,14,27.69,5
+2021,Jun,Aggravated Assault,34,20,26.89,6
+2021,Jul,Aggravated Assault,38,27,30.06,7
+2021,Aug,Aggravated Assault,36,19,28.479999999999997,8
+2021,Sep,Aggravated Assault,39,19,30.85,9
+2021,Oct,Aggravated Assault,49,8,38.760000000000005,10
+2021,Nov,Aggravated Assault,41,20,32.43,11
+2021,Dec,Aggravated Assault,24,16,18.979999999999997,12
+2022,Jan,Aggravated Assault,24,9,18.77,1
+2022,Feb,Aggravated Assault,37,34,28.94,2
+2022,Mar,Aggravated Assault,39,23,30.5,3
+2022,Apr,Aggravated Assault,57,23,44.58,4
+2022,May,Aggravated Assault,36,21,28.16,5
+2022,Jun,Aggravated Assault,28,14,21.9,6
+2022,Jul,Aggravated Assault,47,17,36.760000000000005,7
+2022,Aug,Aggravated Assault,35,18,27.37,8
+2022,Sep,Aggravated Assault,44,24,34.41,9
+2022,Oct,Aggravated Assault,39,15,30.5,10
+2022,Nov,Aggravated Assault,37,15,28.94,11
+2022,Dec,Aggravated Assault,20,8,15.64,12
+2023,Jan,Aggravated Assault,22,13,16.979999999999997,1
+2023,Feb,Aggravated Assault,19,6,14.66,2
+2023,Mar,Aggravated Assault,41,22,31.64,3
+2023,Apr,Aggravated Assault,36,16,27.78,4
+2023,May,Aggravated Assault,58,35,44.75,5
+2023,Jun,Aggravated Assault,33,16,25.459999999999997,6
+2023,Jul,Aggravated Assault,28,11,21.6,7
+2023,Aug,Aggravated Assault,42,23,32.41,8
+2023,Sep,Aggravated Assault,33,12,25.459999999999997,9
+2023,Oct,Aggravated Assault,25,7,19.29,10
+2023,Nov,Aggravated Assault,24,11,18.52,11
+2023,Dec,Aggravated Assault,17,4,13.12,12
+2024,Jan,Aggravated Assault,20,13,15.43,1
+2024,Feb,Aggravated Assault,23,13,17.75,2
+2024,Mar,Aggravated Assault,16,9,12.35,3
+2024,Apr,Aggravated Assault,26,11,20.06,4
+2024,May,Aggravated Assault,42,25,32.41,5
+2024,Jun,Aggravated Assault,33,19,25.459999999999997,6
+2024,Jul,Aggravated Assault,37,20,28.55,7
+2024,Aug,Aggravated Assault,46,25,35.49,8
+2024,Sep,Aggravated Assault,26,15,20.06,9
+2024,Oct,Aggravated Assault,32,18,24.69,10
+2024,Nov,Aggravated Assault,33,20,25.459999999999997,11
+2024,Dec,Aggravated Assault,23,13,17.75,12
+2025,Jan,Aggravated Assault,25,16,19.29,1
+2025,Feb,Aggravated Assault,18,16,13.89,2
+2025,Mar,Aggravated Assault,14,5,10.8,3
+2025,Apr,Aggravated Assault,48,29,37.04,4
+2025,May,Aggravated Assault,46,30,35.49,5
+2025,Jun,Aggravated Assault,30,15,23.15,6
+2025,Jul,Aggravated Assault,26,12,20.06,7
+2025,Aug,Aggravated Assault,2,1,1.54,8
+2025,Sep,Aggravated Assault,NA,NA,NA,9
+2021,Jan,Simple Assault,123,52,97.3,1
+2021,Feb,Simple Assault,116,43,91.76,2
+2021,Mar,Simple Assault,139,50,109.95,3
+2021,Apr,Simple Assault,146,59,115.49,4
+2021,May,Simple Assault,166,60,131.31,5
+2021,Jun,Simple Assault,144,65,113.91,6
+2021,Jul,Simple Assault,149,62,117.86,7
+2021,Aug,Simple Assault,128,45,101.25,8
+2021,Sep,Simple Assault,179,76,141.59,9
+2021,Oct,Simple Assault,166,57,131.31,10
+2021,Nov,Simple Assault,152,52,120.24,11
+2021,Dec,Simple Assault,124,35,98.09,12
+2022,Jan,Simple Assault,144,71,112.62,1
+2022,Feb,Simple Assault,130,40,101.67,2
+2022,Mar,Simple Assault,163,69,127.48,3
+2022,Apr,Simple Assault,122,46,95.42,4
+2022,May,Simple Assault,161,65,125.92,5
+2022,Jun,Simple Assault,169,66,132.17,6
+2022,Jul,Simple Assault,176,66,137.65,7
+2022,Aug,Simple Assault,152,67,118.88,8
+2022,Sep,Simple Assault,161,67,125.92,9
+2022,Oct,Simple Assault,188,78,147.03,10
+2022,Nov,Simple Assault,156,67,122.01,11
+2022,Dec,Simple Assault,114,61,89.16,12
+2023,Jan,Simple Assault,183,72,141.2,1
+2023,Feb,Simple Assault,135,55,104.17,2
+2023,Mar,Simple Assault,131,72,101.08,3
+2023,Apr,Simple Assault,160,66,123.45,4
+2023,May,Simple Assault,182,87,140.43,5
+2023,Jun,Simple Assault,117,57,90.28,6
+2023,Jul,Simple Assault,132,49,101.85,7
+2023,Aug,Simple Assault,158,59,121.91,8
+2023,Sep,Simple Assault,165,74,127.31,9
+2023,Oct,Simple Assault,177,80,136.57,10
+2023,Nov,Simple Assault,113,44,87.19,11
+2023,Dec,Simple Assault,122,48,94.13,12
+2024,Jan,Simple Assault,102,40,78.7,1
+2024,Feb,Simple Assault,138,70,106.48,2
+2024,Mar,Simple Assault,146,56,112.65,3
+2024,Apr,Simple Assault,155,71,119.6,4
+2024,May,Simple Assault,136,71,104.94,5
+2024,Jun,Simple Assault,149,51,114.97,6
+2024,Jul,Simple Assault,136,49,104.94,7
+2024,Aug,Simple Assault,183,66,141.2,8
+2024,Sep,Simple Assault,175,83,135.03,9
+2024,Oct,Simple Assault,165,75,127.31,10
+2024,Nov,Simple Assault,133,48,102.62,11
+2024,Dec,Simple Assault,134,56,103.39,12
+2025,Jan,Simple Assault,140,71,108.02,1
+2025,Feb,Simple Assault,107,51,82.56,2
+2025,Mar,Simple Assault,168,99,129.63,3
+2025,Apr,Simple Assault,127,74,97.99,4
+2025,May,Simple Assault,145,74,111.88,5
+2025,Jun,Simple Assault,119,56,91.82,6
+2025,Jul,Simple Assault,123,30,94.91,7
+2025,Aug,Simple Assault,19,7,14.66,8
+2025,Sep,Simple Assault,NA,NA,NA,9
+2021,Jan,Intimidation,11,4,8.7,1
+2021,Feb,Intimidation,14,5,11.07,2
+2021,Mar,Intimidation,7,3,5.54,3
+2021,Apr,Intimidation,10,2,7.91,4
+2021,May,Intimidation,13,5,10.28,5
+2021,Jun,Intimidation,15,5,11.87,6
+2021,Jul,Intimidation,12,6,9.49,7
+2021,Aug,Intimidation,8,4,6.33,8
+2021,Sep,Intimidation,17,6,13.45,9
+2021,Oct,Intimidation,13,2,10.28,10
+2021,Nov,Intimidation,17,7,13.45,11
+2021,Dec,Intimidation,5,1,3.96,12
+2022,Jan,Intimidation,13,2,10.17,1
+2022,Feb,Intimidation,14,2,10.95,2
+2022,Mar,Intimidation,9,7,7.04,3
+2022,Apr,Intimidation,7,NA,5.470000000000001,4
+2022,May,Intimidation,116,102,90.72,5
+2022,Jun,Intimidation,8,5,6.26,6
+2022,Jul,Intimidation,15,5,11.73,7
+2022,Aug,Intimidation,15,8,11.73,8
+2022,Sep,Intimidation,23,13,17.99,9
+2022,Oct,Intimidation,16,5,12.51,10
+2022,Nov,Intimidation,12,7,9.39,11
+2022,Dec,Intimidation,7,3,5.470000000000001,12
+2023,Jan,Intimidation,9,5,6.94,1
+2023,Feb,Intimidation,20,8,15.43,2
+2023,Mar,Intimidation,15,8,11.57,3
+2023,Apr,Intimidation,7,NA,5.4,4
+2023,May,Intimidation,20,11,15.43,5
+2023,Jun,Intimidation,12,3,9.26,6
+2023,Jul,Intimidation,15,4,11.57,7
+2023,Aug,Intimidation,10,5,7.72,8
+2023,Sep,Intimidation,11,2,8.49,9
+2023,Oct,Intimidation,7,4,5.4,10
+2023,Nov,Intimidation,8,2,6.17,11
+2023,Dec,Intimidation,14,5,10.8,12
+2024,Jan,Intimidation,4,2,3.09,1
+2024,Feb,Intimidation,11,7,8.49,2
+2024,Mar,Intimidation,14,5,10.8,3
+2024,Apr,Intimidation,13,6,10.03,4
+2024,May,Intimidation,18,6,13.89,5
+2024,Jun,Intimidation,17,5,13.12,6
+2024,Jul,Intimidation,26,15,20.06,7
+2024,Aug,Intimidation,16,7,12.35,8
+2024,Sep,Intimidation,23,14,17.75,9
+2024,Oct,Intimidation,30,10,23.15,10
+2024,Nov,Intimidation,14,6,10.8,11
+2024,Dec,Intimidation,14,5,10.8,12
+2025,Jan,Intimidation,16,4,12.35,1
+2025,Feb,Intimidation,17,6,13.12,2
+2025,Mar,Intimidation,31,9,23.92,3
+2025,Apr,Intimidation,23,6,17.75,4
+2025,May,Intimidation,23,10,17.75,5
+2025,Jun,Intimidation,16,7,12.35,6
+2025,Jul,Intimidation,26,13,20.06,7
+2025,Aug,Intimidation,4,1,3.09,8
+2025,Sep,Intimidation,NA,NA,NA,9
+2021,Jan,"Human Trafficking, Commercial Sex Acts",NA,NA,NA,1
+2021,Feb,"Human Trafficking, Commercial Sex Acts",NA,NA,NA,2
+2021,Mar,"Human Trafficking, Commercial Sex Acts",NA,NA,NA,3
+2021,Apr,"Human Trafficking, Commercial Sex Acts",NA,NA,NA,4
+2021,May,"Human Trafficking, Commercial Sex Acts",9,NA,7.119999999999999,5
+2021,Jun,"Human Trafficking, Commercial Sex Acts",NA,NA,NA,6
+2021,Jul,"Human Trafficking, Commercial Sex Acts",NA,NA,NA,7
+2021,Aug,"Human Trafficking, Commercial Sex Acts",NA,NA,NA,8
+2021,Sep,"Human Trafficking, Commercial Sex Acts",NA,NA,NA,9
+2021,Oct,"Human Trafficking, Commercial Sex Acts",NA,NA,NA,10
+2021,Nov,"Human Trafficking, Commercial Sex Acts",1,NA,0.7899999999999999,11
+2021,Dec,"Human Trafficking, Commercial Sex Acts",NA,NA,NA,12
+2022,Jan,"Human Trafficking, Commercial Sex Acts",NA,NA,NA,1
+2022,Feb,"Human Trafficking, Commercial Sex Acts",NA,NA,NA,2
+2022,Mar,"Human Trafficking, Commercial Sex Acts",NA,NA,NA,3
+2022,Apr,"Human Trafficking, Commercial Sex Acts",NA,NA,NA,4
+2022,May,"Human Trafficking, Commercial Sex Acts",NA,NA,NA,5
+2022,Jun,"Human Trafficking, Commercial Sex Acts",NA,NA,NA,6
+2022,Jul,"Human Trafficking, Commercial Sex Acts",NA,NA,NA,7
+2022,Aug,"Human Trafficking, Commercial Sex Acts",NA,NA,NA,8
+2022,Sep,"Human Trafficking, Commercial Sex Acts",NA,NA,NA,9
+2022,Oct,"Human Trafficking, Commercial Sex Acts",NA,NA,NA,10
+2022,Nov,"Human Trafficking, Commercial Sex Acts",NA,NA,NA,11
+2022,Dec,"Human Trafficking, Commercial Sex Acts",NA,NA,NA,12
+2023,Jan,"Human Trafficking, Commercial Sex Acts",NA,NA,NA,1
+2023,Feb,"Human Trafficking, Commercial Sex Acts",NA,NA,NA,2
+2023,Mar,"Human Trafficking, Commercial Sex Acts",NA,NA,NA,3
+2023,Apr,"Human Trafficking, Commercial Sex Acts",NA,NA,NA,4
+2023,May,"Human Trafficking, Commercial Sex Acts",NA,NA,NA,5
+2023,Jun,"Human Trafficking, Commercial Sex Acts",NA,NA,NA,6
+2023,Jul,"Human Trafficking, Commercial Sex Acts",1,NA,0.77,7
+2023,Aug,"Human Trafficking, Commercial Sex Acts",NA,NA,NA,8
+2023,Sep,"Human Trafficking, Commercial Sex Acts",NA,NA,NA,9
+2023,Oct,"Human Trafficking, Commercial Sex Acts",NA,NA,NA,10
+2023,Nov,"Human Trafficking, Commercial Sex Acts",NA,NA,NA,11
+2023,Dec,"Human Trafficking, Commercial Sex Acts",NA,NA,NA,12
+2024,Jan,"Human Trafficking, Commercial Sex Acts",NA,NA,NA,1
+2024,Feb,"Human Trafficking, Commercial Sex Acts",NA,NA,NA,2
+2024,Mar,"Human Trafficking, Commercial Sex Acts",NA,NA,NA,3
+2024,Apr,"Human Trafficking, Commercial Sex Acts",NA,NA,NA,4
+2024,May,"Human Trafficking, Commercial Sex Acts",NA,NA,NA,5
+2024,Jun,"Human Trafficking, Commercial Sex Acts",NA,NA,NA,6
+2024,Jul,"Human Trafficking, Commercial Sex Acts",NA,NA,NA,7
+2024,Aug,"Human Trafficking, Commercial Sex Acts",NA,NA,NA,8
+2024,Sep,"Human Trafficking, Commercial Sex Acts",NA,NA,NA,9
+2024,Oct,"Human Trafficking, Commercial Sex Acts",NA,NA,NA,10
+2024,Nov,"Human Trafficking, Commercial Sex Acts",NA,NA,NA,11
+2024,Dec,"Human Trafficking, Commercial Sex Acts",NA,NA,NA,12
+2025,Jan,"Human Trafficking, Commercial Sex Acts",NA,NA,NA,1
+2025,Feb,"Human Trafficking, Commercial Sex Acts",NA,NA,NA,2
+2025,Mar,"Human Trafficking, Commercial Sex Acts",NA,NA,NA,3
+2025,Apr,"Human Trafficking, Commercial Sex Acts",NA,NA,NA,4
+2025,May,"Human Trafficking, Commercial Sex Acts",NA,NA,NA,5
+2025,Jun,"Human Trafficking, Commercial Sex Acts",NA,NA,NA,6
+2025,Jul,"Human Trafficking, Commercial Sex Acts",NA,NA,NA,7
+2025,Aug,"Human Trafficking, Commercial Sex Acts",NA,NA,NA,8
+2025,Sep,"Human Trafficking, Commercial Sex Acts",NA,NA,NA,9
+2021,Jan,"Human Trafficking, Involuntary Servitude",NA,NA,NA,1
+2021,Feb,"Human Trafficking, Involuntary Servitude",NA,NA,NA,2
+2021,Mar,"Human Trafficking, Involuntary Servitude",NA,NA,NA,3
+2021,Apr,"Human Trafficking, Involuntary Servitude",NA,NA,NA,4
+2021,May,"Human Trafficking, Involuntary Servitude",NA,NA,NA,5
+2021,Jun,"Human Trafficking, Involuntary Servitude",NA,NA,NA,6
+2021,Jul,"Human Trafficking, Involuntary Servitude",NA,NA,NA,7
+2021,Aug,"Human Trafficking, Involuntary Servitude",NA,NA,NA,8
+2021,Sep,"Human Trafficking, Involuntary Servitude",NA,NA,NA,9
+2021,Oct,"Human Trafficking, Involuntary Servitude",NA,NA,NA,10
+2021,Nov,"Human Trafficking, Involuntary Servitude",NA,NA,NA,11
+2021,Dec,"Human Trafficking, Involuntary Servitude",NA,NA,NA,12
+2022,Jan,"Human Trafficking, Involuntary Servitude",NA,NA,NA,1
+2022,Feb,"Human Trafficking, Involuntary Servitude",NA,NA,NA,2
+2022,Mar,"Human Trafficking, Involuntary Servitude",NA,NA,NA,3
+2022,Apr,"Human Trafficking, Involuntary Servitude",NA,NA,NA,4
+2022,May,"Human Trafficking, Involuntary Servitude",NA,NA,NA,5
+2022,Jun,"Human Trafficking, Involuntary Servitude",NA,NA,NA,6
+2022,Jul,"Human Trafficking, Involuntary Servitude",NA,NA,NA,7
+2022,Aug,"Human Trafficking, Involuntary Servitude",1,NA,0.7799999999999999,8
+2022,Sep,"Human Trafficking, Involuntary Servitude",NA,NA,NA,9
+2022,Oct,"Human Trafficking, Involuntary Servitude",NA,NA,NA,10
+2022,Nov,"Human Trafficking, Involuntary Servitude",NA,NA,NA,11
+2022,Dec,"Human Trafficking, Involuntary Servitude",NA,NA,NA,12
+2023,Jan,"Human Trafficking, Involuntary Servitude",NA,NA,NA,1
+2023,Feb,"Human Trafficking, Involuntary Servitude",NA,NA,NA,2
+2023,Mar,"Human Trafficking, Involuntary Servitude",NA,NA,NA,3
+2023,Apr,"Human Trafficking, Involuntary Servitude",NA,NA,NA,4
+2023,May,"Human Trafficking, Involuntary Servitude",NA,NA,NA,5
+2023,Jun,"Human Trafficking, Involuntary Servitude",NA,NA,NA,6
+2023,Jul,"Human Trafficking, Involuntary Servitude",NA,NA,NA,7
+2023,Aug,"Human Trafficking, Involuntary Servitude",NA,NA,NA,8
+2023,Sep,"Human Trafficking, Involuntary Servitude",NA,NA,NA,9
+2023,Oct,"Human Trafficking, Involuntary Servitude",NA,NA,NA,10
+2023,Nov,"Human Trafficking, Involuntary Servitude",NA,NA,NA,11
+2023,Dec,"Human Trafficking, Involuntary Servitude",NA,NA,NA,12
+2024,Jan,"Human Trafficking, Involuntary Servitude",NA,NA,NA,1
+2024,Feb,"Human Trafficking, Involuntary Servitude",NA,NA,NA,2
+2024,Mar,"Human Trafficking, Involuntary Servitude",NA,NA,NA,3
+2024,Apr,"Human Trafficking, Involuntary Servitude",NA,NA,NA,4
+2024,May,"Human Trafficking, Involuntary Servitude",NA,NA,NA,5
+2024,Jun,"Human Trafficking, Involuntary Servitude",NA,NA,NA,6
+2024,Jul,"Human Trafficking, Involuntary Servitude",NA,NA,NA,7
+2024,Aug,"Human Trafficking, Involuntary Servitude",NA,NA,NA,8
+2024,Sep,"Human Trafficking, Involuntary Servitude",NA,NA,NA,9
+2024,Oct,"Human Trafficking, Involuntary Servitude",NA,NA,NA,10
+2024,Nov,"Human Trafficking, Involuntary Servitude",1,NA,0.77,11
+2024,Dec,"Human Trafficking, Involuntary Servitude",1,NA,0.77,12
+2025,Jan,"Human Trafficking, Involuntary Servitude",NA,NA,NA,1
+2025,Feb,"Human Trafficking, Involuntary Servitude",NA,NA,NA,2
+2025,Mar,"Human Trafficking, Involuntary Servitude",NA,NA,NA,3
+2025,Apr,"Human Trafficking, Involuntary Servitude",NA,NA,NA,4
+2025,May,"Human Trafficking, Involuntary Servitude",NA,NA,NA,5
+2025,Jun,"Human Trafficking, Involuntary Servitude",NA,NA,NA,6
+2025,Jul,"Human Trafficking, Involuntary Servitude",NA,NA,NA,7
+2025,Aug,"Human Trafficking, Involuntary Servitude",NA,NA,NA,8
+2025,Sep,"Human Trafficking, Involuntary Servitude",NA,NA,NA,9
+2021,Jan,Suicide,NA,NA,NA,1
+2021,Feb,Suicide,NA,NA,NA,2
+2021,Mar,Suicide,NA,NA,NA,3
+2021,Apr,Suicide,NA,NA,NA,4
+2021,May,Suicide,NA,NA,NA,5
+2021,Jun,Suicide,NA,NA,NA,6
+2021,Jul,Suicide,NA,NA,NA,7
+2021,Aug,Suicide,NA,NA,NA,8
+2021,Sep,Suicide,NA,NA,NA,9
+2021,Oct,Suicide,NA,NA,NA,10
+2021,Nov,Suicide,NA,NA,NA,11
+2021,Dec,Suicide,NA,NA,NA,12
+2022,Jan,Suicide,NA,NA,NA,1
+2022,Feb,Suicide,NA,NA,NA,2
+2022,Mar,Suicide,NA,NA,NA,3
+2022,Apr,Suicide,NA,NA,NA,4
+2022,May,Suicide,NA,NA,NA,5
+2022,Jun,Suicide,NA,NA,NA,6
+2022,Jul,Suicide,NA,NA,NA,7
+2022,Aug,Suicide,NA,NA,NA,8
+2022,Sep,Suicide,NA,NA,NA,9
+2022,Oct,Suicide,NA,NA,NA,10
+2022,Nov,Suicide,NA,NA,NA,11
+2022,Dec,Suicide,NA,NA,NA,12
+2023,Jan,Suicide,NA,NA,NA,1
+2023,Feb,Suicide,NA,NA,NA,2
+2023,Mar,Suicide,NA,NA,NA,3
+2023,Apr,Suicide,NA,NA,NA,4
+2023,May,Suicide,NA,NA,NA,5
+2023,Jun,Suicide,NA,NA,NA,6
+2023,Jul,Suicide,NA,NA,NA,7
+2023,Aug,Suicide,NA,NA,NA,8
+2023,Sep,Suicide,NA,NA,NA,9
+2023,Oct,Suicide,NA,NA,NA,10
+2023,Nov,Suicide,NA,NA,NA,11
+2023,Dec,Suicide,NA,NA,NA,12
+2024,Jan,Suicide,NA,NA,NA,1
+2024,Feb,Suicide,NA,NA,NA,2
+2024,Mar,Suicide,NA,NA,NA,3
+2024,Apr,Suicide,NA,NA,NA,4
+2024,May,Suicide,NA,NA,NA,5
+2024,Jun,Suicide,NA,NA,NA,6
+2024,Jul,Suicide,NA,NA,NA,7
+2024,Aug,Suicide,NA,NA,NA,8
+2024,Sep,Suicide,NA,NA,NA,9
+2024,Oct,Suicide,NA,NA,NA,10
+2024,Nov,Suicide,NA,NA,NA,11
+2024,Dec,Suicide,NA,NA,NA,12
+2025,Jan,Suicide,NA,NA,NA,1
+2025,Feb,Suicide,NA,NA,NA,2
+2025,Mar,Suicide,NA,NA,NA,3
+2025,Apr,Suicide,NA,NA,NA,4
+2025,May,Suicide,NA,NA,NA,5
+2025,Jun,Suicide,NA,NA,NA,6
+2025,Jul,Suicide,NA,NA,NA,7
+2025,Aug,Suicide,NA,NA,NA,8
+2025,Sep,Suicide,NA,NA,NA,9
+2021,Jan,Crimes Against Property,468,66,370.2,1
+2021,Feb,Crimes Against Property,286,55,226.23,2
+2021,Mar,Crimes Against Property,326,59,257.87,3
+2021,Apr,Crimes Against Property,296,42,234.14,4
+2021,May,Crimes Against Property,319,38,252.34,5
+2021,Jun,Crimes Against Property,391,46,309.28999999999996,6
+2021,Jul,Crimes Against Property,496,62,392.35,7
+2021,Aug,Crimes Against Property,519,67,410.54,8
+2021,Sep,Crimes Against Property,470,64,371.78,9
+2021,Oct,Crimes Against Property,528,60,417.66,10
+2021,Nov,Crimes Against Property,428,54,338.56,11
+2021,Dec,Crimes Against Property,388,50,306.91999999999996,12
+2022,Jan,Crimes Against Property,341,49,266.69,1
+2022,Feb,Crimes Against Property,279,41,218.2,2
+2022,Mar,Crimes Against Property,421,57,329.26,3
+2022,Apr,Crimes Against Property,402,65,314.4,4
+2022,May,Crimes Against Property,494,84,386.35,5
+2022,Jun,Crimes Against Property,460,76,359.76,6
+2022,Jul,Crimes Against Property,507,71,396.52,7
+2022,Aug,Crimes Against Property,505,55,394.96,8
+2022,Sep,Crimes Against Property,519,64,405.91,9
+2022,Oct,Crimes Against Property,455,67,355.85,10
+2022,Nov,Crimes Against Property,398,52,311.27,11
+2022,Dec,Crimes Against Property,388,38,303.45,12
+2023,Jan,Crimes Against Property,402,53,310.18,1
+2023,Feb,Crimes Against Property,333,64,256.94,2
+2023,Mar,Crimes Against Property,346,55,266.96999999999997,3
+2023,Apr,Crimes Against Property,436,64,336.40999999999997,4
+2023,May,Crimes Against Property,404,50,311.71999999999997,5
+2023,Jun,Crimes Against Property,443,59,341.82,6
+2023,Jul,Crimes Against Property,430,53,331.78999999999996,7
+2023,Aug,Crimes Against Property,463,59,357.25,8
+2023,Sep,Crimes Against Property,469,59,361.88,9
+2023,Oct,Crimes Against Property,582,53,449.07,10
+2023,Nov,Crimes Against Property,406,47,313.27,11
+2023,Dec,Crimes Against Property,354,42,273.14000000000004,12
+2024,Jan,Crimes Against Property,277,49,213.73,1
+2024,Feb,Crimes Against Property,452,53,348.76,2
+2024,Mar,Crimes Against Property,349,58,269.28999999999996,3
+2024,Apr,Crimes Against Property,411,74,317.12,4
+2024,May,Crimes Against Property,364,55,280.86,5
+2024,Jun,Crimes Against Property,416,63,320.97999999999996,6
+2024,Jul,Crimes Against Property,392,64,302.46,7
+2024,Aug,Crimes Against Property,464,60,358.02,8
+2024,Sep,Crimes Against Property,402,54,310.18,9
+2024,Oct,Crimes Against Property,389,79,300.15000000000003,10
+2024,Nov,Crimes Against Property,407,51,314.04,11
+2024,Dec,Crimes Against Property,413,55,318.67,12
+2025,Jan,Crimes Against Property,270,55,208.33,1
+2025,Feb,Crimes Against Property,267,48,206.02,2
+2025,Mar,Crimes Against Property,372,63,287.03,3
+2025,Apr,Crimes Against Property,309,56,238.42,4
+2025,May,Crimes Against Property,375,66,289.35,5
+2025,Jun,Crimes Against Property,343,52,264.66,6
+2025,Jul,Crimes Against Property,305,38,235.34,7
+2025,Aug,Crimes Against Property,51,8,39.349999999999994,8
+2025,Sep,Crimes Against Property,NA,NA,NA,9
+2021,Jan,Arson,1,NA,0.7899999999999999,1
+2021,Feb,Arson,2,2,1.58,2
+2021,Mar,Arson,1,1,0.7899999999999999,3
+2021,Apr,Arson,2,2,1.58,4
+2021,May,Arson,2,NA,1.58,5
+2021,Jun,Arson,1,NA,0.7899999999999999,6
+2021,Jul,Arson,1,NA,0.7899999999999999,7
+2021,Aug,Arson,NA,NA,NA,8
+2021,Sep,Arson,1,1,0.7899999999999999,9
+2021,Oct,Arson,3,1,2.3699999999999997,10
+2021,Nov,Arson,NA,NA,NA,11
+2021,Dec,Arson,1,NA,0.7899999999999999,12
+2022,Jan,Arson,4,1,3.13,1
+2022,Feb,Arson,1,NA,0.7799999999999999,2
+2022,Mar,Arson,1,1,0.7799999999999999,3
+2022,Apr,Arson,2,NA,1.56,4
+2022,May,Arson,2,1,1.56,5
+2022,Jun,Arson,NA,NA,NA,6
+2022,Jul,Arson,NA,NA,NA,7
+2022,Aug,Arson,2,2,1.56,8
+2022,Sep,Arson,3,1,2.3499999999999996,9
+2022,Oct,Arson,5,3,3.91,10
+2022,Nov,Arson,2,NA,1.56,11
+2022,Dec,Arson,1,1,0.7799999999999999,12
+2023,Jan,Arson,2,1,1.54,1
+2023,Feb,Arson,2,1,1.54,2
+2023,Mar,Arson,4,NA,3.09,3
+2023,Apr,Arson,2,NA,1.54,4
+2023,May,Arson,1,NA,0.77,5
+2023,Jun,Arson,6,1,4.63,6
+2023,Jul,Arson,2,2,1.54,7
+2023,Aug,Arson,3,1,2.3099999999999996,8
+2023,Sep,Arson,2,1,1.54,9
+2023,Oct,Arson,1,NA,0.77,10
+2023,Nov,Arson,2,1,1.54,11
+2023,Dec,Arson,2,1,1.54,12
+2024,Jan,Arson,2,1,1.54,1
+2024,Feb,Arson,3,1,2.3099999999999996,2
+2024,Mar,Arson,3,NA,2.3099999999999996,3
+2024,Apr,Arson,6,1,4.63,4
+2024,May,Arson,3,1,2.3099999999999996,5
+2024,Jun,Arson,1,1,0.77,6
+2024,Jul,Arson,3,1,2.3099999999999996,7
+2024,Aug,Arson,1,NA,0.77,8
+2024,Sep,Arson,3,1,2.3099999999999996,9
+2024,Oct,Arson,3,NA,2.3099999999999996,10
+2024,Nov,Arson,1,NA,0.77,11
+2024,Dec,Arson,1,NA,0.77,12
+2025,Jan,Arson,NA,NA,NA,1
+2025,Feb,Arson,1,NA,0.77,2
+2025,Mar,Arson,2,NA,1.54,3
+2025,Apr,Arson,NA,NA,NA,4
+2025,May,Arson,NA,NA,NA,5
+2025,Jun,Arson,3,1,2.3099999999999996,6
+2025,Jul,Arson,2,NA,1.54,7
+2025,Aug,Arson,NA,NA,NA,8
+2025,Sep,Arson,NA,NA,NA,9
+2021,Jan,Bribery,NA,NA,NA,1
+2021,Feb,Bribery,NA,NA,NA,2
+2021,Mar,Bribery,NA,NA,NA,3
+2021,Apr,Bribery,NA,NA,NA,4
+2021,May,Bribery,NA,NA,NA,5
+2021,Jun,Bribery,NA,NA,NA,6
+2021,Jul,Bribery,NA,NA,NA,7
+2021,Aug,Bribery,NA,NA,NA,8
+2021,Sep,Bribery,NA,NA,NA,9
+2021,Oct,Bribery,NA,NA,NA,10
+2021,Nov,Bribery,NA,NA,NA,11
+2021,Dec,Bribery,NA,NA,NA,12
+2022,Jan,Bribery,NA,NA,NA,1
+2022,Feb,Bribery,NA,NA,NA,2
+2022,Mar,Bribery,NA,NA,NA,3
+2022,Apr,Bribery,NA,NA,NA,4
+2022,May,Bribery,NA,NA,NA,5
+2022,Jun,Bribery,NA,NA,NA,6
+2022,Jul,Bribery,NA,NA,NA,7
+2022,Aug,Bribery,2,1,1.56,8
+2022,Sep,Bribery,NA,NA,NA,9
+2022,Oct,Bribery,NA,NA,NA,10
+2022,Nov,Bribery,NA,NA,NA,11
+2022,Dec,Bribery,NA,NA,NA,12
+2023,Jan,Bribery,NA,NA,NA,1
+2023,Feb,Bribery,NA,NA,NA,2
+2023,Mar,Bribery,NA,NA,NA,3
+2023,Apr,Bribery,NA,NA,NA,4
+2023,May,Bribery,NA,NA,NA,5
+2023,Jun,Bribery,NA,NA,NA,6
+2023,Jul,Bribery,NA,NA,NA,7
+2023,Aug,Bribery,NA,NA,NA,8
+2023,Sep,Bribery,NA,NA,NA,9
+2023,Oct,Bribery,NA,NA,NA,10
+2023,Nov,Bribery,NA,NA,NA,11
+2023,Dec,Bribery,NA,NA,NA,12
+2024,Jan,Bribery,NA,NA,NA,1
+2024,Feb,Bribery,NA,NA,NA,2
+2024,Mar,Bribery,NA,NA,NA,3
+2024,Apr,Bribery,NA,NA,NA,4
+2024,May,Bribery,NA,NA,NA,5
+2024,Jun,Bribery,NA,NA,NA,6
+2024,Jul,Bribery,NA,NA,NA,7
+2024,Aug,Bribery,NA,NA,NA,8
+2024,Sep,Bribery,NA,NA,NA,9
+2024,Oct,Bribery,NA,NA,NA,10
+2024,Nov,Bribery,NA,NA,NA,11
+2024,Dec,Bribery,NA,NA,NA,12
+2025,Jan,Bribery,NA,NA,NA,1
+2025,Feb,Bribery,NA,NA,NA,2
+2025,Mar,Bribery,NA,NA,NA,3
+2025,Apr,Bribery,NA,NA,NA,4
+2025,May,Bribery,NA,NA,NA,5
+2025,Jun,Bribery,NA,NA,NA,6
+2025,Jul,Bribery,NA,NA,NA,7
+2025,Aug,Bribery,NA,NA,NA,8
+2025,Sep,Bribery,NA,NA,NA,9
+2021,Jan,Burglary/Breaking & Entering,36,9,28.479999999999997,1
+2021,Feb,Burglary/Breaking & Entering,14,4,11.07,2
+2021,Mar,Burglary/Breaking & Entering,24,5,18.979999999999997,3
+2021,Apr,Burglary/Breaking & Entering,22,8,17.4,4
+2021,May,Burglary/Breaking & Entering,22,5,17.4,5
+2021,Jun,Burglary/Breaking & Entering,23,7,18.19,6
+2021,Jul,Burglary/Breaking & Entering,35,8,27.69,7
+2021,Aug,Burglary/Breaking & Entering,41,6,32.43,8
+2021,Sep,Burglary/Breaking & Entering,47,7,37.18,9
+2021,Oct,Burglary/Breaking & Entering,41,6,32.43,10
+2021,Nov,Burglary/Breaking & Entering,25,4,19.78,11
+2021,Dec,Burglary/Breaking & Entering,37,6,29.27,12
+2022,Jan,Burglary/Breaking & Entering,31,4,24.24,1
+2022,Feb,Burglary/Breaking & Entering,17,2,13.3,2
+2022,Mar,Burglary/Breaking & Entering,35,9,27.37,3
+2022,Apr,Burglary/Breaking & Entering,24,3,18.77,4
+2022,May,Burglary/Breaking & Entering,41,6,32.07,5
+2022,Jun,Burglary/Breaking & Entering,41,8,32.07,6
+2022,Jul,Burglary/Breaking & Entering,37,5,28.94,7
+2022,Aug,Burglary/Breaking & Entering,39,3,30.5,8
+2022,Sep,Burglary/Breaking & Entering,38,6,29.72,9
+2022,Oct,Burglary/Breaking & Entering,35,7,27.37,10
+2022,Nov,Burglary/Breaking & Entering,25,NA,19.55,11
+2022,Dec,Burglary/Breaking & Entering,29,3,22.68,12
+2023,Jan,Burglary/Breaking & Entering,24,4,18.52,1
+2023,Feb,Burglary/Breaking & Entering,36,10,27.78,2
+2023,Mar,Burglary/Breaking & Entering,29,11,22.38,3
+2023,Apr,Burglary/Breaking & Entering,32,13,24.69,4
+2023,May,Burglary/Breaking & Entering,31,5,23.92,5
+2023,Jun,Burglary/Breaking & Entering,50,5,38.58,6
+2023,Jul,Burglary/Breaking & Entering,37,8,28.55,7
+2023,Aug,Burglary/Breaking & Entering,37,9,28.55,8
+2023,Sep,Burglary/Breaking & Entering,35,7,27.01,9
+2023,Oct,Burglary/Breaking & Entering,33,5,25.459999999999997,10
+2023,Nov,Burglary/Breaking & Entering,28,5,21.6,11
+2023,Dec,Burglary/Breaking & Entering,28,1,21.6,12
+2024,Jan,Burglary/Breaking & Entering,16,3,12.35,1
+2024,Feb,Burglary/Breaking & Entering,41,3,31.64,2
+2024,Mar,Burglary/Breaking & Entering,22,8,16.979999999999997,3
+2024,Apr,Burglary/Breaking & Entering,39,7,30.09,4
+2024,May,Burglary/Breaking & Entering,43,5,33.18,5
+2024,Jun,Burglary/Breaking & Entering,44,6,33.949999999999996,6
+2024,Jul,Burglary/Breaking & Entering,43,9,33.18,7
+2024,Aug,Burglary/Breaking & Entering,55,12,42.44,8
+2024,Sep,Burglary/Breaking & Entering,39,5,30.09,9
+2024,Oct,Burglary/Breaking & Entering,31,8,23.92,10
+2024,Nov,Burglary/Breaking & Entering,37,8,28.55,11
+2024,Dec,Burglary/Breaking & Entering,28,2,21.6,12
+2025,Jan,Burglary/Breaking & Entering,29,4,22.38,1
+2025,Feb,Burglary/Breaking & Entering,11,2,8.49,2
+2025,Mar,Burglary/Breaking & Entering,26,5,20.06,3
+2025,Apr,Burglary/Breaking & Entering,19,1,14.66,4
+2025,May,Burglary/Breaking & Entering,29,6,22.38,5
+2025,Jun,Burglary/Breaking & Entering,26,6,20.06,6
+2025,Jul,Burglary/Breaking & Entering,16,1,12.35,7
+2025,Aug,Burglary/Breaking & Entering,1,1,0.77,8
+2025,Sep,Burglary/Breaking & Entering,NA,NA,NA,9
+2021,Jan,Counterfeiting/Forgery,8,3,6.33,1
+2021,Feb,Counterfeiting/Forgery,3,1,2.3699999999999997,2
+2021,Mar,Counterfeiting/Forgery,4,NA,3.16,3
+2021,Apr,Counterfeiting/Forgery,1,1,0.7899999999999999,4
+2021,May,Counterfeiting/Forgery,6,NA,4.75,5
+2021,Jun,Counterfeiting/Forgery,3,1,2.3699999999999997,6
+2021,Jul,Counterfeiting/Forgery,10,1,7.91,7
+2021,Aug,Counterfeiting/Forgery,8,2,6.33,8
+2021,Sep,Counterfeiting/Forgery,10,1,7.91,9
+2021,Oct,Counterfeiting/Forgery,8,2,6.33,10
+2021,Nov,Counterfeiting/Forgery,7,1,5.54,11
+2021,Dec,Counterfeiting/Forgery,6,NA,4.75,12
+2022,Jan,Counterfeiting/Forgery,5,1,3.91,1
+2022,Feb,Counterfeiting/Forgery,10,2,7.819999999999999,2
+2022,Mar,Counterfeiting/Forgery,10,2,7.819999999999999,3
+2022,Apr,Counterfeiting/Forgery,11,5,8.6,4
+2022,May,Counterfeiting/Forgery,14,6,10.95,5
+2022,Jun,Counterfeiting/Forgery,6,NA,4.6899999999999995,6
+2022,Jul,Counterfeiting/Forgery,8,2,6.26,7
+2022,Aug,Counterfeiting/Forgery,5,NA,3.91,8
+2022,Sep,Counterfeiting/Forgery,4,1,3.13,9
+2022,Oct,Counterfeiting/Forgery,10,2,7.819999999999999,10
+2022,Nov,Counterfeiting/Forgery,16,4,12.51,11
+2022,Dec,Counterfeiting/Forgery,16,3,12.51,12
+2023,Jan,Counterfeiting/Forgery,10,NA,7.72,1
+2023,Feb,Counterfeiting/Forgery,13,8,10.03,2
+2023,Mar,Counterfeiting/Forgery,9,1,6.94,3
+2023,Apr,Counterfeiting/Forgery,6,2,4.63,4
+2023,May,Counterfeiting/Forgery,8,1,6.17,5
+2023,Jun,Counterfeiting/Forgery,10,NA,7.72,6
+2023,Jul,Counterfeiting/Forgery,8,1,6.17,7
+2023,Aug,Counterfeiting/Forgery,6,2,4.63,8
+2023,Sep,Counterfeiting/Forgery,3,NA,2.3099999999999996,9
+2023,Oct,Counterfeiting/Forgery,5,NA,3.86,10
+2023,Nov,Counterfeiting/Forgery,7,NA,5.4,11
+2023,Dec,Counterfeiting/Forgery,5,1,3.86,12
+2024,Jan,Counterfeiting/Forgery,4,2,3.09,1
+2024,Feb,Counterfeiting/Forgery,9,2,6.94,2
+2024,Mar,Counterfeiting/Forgery,7,1,5.4,3
+2024,Apr,Counterfeiting/Forgery,6,1,4.63,4
+2024,May,Counterfeiting/Forgery,6,NA,4.63,5
+2024,Jun,Counterfeiting/Forgery,5,NA,3.86,6
+2024,Jul,Counterfeiting/Forgery,3,NA,2.3099999999999996,7
+2024,Aug,Counterfeiting/Forgery,5,1,3.86,8
+2024,Sep,Counterfeiting/Forgery,6,NA,4.63,9
+2024,Oct,Counterfeiting/Forgery,10,2,7.72,10
+2024,Nov,Counterfeiting/Forgery,5,1,3.86,11
+2024,Dec,Counterfeiting/Forgery,9,NA,6.94,12
+2025,Jan,Counterfeiting/Forgery,2,NA,1.54,1
+2025,Feb,Counterfeiting/Forgery,5,1,3.86,2
+2025,Mar,Counterfeiting/Forgery,3,NA,2.3099999999999996,3
+2025,Apr,Counterfeiting/Forgery,6,1,4.63,4
+2025,May,Counterfeiting/Forgery,5,1,3.86,5
+2025,Jun,Counterfeiting/Forgery,8,NA,6.17,6
+2025,Jul,Counterfeiting/Forgery,12,3,9.26,7
+2025,Aug,Counterfeiting/Forgery,NA,NA,NA,8
+2025,Sep,Counterfeiting/Forgery,NA,NA,NA,9
+2021,Jan,Destruction/Damage/Vandalism of Property,86,11,68.03,1
+2021,Feb,Destruction/Damage/Vandalism of Property,64,13,50.63,2
+2021,Mar,Destruction/Damage/Vandalism of Property,62,15,49.04,3
+2021,Apr,Destruction/Damage/Vandalism of Property,72,15,56.95,4
+2021,May,Destruction/Damage/Vandalism of Property,76,17,60.120000000000005,5
+2021,Jun,Destruction/Damage/Vandalism of Property,83,18,65.66,6
+2021,Jul,Destruction/Damage/Vandalism of Property,80,16,63.28,7
+2021,Aug,Destruction/Damage/Vandalism of Property,102,14,80.67999999999999,8
+2021,Sep,Destruction/Damage/Vandalism of Property,89,20,70.4,9
+2021,Oct,Destruction/Damage/Vandalism of Property,96,13,75.94000000000001,10
+2021,Nov,Destruction/Damage/Vandalism of Property,72,15,56.95,11
+2021,Dec,Destruction/Damage/Vandalism of Property,72,13,56.95,12
+2022,Jan,Destruction/Damage/Vandalism of Property,61,15,47.71,1
+2022,Feb,Destruction/Damage/Vandalism of Property,42,14,32.849999999999994,2
+2022,Mar,Destruction/Damage/Vandalism of Property,61,10,47.71,3
+2022,Apr,Destruction/Damage/Vandalism of Property,64,12,50.05,4
+2022,May,Destruction/Damage/Vandalism of Property,102,21,79.77,5
+2022,Jun,Destruction/Damage/Vandalism of Property,81,23,63.349999999999994,6
+2022,Jul,Destruction/Damage/Vandalism of Property,92,14,71.95,7
+2022,Aug,Destruction/Damage/Vandalism of Property,73,14,57.09,8
+2022,Sep,Destruction/Damage/Vandalism of Property,97,24,75.86,9
+2022,Oct,Destruction/Damage/Vandalism of Property,97,15,75.86,10
+2022,Nov,Destruction/Damage/Vandalism of Property,74,11,57.87,11
+2022,Dec,Destruction/Damage/Vandalism of Property,68,11,53.18,12
+2023,Jan,Destruction/Damage/Vandalism of Property,71,11,54.78,1
+2023,Feb,Destruction/Damage/Vandalism of Property,47,11,36.260000000000005,2
+2023,Mar,Destruction/Damage/Vandalism of Property,57,9,43.98,3
+2023,Apr,Destruction/Damage/Vandalism of Property,84,18,64.81,4
+2023,May,Destruction/Damage/Vandalism of Property,73,18,56.33,5
+2023,Jun,Destruction/Damage/Vandalism of Property,71,12,54.78,6
+2023,Jul,Destruction/Damage/Vandalism of Property,87,12,67.13,7
+2023,Aug,Destruction/Damage/Vandalism of Property,71,7,54.78,8
+2023,Sep,Destruction/Damage/Vandalism of Property,89,11,68.66999999999999,9
+2023,Oct,Destruction/Damage/Vandalism of Property,160,16,123.45,10
+2023,Nov,Destruction/Damage/Vandalism of Property,91,12,70.21000000000001,11
+2023,Dec,Destruction/Damage/Vandalism of Property,75,14,57.87,12
+2024,Jan,Destruction/Damage/Vandalism of Property,56,8,43.21,1
+2024,Feb,Destruction/Damage/Vandalism of Property,99,12,76.39,2
+2024,Mar,Destruction/Damage/Vandalism of Property,79,17,60.96,3
+2024,Apr,Destruction/Damage/Vandalism of Property,90,23,69.44000000000001,4
+2024,May,Destruction/Damage/Vandalism of Property,89,18,68.66999999999999,5
+2024,Jun,Destruction/Damage/Vandalism of Property,86,19,66.36,6
+2024,Jul,Destruction/Damage/Vandalism of Property,79,15,60.96,7
+2024,Aug,Destruction/Damage/Vandalism of Property,98,20,75.61999999999999,8
+2024,Sep,Destruction/Damage/Vandalism of Property,70,15,54.01,9
+2024,Oct,Destruction/Damage/Vandalism of Property,86,21,66.36,10
+2024,Nov,Destruction/Damage/Vandalism of Property,91,21,70.21000000000001,11
+2024,Dec,Destruction/Damage/Vandalism of Property,85,15,65.59,12
+2025,Jan,Destruction/Damage/Vandalism of Property,45,12,34.720000000000006,1
+2025,Feb,Destruction/Damage/Vandalism of Property,58,12,44.75,2
+2025,Mar,Destruction/Damage/Vandalism of Property,90,18,69.44000000000001,3
+2025,Apr,Destruction/Damage/Vandalism of Property,68,16,52.47,4
+2025,May,Destruction/Damage/Vandalism of Property,94,18,72.53,5
+2025,Jun,Destruction/Damage/Vandalism of Property,68,10,52.47,6
+2025,Jul,Destruction/Damage/Vandalism of Property,61,6,47.07,7
+2025,Aug,Destruction/Damage/Vandalism of Property,12,2,9.26,8
+2025,Sep,Destruction/Damage/Vandalism of Property,NA,NA,NA,9
+2021,Jan,Embezzlement,3,1,2.3699999999999997,1
+2021,Feb,Embezzlement,2,1,1.58,2
+2021,Mar,Embezzlement,NA,NA,NA,3
+2021,Apr,Embezzlement,3,1,2.3699999999999997,4
+2021,May,Embezzlement,5,1,3.96,5
+2021,Jun,Embezzlement,1,NA,0.7899999999999999,6
+2021,Jul,Embezzlement,4,2,3.16,7
+2021,Aug,Embezzlement,6,3,4.75,8
+2021,Sep,Embezzlement,1,1,0.7899999999999999,9
+2021,Oct,Embezzlement,8,3,6.33,10
+2021,Nov,Embezzlement,6,2,4.75,11
+2021,Dec,Embezzlement,3,1,2.3699999999999997,12
+2022,Jan,Embezzlement,2,1,1.56,1
+2022,Feb,Embezzlement,2,1,1.56,2
+2022,Mar,Embezzlement,3,NA,2.3499999999999996,3
+2022,Apr,Embezzlement,NA,NA,NA,4
+2022,May,Embezzlement,NA,NA,NA,5
+2022,Jun,Embezzlement,1,1,0.7799999999999999,6
+2022,Jul,Embezzlement,NA,NA,NA,7
+2022,Aug,Embezzlement,1,NA,0.7799999999999999,8
+2022,Sep,Embezzlement,NA,NA,NA,9
+2022,Oct,Embezzlement,NA,NA,NA,10
+2022,Nov,Embezzlement,2,NA,1.56,11
+2022,Dec,Embezzlement,2,NA,1.56,12
+2023,Jan,Embezzlement,2,1,1.54,1
+2023,Feb,Embezzlement,NA,NA,NA,2
+2023,Mar,Embezzlement,2,2,1.54,3
+2023,Apr,Embezzlement,2,2,1.54,4
+2023,May,Embezzlement,1,1,0.77,5
+2023,Jun,Embezzlement,1,NA,0.77,6
+2023,Jul,Embezzlement,1,1,0.77,7
+2023,Aug,Embezzlement,1,NA,0.77,8
+2023,Sep,Embezzlement,5,NA,3.86,9
+2023,Oct,Embezzlement,1,1,0.77,10
+2023,Nov,Embezzlement,4,3,3.09,11
+2023,Dec,Embezzlement,2,1,1.54,12
+2024,Jan,Embezzlement,5,1,3.86,1
+2024,Feb,Embezzlement,1,NA,0.77,2
+2024,Mar,Embezzlement,1,NA,0.77,3
+2024,Apr,Embezzlement,7,3,5.4,4
+2024,May,Embezzlement,2,2,1.54,5
+2024,Jun,Embezzlement,1,NA,0.77,6
+2024,Jul,Embezzlement,3,3,2.3099999999999996,7
+2024,Aug,Embezzlement,3,1,2.3099999999999996,8
+2024,Sep,Embezzlement,4,2,3.09,9
+2024,Oct,Embezzlement,2,2,1.54,10
+2024,Nov,Embezzlement,2,2,1.54,11
+2024,Dec,Embezzlement,2,1,1.54,12
+2025,Jan,Embezzlement,6,2,4.63,1
+2025,Feb,Embezzlement,2,NA,1.54,2
+2025,Mar,Embezzlement,2,1,1.54,3
+2025,Apr,Embezzlement,5,4,3.86,4
+2025,May,Embezzlement,2,2,1.54,5
+2025,Jun,Embezzlement,2,NA,1.54,6
+2025,Jul,Embezzlement,2,1,1.54,7
+2025,Aug,Embezzlement,NA,NA,NA,8
+2025,Sep,Embezzlement,NA,NA,NA,9
+2021,Jan,Extortion/Blackmail,NA,NA,NA,1
+2021,Feb,Extortion/Blackmail,NA,NA,NA,2
+2021,Mar,Extortion/Blackmail,NA,NA,NA,3
+2021,Apr,Extortion/Blackmail,NA,NA,NA,4
+2021,May,Extortion/Blackmail,NA,NA,NA,5
+2021,Jun,Extortion/Blackmail,1,NA,0.7899999999999999,6
+2021,Jul,Extortion/Blackmail,NA,NA,NA,7
+2021,Aug,Extortion/Blackmail,1,NA,0.7899999999999999,8
+2021,Sep,Extortion/Blackmail,1,NA,0.7899999999999999,9
+2021,Oct,Extortion/Blackmail,NA,NA,NA,10
+2021,Nov,Extortion/Blackmail,NA,NA,NA,11
+2021,Dec,Extortion/Blackmail,NA,NA,NA,12
+2022,Jan,Extortion/Blackmail,NA,NA,NA,1
+2022,Feb,Extortion/Blackmail,NA,NA,NA,2
+2022,Mar,Extortion/Blackmail,1,NA,0.7799999999999999,3
+2022,Apr,Extortion/Blackmail,NA,NA,NA,4
+2022,May,Extortion/Blackmail,2,NA,1.56,5
+2022,Jun,Extortion/Blackmail,NA,NA,NA,6
+2022,Jul,Extortion/Blackmail,NA,NA,NA,7
+2022,Aug,Extortion/Blackmail,4,NA,3.13,8
+2022,Sep,Extortion/Blackmail,2,NA,1.56,9
+2022,Oct,Extortion/Blackmail,2,NA,1.56,10
+2022,Nov,Extortion/Blackmail,4,NA,3.13,11
+2022,Dec,Extortion/Blackmail,NA,NA,NA,12
+2023,Jan,Extortion/Blackmail,2,NA,1.54,1
+2023,Feb,Extortion/Blackmail,1,NA,0.77,2
+2023,Mar,Extortion/Blackmail,2,NA,1.54,3
+2023,Apr,Extortion/Blackmail,3,NA,2.3099999999999996,4
+2023,May,Extortion/Blackmail,1,NA,0.77,5
+2023,Jun,Extortion/Blackmail,2,NA,1.54,6
+2023,Jul,Extortion/Blackmail,1,NA,0.77,7
+2023,Aug,Extortion/Blackmail,1,NA,0.77,8
+2023,Sep,Extortion/Blackmail,1,NA,0.77,9
+2023,Oct,Extortion/Blackmail,2,NA,1.54,10
+2023,Nov,Extortion/Blackmail,1,NA,0.77,11
+2023,Dec,Extortion/Blackmail,4,NA,3.09,12
+2024,Jan,Extortion/Blackmail,NA,NA,NA,1
+2024,Feb,Extortion/Blackmail,NA,NA,NA,2
+2024,Mar,Extortion/Blackmail,1,NA,0.77,3
+2024,Apr,Extortion/Blackmail,NA,NA,NA,4
+2024,May,Extortion/Blackmail,NA,NA,NA,5
+2024,Jun,Extortion/Blackmail,NA,NA,NA,6
+2024,Jul,Extortion/Blackmail,NA,NA,NA,7
+2024,Aug,Extortion/Blackmail,NA,NA,NA,8
+2024,Sep,Extortion/Blackmail,2,NA,1.54,9
+2024,Oct,Extortion/Blackmail,NA,NA,NA,10
+2024,Nov,Extortion/Blackmail,1,NA,0.77,11
+2024,Dec,Extortion/Blackmail,3,NA,2.3099999999999996,12
+2025,Jan,Extortion/Blackmail,NA,NA,NA,1
+2025,Feb,Extortion/Blackmail,1,NA,0.77,2
+2025,Mar,Extortion/Blackmail,2,NA,1.54,3
+2025,Apr,Extortion/Blackmail,NA,NA,NA,4
+2025,May,Extortion/Blackmail,NA,NA,NA,5
+2025,Jun,Extortion/Blackmail,NA,NA,NA,6
+2025,Jul,Extortion/Blackmail,1,NA,0.77,7
+2025,Aug,Extortion/Blackmail,NA,NA,NA,8
+2025,Sep,Extortion/Blackmail,NA,NA,NA,9
+2021,Jan,False Pretenses/Swindle/Confidence Game,16,NA,12.66,1
+2021,Feb,False Pretenses/Swindle/Confidence Game,19,2,15.03,2
+2021,Mar,False Pretenses/Swindle/Confidence Game,25,2,19.78,3
+2021,Apr,False Pretenses/Swindle/Confidence Game,17,1,13.45,4
+2021,May,False Pretenses/Swindle/Confidence Game,10,NA,7.91,5
+2021,Jun,False Pretenses/Swindle/Confidence Game,16,NA,12.66,6
+2021,Jul,False Pretenses/Swindle/Confidence Game,21,NA,16.610000000000003,7
+2021,Aug,False Pretenses/Swindle/Confidence Game,16,1,12.66,8
+2021,Sep,False Pretenses/Swindle/Confidence Game,17,3,13.45,9
+2021,Oct,False Pretenses/Swindle/Confidence Game,20,NA,15.82,10
+2021,Nov,False Pretenses/Swindle/Confidence Game,14,NA,11.07,11
+2021,Dec,False Pretenses/Swindle/Confidence Game,14,2,11.07,12
+2022,Jan,False Pretenses/Swindle/Confidence Game,17,NA,13.3,1
+2022,Feb,False Pretenses/Swindle/Confidence Game,13,1,10.17,2
+2022,Mar,False Pretenses/Swindle/Confidence Game,22,2,17.21,3
+2022,Apr,False Pretenses/Swindle/Confidence Game,22,4,17.21,4
+2022,May,False Pretenses/Swindle/Confidence Game,19,1,14.86,5
+2022,Jun,False Pretenses/Swindle/Confidence Game,14,1,10.95,6
+2022,Jul,False Pretenses/Swindle/Confidence Game,14,NA,10.95,7
+2022,Aug,False Pretenses/Swindle/Confidence Game,15,1,11.73,8
+2022,Sep,False Pretenses/Swindle/Confidence Game,12,1,9.39,9
+2022,Oct,False Pretenses/Swindle/Confidence Game,14,1,10.95,10
+2022,Nov,False Pretenses/Swindle/Confidence Game,8,3,6.26,11
+2022,Dec,False Pretenses/Swindle/Confidence Game,4,NA,3.13,12
+2023,Jan,False Pretenses/Swindle/Confidence Game,18,1,13.89,1
+2023,Feb,False Pretenses/Swindle/Confidence Game,11,NA,8.49,2
+2023,Mar,False Pretenses/Swindle/Confidence Game,17,1,13.12,3
+2023,Apr,False Pretenses/Swindle/Confidence Game,18,7,13.89,4
+2023,May,False Pretenses/Swindle/Confidence Game,11,1,8.49,5
+2023,Jun,False Pretenses/Swindle/Confidence Game,8,1,6.17,6
+2023,Jul,False Pretenses/Swindle/Confidence Game,15,2,11.57,7
+2023,Aug,False Pretenses/Swindle/Confidence Game,16,2,12.35,8
+2023,Sep,False Pretenses/Swindle/Confidence Game,16,NA,12.35,9
+2023,Oct,False Pretenses/Swindle/Confidence Game,12,2,9.26,10
+2023,Nov,False Pretenses/Swindle/Confidence Game,11,NA,8.49,11
+2023,Dec,False Pretenses/Swindle/Confidence Game,14,NA,10.8,12
+2024,Jan,False Pretenses/Swindle/Confidence Game,8,1,6.17,1
+2024,Feb,False Pretenses/Swindle/Confidence Game,16,1,12.35,2
+2024,Mar,False Pretenses/Swindle/Confidence Game,16,NA,12.35,3
+2024,Apr,False Pretenses/Swindle/Confidence Game,8,NA,6.17,4
+2024,May,False Pretenses/Swindle/Confidence Game,9,NA,6.94,5
+2024,Jun,False Pretenses/Swindle/Confidence Game,4,NA,3.09,6
+2024,Jul,False Pretenses/Swindle/Confidence Game,14,NA,10.8,7
+2024,Aug,False Pretenses/Swindle/Confidence Game,12,1,9.26,8
+2024,Sep,False Pretenses/Swindle/Confidence Game,10,1,7.72,9
+2024,Oct,False Pretenses/Swindle/Confidence Game,14,NA,10.8,10
+2024,Nov,False Pretenses/Swindle/Confidence Game,14,1,10.8,11
+2024,Dec,False Pretenses/Swindle/Confidence Game,15,NA,11.57,12
+2025,Jan,False Pretenses/Swindle/Confidence Game,10,1,7.72,1
+2025,Feb,False Pretenses/Swindle/Confidence Game,8,NA,6.17,2
+2025,Mar,False Pretenses/Swindle/Confidence Game,18,NA,13.89,3
+2025,Apr,False Pretenses/Swindle/Confidence Game,14,NA,10.8,4
+2025,May,False Pretenses/Swindle/Confidence Game,13,NA,10.03,5
+2025,Jun,False Pretenses/Swindle/Confidence Game,14,2,10.8,6
+2025,Jul,False Pretenses/Swindle/Confidence Game,11,NA,8.49,7
+2025,Aug,False Pretenses/Swindle/Confidence Game,2,NA,1.54,8
+2025,Sep,False Pretenses/Swindle/Confidence Game,NA,NA,NA,9
+2021,Jan,Credit Card/Automated Teller Machine Fraud,17,2,13.45,1
+2021,Feb,Credit Card/Automated Teller Machine Fraud,14,2,11.07,2
+2021,Mar,Credit Card/Automated Teller Machine Fraud,12,3,9.49,3
+2021,Apr,Credit Card/Automated Teller Machine Fraud,14,1,11.07,4
+2021,May,Credit Card/Automated Teller Machine Fraud,19,NA,15.03,5
+2021,Jun,Credit Card/Automated Teller Machine Fraud,22,NA,17.4,6
+2021,Jul,Credit Card/Automated Teller Machine Fraud,30,3,23.73,7
+2021,Aug,Credit Card/Automated Teller Machine Fraud,25,3,19.78,8
+2021,Sep,Credit Card/Automated Teller Machine Fraud,28,1,22.15,9
+2021,Oct,Credit Card/Automated Teller Machine Fraud,30,1,23.73,10
+2021,Nov,Credit Card/Automated Teller Machine Fraud,29,1,22.94,11
+2021,Dec,Credit Card/Automated Teller Machine Fraud,32,1,25.31,12
+2022,Jan,Credit Card/Automated Teller Machine Fraud,23,2,17.99,1
+2022,Feb,Credit Card/Automated Teller Machine Fraud,9,2,7.04,2
+2022,Mar,Credit Card/Automated Teller Machine Fraud,20,3,15.64,3
+2022,Apr,Credit Card/Automated Teller Machine Fraud,18,1,14.08,4
+2022,May,Credit Card/Automated Teller Machine Fraud,17,3,13.3,5
+2022,Jun,Credit Card/Automated Teller Machine Fraud,42,7,32.849999999999994,6
+2022,Jul,Credit Card/Automated Teller Machine Fraud,34,6,26.59,7
+2022,Aug,Credit Card/Automated Teller Machine Fraud,38,2,29.72,8
+2022,Sep,Credit Card/Automated Teller Machine Fraud,39,1,30.5,9
+2022,Oct,Credit Card/Automated Teller Machine Fraud,26,2,20.33,10
+2022,Nov,Credit Card/Automated Teller Machine Fraud,19,2,14.86,11
+2022,Dec,Credit Card/Automated Teller Machine Fraud,23,NA,17.99,12
+2023,Jan,Credit Card/Automated Teller Machine Fraud,24,2,18.52,1
+2023,Feb,Credit Card/Automated Teller Machine Fraud,20,NA,15.43,2
+2023,Mar,Credit Card/Automated Teller Machine Fraud,18,1,13.89,3
+2023,Apr,Credit Card/Automated Teller Machine Fraud,22,1,16.979999999999997,4
+2023,May,Credit Card/Automated Teller Machine Fraud,15,1,11.57,5
+2023,Jun,Credit Card/Automated Teller Machine Fraud,29,1,22.38,6
+2023,Jul,Credit Card/Automated Teller Machine Fraud,20,2,15.43,7
+2023,Aug,Credit Card/Automated Teller Machine Fraud,27,6,20.83,8
+2023,Sep,Credit Card/Automated Teller Machine Fraud,22,3,16.979999999999997,9
+2023,Oct,Credit Card/Automated Teller Machine Fraud,27,3,20.83,10
+2023,Nov,Credit Card/Automated Teller Machine Fraud,22,2,16.979999999999997,11
+2023,Dec,Credit Card/Automated Teller Machine Fraud,16,3,12.35,12
+2024,Jan,Credit Card/Automated Teller Machine Fraud,12,1,9.26,1
+2024,Feb,Credit Card/Automated Teller Machine Fraud,13,2,10.03,2
+2024,Mar,Credit Card/Automated Teller Machine Fraud,11,NA,8.49,3
+2024,Apr,Credit Card/Automated Teller Machine Fraud,15,2,11.57,4
+2024,May,Credit Card/Automated Teller Machine Fraud,9,2,6.94,5
+2024,Jun,Credit Card/Automated Teller Machine Fraud,15,1,11.57,6
+2024,Jul,Credit Card/Automated Teller Machine Fraud,16,NA,12.35,7
+2024,Aug,Credit Card/Automated Teller Machine Fraud,23,1,17.75,8
+2024,Sep,Credit Card/Automated Teller Machine Fraud,10,NA,7.72,9
+2024,Oct,Credit Card/Automated Teller Machine Fraud,15,1,11.57,10
+2024,Nov,Credit Card/Automated Teller Machine Fraud,19,NA,14.66,11
+2024,Dec,Credit Card/Automated Teller Machine Fraud,10,1,7.72,12
+2025,Jan,Credit Card/Automated Teller Machine Fraud,14,1,10.8,1
+2025,Feb,Credit Card/Automated Teller Machine Fraud,13,3,10.03,2
+2025,Mar,Credit Card/Automated Teller Machine Fraud,10,2,7.72,3
+2025,Apr,Credit Card/Automated Teller Machine Fraud,12,2,9.26,4
+2025,May,Credit Card/Automated Teller Machine Fraud,11,NA,8.49,5
+2025,Jun,Credit Card/Automated Teller Machine Fraud,10,NA,7.72,6
+2025,Jul,Credit Card/Automated Teller Machine Fraud,8,1,6.17,7
+2025,Aug,Credit Card/Automated Teller Machine Fraud,NA,NA,NA,8
+2025,Sep,Credit Card/Automated Teller Machine Fraud,NA,NA,NA,9
+2021,Jan,Impersonation,NA,NA,NA,1
+2021,Feb,Impersonation,1,1,0.7899999999999999,2
+2021,Mar,Impersonation,1,1,0.7899999999999999,3
+2021,Apr,Impersonation,1,NA,0.7899999999999999,4
+2021,May,Impersonation,NA,NA,NA,5
+2021,Jun,Impersonation,NA,NA,NA,6
+2021,Jul,Impersonation,NA,NA,NA,7
+2021,Aug,Impersonation,NA,NA,NA,8
+2021,Sep,Impersonation,NA,NA,NA,9
+2021,Oct,Impersonation,NA,NA,NA,10
+2021,Nov,Impersonation,NA,NA,NA,11
+2021,Dec,Impersonation,NA,NA,NA,12
+2022,Jan,Impersonation,2,1,1.56,1
+2022,Feb,Impersonation,NA,NA,NA,2
+2022,Mar,Impersonation,1,NA,0.7799999999999999,3
+2022,Apr,Impersonation,NA,NA,NA,4
+2022,May,Impersonation,NA,NA,NA,5
+2022,Jun,Impersonation,NA,NA,NA,6
+2022,Jul,Impersonation,NA,NA,NA,7
+2022,Aug,Impersonation,NA,NA,NA,8
+2022,Sep,Impersonation,NA,NA,NA,9
+2022,Oct,Impersonation,NA,NA,NA,10
+2022,Nov,Impersonation,NA,NA,NA,11
+2022,Dec,Impersonation,NA,NA,NA,12
+2023,Jan,Impersonation,NA,NA,NA,1
+2023,Feb,Impersonation,NA,NA,NA,2
+2023,Mar,Impersonation,NA,NA,NA,3
+2023,Apr,Impersonation,1,NA,0.77,4
+2023,May,Impersonation,2,NA,1.54,5
+2023,Jun,Impersonation,NA,NA,NA,6
+2023,Jul,Impersonation,NA,NA,NA,7
+2023,Aug,Impersonation,2,NA,1.54,8
+2023,Sep,Impersonation,NA,NA,NA,9
+2023,Oct,Impersonation,NA,NA,NA,10
+2023,Nov,Impersonation,NA,NA,NA,11
+2023,Dec,Impersonation,NA,NA,NA,12
+2024,Jan,Impersonation,NA,NA,NA,1
+2024,Feb,Impersonation,NA,NA,NA,2
+2024,Mar,Impersonation,NA,NA,NA,3
+2024,Apr,Impersonation,NA,NA,NA,4
+2024,May,Impersonation,NA,NA,NA,5
+2024,Jun,Impersonation,1,NA,0.77,6
+2024,Jul,Impersonation,NA,NA,NA,7
+2024,Aug,Impersonation,NA,NA,NA,8
+2024,Sep,Impersonation,2,NA,1.54,9
+2024,Oct,Impersonation,1,NA,0.77,10
+2024,Nov,Impersonation,2,NA,1.54,11
+2024,Dec,Impersonation,NA,NA,NA,12
+2025,Jan,Impersonation,1,NA,0.77,1
+2025,Feb,Impersonation,NA,NA,NA,2
+2025,Mar,Impersonation,1,NA,0.77,3
+2025,Apr,Impersonation,NA,NA,NA,4
+2025,May,Impersonation,2,NA,1.54,5
+2025,Jun,Impersonation,1,NA,0.77,6
+2025,Jul,Impersonation,NA,NA,NA,7
+2025,Aug,Impersonation,NA,NA,NA,8
+2025,Sep,Impersonation,NA,NA,NA,9
+2021,Jan,Welfare Fraud,NA,NA,NA,1
+2021,Feb,Welfare Fraud,NA,NA,NA,2
+2021,Mar,Welfare Fraud,NA,NA,NA,3
+2021,Apr,Welfare Fraud,NA,NA,NA,4
+2021,May,Welfare Fraud,NA,NA,NA,5
+2021,Jun,Welfare Fraud,NA,NA,NA,6
+2021,Jul,Welfare Fraud,NA,NA,NA,7
+2021,Aug,Welfare Fraud,NA,NA,NA,8
+2021,Sep,Welfare Fraud,NA,NA,NA,9
+2021,Oct,Welfare Fraud,NA,NA,NA,10
+2021,Nov,Welfare Fraud,NA,NA,NA,11
+2021,Dec,Welfare Fraud,NA,NA,NA,12
+2022,Jan,Welfare Fraud,NA,NA,NA,1
+2022,Feb,Welfare Fraud,NA,NA,NA,2
+2022,Mar,Welfare Fraud,NA,NA,NA,3
+2022,Apr,Welfare Fraud,NA,NA,NA,4
+2022,May,Welfare Fraud,NA,NA,NA,5
+2022,Jun,Welfare Fraud,NA,NA,NA,6
+2022,Jul,Welfare Fraud,NA,NA,NA,7
+2022,Aug,Welfare Fraud,NA,NA,NA,8
+2022,Sep,Welfare Fraud,NA,NA,NA,9
+2022,Oct,Welfare Fraud,NA,NA,NA,10
+2022,Nov,Welfare Fraud,NA,NA,NA,11
+2022,Dec,Welfare Fraud,NA,NA,NA,12
+2023,Jan,Welfare Fraud,NA,NA,NA,1
+2023,Feb,Welfare Fraud,NA,NA,NA,2
+2023,Mar,Welfare Fraud,NA,NA,NA,3
+2023,Apr,Welfare Fraud,NA,NA,NA,4
+2023,May,Welfare Fraud,NA,NA,NA,5
+2023,Jun,Welfare Fraud,NA,NA,NA,6
+2023,Jul,Welfare Fraud,NA,NA,NA,7
+2023,Aug,Welfare Fraud,NA,NA,NA,8
+2023,Sep,Welfare Fraud,NA,NA,NA,9
+2023,Oct,Welfare Fraud,NA,NA,NA,10
+2023,Nov,Welfare Fraud,NA,NA,NA,11
+2023,Dec,Welfare Fraud,NA,NA,NA,12
+2024,Jan,Welfare Fraud,NA,NA,NA,1
+2024,Feb,Welfare Fraud,NA,NA,NA,2
+2024,Mar,Welfare Fraud,NA,NA,NA,3
+2024,Apr,Welfare Fraud,NA,NA,NA,4
+2024,May,Welfare Fraud,NA,NA,NA,5
+2024,Jun,Welfare Fraud,NA,NA,NA,6
+2024,Jul,Welfare Fraud,NA,NA,NA,7
+2024,Aug,Welfare Fraud,NA,NA,NA,8
+2024,Sep,Welfare Fraud,NA,NA,NA,9
+2024,Oct,Welfare Fraud,1,NA,0.77,10
+2024,Nov,Welfare Fraud,NA,NA,NA,11
+2024,Dec,Welfare Fraud,NA,NA,NA,12
+2025,Jan,Welfare Fraud,NA,NA,NA,1
+2025,Feb,Welfare Fraud,NA,NA,NA,2
+2025,Mar,Welfare Fraud,NA,NA,NA,3
+2025,Apr,Welfare Fraud,NA,NA,NA,4
+2025,May,Welfare Fraud,NA,NA,NA,5
+2025,Jun,Welfare Fraud,NA,NA,NA,6
+2025,Jul,Welfare Fraud,NA,NA,NA,7
+2025,Aug,Welfare Fraud,NA,NA,NA,8
+2025,Sep,Welfare Fraud,NA,NA,NA,9
+2021,Jan,Wire Fraud,3,NA,2.3699999999999997,1
+2021,Feb,Wire Fraud,2,NA,1.58,2
+2021,Mar,Wire Fraud,1,NA,0.7899999999999999,3
+2021,Apr,Wire Fraud,NA,NA,NA,4
+2021,May,Wire Fraud,1,NA,0.7899999999999999,5
+2021,Jun,Wire Fraud,1,NA,0.7899999999999999,6
+2021,Jul,Wire Fraud,1,NA,0.7899999999999999,7
+2021,Aug,Wire Fraud,NA,NA,NA,8
+2021,Sep,Wire Fraud,1,NA,0.7899999999999999,9
+2021,Oct,Wire Fraud,3,NA,2.3699999999999997,10
+2021,Nov,Wire Fraud,4,NA,3.16,11
+2021,Dec,Wire Fraud,1,NA,0.7899999999999999,12
+2022,Jan,Wire Fraud,2,NA,1.56,1
+2022,Feb,Wire Fraud,3,NA,2.3499999999999996,2
+2022,Mar,Wire Fraud,1,NA,0.7799999999999999,3
+2022,Apr,Wire Fraud,5,NA,3.91,4
+2022,May,Wire Fraud,5,NA,3.91,5
+2022,Jun,Wire Fraud,5,NA,3.91,6
+2022,Jul,Wire Fraud,4,1,3.13,7
+2022,Aug,Wire Fraud,5,NA,3.91,8
+2022,Sep,Wire Fraud,1,NA,0.7799999999999999,9
+2022,Oct,Wire Fraud,5,NA,3.91,10
+2022,Nov,Wire Fraud,2,1,1.56,11
+2022,Dec,Wire Fraud,5,NA,3.91,12
+2023,Jan,Wire Fraud,4,NA,3.09,1
+2023,Feb,Wire Fraud,4,NA,3.09,2
+2023,Mar,Wire Fraud,6,NA,4.63,3
+2023,Apr,Wire Fraud,2,NA,1.54,4
+2023,May,Wire Fraud,5,NA,3.86,5
+2023,Jun,Wire Fraud,1,NA,0.77,6
+2023,Jul,Wire Fraud,2,NA,1.54,7
+2023,Aug,Wire Fraud,4,NA,3.09,8
+2023,Sep,Wire Fraud,4,1,3.09,9
+2023,Oct,Wire Fraud,4,NA,3.09,10
+2023,Nov,Wire Fraud,3,NA,2.3099999999999996,11
+2023,Dec,Wire Fraud,2,NA,1.54,12
+2024,Jan,Wire Fraud,1,NA,0.77,1
+2024,Feb,Wire Fraud,2,NA,1.54,2
+2024,Mar,Wire Fraud,1,NA,0.77,3
+2024,Apr,Wire Fraud,3,NA,2.3099999999999996,4
+2024,May,Wire Fraud,4,NA,3.09,5
+2024,Jun,Wire Fraud,2,NA,1.54,6
+2024,Jul,Wire Fraud,3,NA,2.3099999999999996,7
+2024,Aug,Wire Fraud,3,NA,2.3099999999999996,8
+2024,Sep,Wire Fraud,3,NA,2.3099999999999996,9
+2024,Oct,Wire Fraud,1,NA,0.77,10
+2024,Nov,Wire Fraud,NA,NA,NA,11
+2024,Dec,Wire Fraud,4,1,3.09,12
+2025,Jan,Wire Fraud,3,NA,2.3099999999999996,1
+2025,Feb,Wire Fraud,5,NA,3.86,2
+2025,Mar,Wire Fraud,1,NA,0.77,3
+2025,Apr,Wire Fraud,NA,NA,NA,4
+2025,May,Wire Fraud,2,NA,1.54,5
+2025,Jun,Wire Fraud,4,NA,3.09,6
+2025,Jul,Wire Fraud,3,NA,2.3099999999999996,7
+2025,Aug,Wire Fraud,NA,NA,NA,8
+2025,Sep,Wire Fraud,NA,NA,NA,9
+2021,Jan,Identity Theft,3,NA,2.3699999999999997,1
+2021,Feb,Identity Theft,3,NA,2.3699999999999997,2
+2021,Mar,Identity Theft,7,NA,5.54,3
+2021,Apr,Identity Theft,2,NA,1.58,4
+2021,May,Identity Theft,3,NA,2.3699999999999997,5
+2021,Jun,Identity Theft,3,NA,2.3699999999999997,6
+2021,Jul,Identity Theft,7,NA,5.54,7
+2021,Aug,Identity Theft,2,NA,1.58,8
+2021,Sep,Identity Theft,5,NA,3.96,9
+2021,Oct,Identity Theft,2,NA,1.58,10
+2021,Nov,Identity Theft,2,1,1.58,11
+2021,Dec,Identity Theft,3,NA,2.3699999999999997,12
+2022,Jan,Identity Theft,1,NA,0.7799999999999999,1
+2022,Feb,Identity Theft,3,NA,2.3499999999999996,2
+2022,Mar,Identity Theft,9,NA,7.04,3
+2022,Apr,Identity Theft,5,NA,3.91,4
+2022,May,Identity Theft,6,1,4.6899999999999995,5
+2022,Jun,Identity Theft,7,NA,5.470000000000001,6
+2022,Jul,Identity Theft,2,NA,1.56,7
+2022,Aug,Identity Theft,8,NA,6.26,8
+2022,Sep,Identity Theft,7,1,5.470000000000001,9
+2022,Oct,Identity Theft,7,NA,5.470000000000001,10
+2022,Nov,Identity Theft,6,1,4.6899999999999995,11
+2022,Dec,Identity Theft,1,NA,0.7799999999999999,12
+2023,Jan,Identity Theft,3,NA,2.3099999999999996,1
+2023,Feb,Identity Theft,7,NA,5.4,2
+2023,Mar,Identity Theft,5,NA,3.86,3
+2023,Apr,Identity Theft,4,1,3.09,4
+2023,May,Identity Theft,3,1,2.3099999999999996,5
+2023,Jun,Identity Theft,5,NA,3.86,6
+2023,Jul,Identity Theft,4,NA,3.09,7
+2023,Aug,Identity Theft,4,NA,3.09,8
+2023,Sep,Identity Theft,7,NA,5.4,9
+2023,Oct,Identity Theft,4,NA,3.09,10
+2023,Nov,Identity Theft,2,NA,1.54,11
+2023,Dec,Identity Theft,1,NA,0.77,12
+2024,Jan,Identity Theft,3,NA,2.3099999999999996,1
+2024,Feb,Identity Theft,3,NA,2.3099999999999996,2
+2024,Mar,Identity Theft,5,NA,3.86,3
+2024,Apr,Identity Theft,6,NA,4.63,4
+2024,May,Identity Theft,2,NA,1.54,5
+2024,Jun,Identity Theft,3,NA,2.3099999999999996,6
+2024,Jul,Identity Theft,2,NA,1.54,7
+2024,Aug,Identity Theft,2,NA,1.54,8
+2024,Sep,Identity Theft,3,NA,2.3099999999999996,9
+2024,Oct,Identity Theft,5,1,3.86,10
+2024,Nov,Identity Theft,7,1,5.4,11
+2024,Dec,Identity Theft,13,NA,10.03,12
+2025,Jan,Identity Theft,5,1,3.86,1
+2025,Feb,Identity Theft,3,NA,2.3099999999999996,2
+2025,Mar,Identity Theft,9,NA,6.94,3
+2025,Apr,Identity Theft,5,NA,3.86,4
+2025,May,Identity Theft,1,NA,0.77,5
+2025,Jun,Identity Theft,4,NA,3.09,6
+2025,Jul,Identity Theft,3,NA,2.3099999999999996,7
+2025,Aug,Identity Theft,1,NA,0.77,8
+2025,Sep,Identity Theft,NA,NA,NA,9
+2021,Jan,Hacking/Computer Invasion,NA,NA,NA,1
+2021,Feb,Hacking/Computer Invasion,NA,NA,NA,2
+2021,Mar,Hacking/Computer Invasion,NA,NA,NA,3
+2021,Apr,Hacking/Computer Invasion,NA,NA,NA,4
+2021,May,Hacking/Computer Invasion,NA,NA,NA,5
+2021,Jun,Hacking/Computer Invasion,NA,NA,NA,6
+2021,Jul,Hacking/Computer Invasion,1,NA,0.7899999999999999,7
+2021,Aug,Hacking/Computer Invasion,NA,NA,NA,8
+2021,Sep,Hacking/Computer Invasion,NA,NA,NA,9
+2021,Oct,Hacking/Computer Invasion,NA,NA,NA,10
+2021,Nov,Hacking/Computer Invasion,NA,NA,NA,11
+2021,Dec,Hacking/Computer Invasion,NA,NA,NA,12
+2022,Jan,Hacking/Computer Invasion,NA,NA,NA,1
+2022,Feb,Hacking/Computer Invasion,NA,NA,NA,2
+2022,Mar,Hacking/Computer Invasion,NA,NA,NA,3
+2022,Apr,Hacking/Computer Invasion,NA,NA,NA,4
+2022,May,Hacking/Computer Invasion,1,NA,0.7799999999999999,5
+2022,Jun,Hacking/Computer Invasion,NA,NA,NA,6
+2022,Jul,Hacking/Computer Invasion,NA,NA,NA,7
+2022,Aug,Hacking/Computer Invasion,1,NA,0.7799999999999999,8
+2022,Sep,Hacking/Computer Invasion,1,NA,0.7799999999999999,9
+2022,Oct,Hacking/Computer Invasion,NA,NA,NA,10
+2022,Nov,Hacking/Computer Invasion,NA,NA,NA,11
+2022,Dec,Hacking/Computer Invasion,NA,NA,NA,12
+2023,Jan,Hacking/Computer Invasion,NA,NA,NA,1
+2023,Feb,Hacking/Computer Invasion,NA,NA,NA,2
+2023,Mar,Hacking/Computer Invasion,NA,NA,NA,3
+2023,Apr,Hacking/Computer Invasion,1,NA,0.77,4
+2023,May,Hacking/Computer Invasion,NA,NA,NA,5
+2023,Jun,Hacking/Computer Invasion,NA,NA,NA,6
+2023,Jul,Hacking/Computer Invasion,NA,NA,NA,7
+2023,Aug,Hacking/Computer Invasion,1,NA,0.77,8
+2023,Sep,Hacking/Computer Invasion,NA,NA,NA,9
+2023,Oct,Hacking/Computer Invasion,NA,NA,NA,10
+2023,Nov,Hacking/Computer Invasion,NA,NA,NA,11
+2023,Dec,Hacking/Computer Invasion,1,NA,0.77,12
+2024,Jan,Hacking/Computer Invasion,NA,NA,NA,1
+2024,Feb,Hacking/Computer Invasion,NA,NA,NA,2
+2024,Mar,Hacking/Computer Invasion,NA,NA,NA,3
+2024,Apr,Hacking/Computer Invasion,NA,NA,NA,4
+2024,May,Hacking/Computer Invasion,1,NA,0.77,5
+2024,Jun,Hacking/Computer Invasion,NA,NA,NA,6
+2024,Jul,Hacking/Computer Invasion,NA,NA,NA,7
+2024,Aug,Hacking/Computer Invasion,NA,NA,NA,8
+2024,Sep,Hacking/Computer Invasion,NA,NA,NA,9
+2024,Oct,Hacking/Computer Invasion,NA,NA,NA,10
+2024,Nov,Hacking/Computer Invasion,1,NA,0.77,11
+2024,Dec,Hacking/Computer Invasion,1,NA,0.77,12
+2025,Jan,Hacking/Computer Invasion,NA,NA,NA,1
+2025,Feb,Hacking/Computer Invasion,1,NA,0.77,2
+2025,Mar,Hacking/Computer Invasion,2,1,1.54,3
+2025,Apr,Hacking/Computer Invasion,NA,NA,NA,4
+2025,May,Hacking/Computer Invasion,NA,NA,NA,5
+2025,Jun,Hacking/Computer Invasion,1,NA,0.77,6
+2025,Jul,Hacking/Computer Invasion,NA,NA,NA,7
+2025,Aug,Hacking/Computer Invasion,NA,NA,NA,8
+2025,Sep,Hacking/Computer Invasion,NA,NA,NA,9
+2021,Jan,Robbery,3,1,2.3699999999999997,1
+2021,Feb,Robbery,6,3,4.75,2
+2021,Mar,Robbery,5,2,3.96,3
+2021,Apr,Robbery,6,3,4.75,4
+2021,May,Robbery,4,NA,3.16,5
+2021,Jun,Robbery,2,NA,1.58,6
+2021,Jul,Robbery,4,1,3.16,7
+2021,Aug,Robbery,4,2,3.16,8
+2021,Sep,Robbery,4,NA,3.16,9
+2021,Oct,Robbery,6,1,4.75,10
+2021,Nov,Robbery,5,1,3.96,11
+2021,Dec,Robbery,2,1,1.58,12
+2022,Jan,Robbery,4,3,3.13,1
+2022,Feb,Robbery,5,NA,3.91,2
+2022,Mar,Robbery,3,1,2.3499999999999996,3
+2022,Apr,Robbery,4,2,3.13,4
+2022,May,Robbery,7,NA,5.470000000000001,5
+2022,Jun,Robbery,5,2,3.91,6
+2022,Jul,Robbery,9,3,7.04,7
+2022,Aug,Robbery,7,4,5.470000000000001,8
+2022,Sep,Robbery,3,1,2.3499999999999996,9
+2022,Oct,Robbery,8,3,6.26,10
+2022,Nov,Robbery,8,3,6.26,11
+2022,Dec,Robbery,2,1,1.56,12
+2023,Jan,Robbery,5,4,3.86,1
+2023,Feb,Robbery,3,1,2.3099999999999996,2
+2023,Mar,Robbery,1,1,0.77,3
+2023,Apr,Robbery,6,3,4.63,4
+2023,May,Robbery,6,2,4.63,5
+2023,Jun,Robbery,5,2,3.86,6
+2023,Jul,Robbery,3,2,2.3099999999999996,7
+2023,Aug,Robbery,4,1,3.09,8
+2023,Sep,Robbery,2,NA,1.54,9
+2023,Oct,Robbery,3,NA,2.3099999999999996,10
+2023,Nov,Robbery,3,1,2.3099999999999996,11
+2023,Dec,Robbery,3,1,2.3099999999999996,12
+2024,Jan,Robbery,6,2,4.63,1
+2024,Feb,Robbery,5,3,3.86,2
+2024,Mar,Robbery,6,2,4.63,3
+2024,Apr,Robbery,8,5,6.17,4
+2024,May,Robbery,2,NA,1.54,5
+2024,Jun,Robbery,3,2,2.3099999999999996,6
+2024,Jul,Robbery,6,2,4.63,7
+2024,Aug,Robbery,3,2,2.3099999999999996,8
+2024,Sep,Robbery,2,NA,1.54,9
+2024,Oct,Robbery,3,1,2.3099999999999996,10
+2024,Nov,Robbery,4,1,3.09,11
+2024,Dec,Robbery,4,2,3.09,12
+2025,Jan,Robbery,3,3,2.3099999999999996,1
+2025,Feb,Robbery,NA,NA,NA,2
+2025,Mar,Robbery,4,1,3.09,3
+2025,Apr,Robbery,2,1,1.54,4
+2025,May,Robbery,3,2,2.3099999999999996,5
+2025,Jun,Robbery,9,5,6.94,6
+2025,Jul,Robbery,3,1,2.3099999999999996,7
+2025,Aug,Robbery,NA,NA,NA,8
+2025,Sep,Robbery,NA,NA,NA,9
+2021,Jan,Pocket-picking,NA,NA,NA,1
+2021,Feb,Pocket-picking,NA,NA,NA,2
+2021,Mar,Pocket-picking,NA,NA,NA,3
+2021,Apr,Pocket-picking,1,NA,0.7899999999999999,4
+2021,May,Pocket-picking,NA,NA,NA,5
+2021,Jun,Pocket-picking,1,NA,0.7899999999999999,6
+2021,Jul,Pocket-picking,2,NA,1.58,7
+2021,Aug,Pocket-picking,NA,NA,NA,8
+2021,Sep,Pocket-picking,1,NA,0.7899999999999999,9
+2021,Oct,Pocket-picking,1,NA,0.7899999999999999,10
+2021,Nov,Pocket-picking,NA,NA,NA,11
+2021,Dec,Pocket-picking,NA,NA,NA,12
+2022,Jan,Pocket-picking,NA,NA,NA,1
+2022,Feb,Pocket-picking,NA,NA,NA,2
+2022,Mar,Pocket-picking,NA,NA,NA,3
+2022,Apr,Pocket-picking,NA,NA,NA,4
+2022,May,Pocket-picking,1,NA,0.7799999999999999,5
+2022,Jun,Pocket-picking,NA,NA,NA,6
+2022,Jul,Pocket-picking,1,NA,0.7799999999999999,7
+2022,Aug,Pocket-picking,1,NA,0.7799999999999999,8
+2022,Sep,Pocket-picking,1,NA,0.7799999999999999,9
+2022,Oct,Pocket-picking,NA,NA,NA,10
+2022,Nov,Pocket-picking,NA,NA,NA,11
+2022,Dec,Pocket-picking,NA,NA,NA,12
+2023,Jan,Pocket-picking,NA,NA,NA,1
+2023,Feb,Pocket-picking,NA,NA,NA,2
+2023,Mar,Pocket-picking,NA,NA,NA,3
+2023,Apr,Pocket-picking,1,NA,0.77,4
+2023,May,Pocket-picking,NA,NA,NA,5
+2023,Jun,Pocket-picking,2,NA,1.54,6
+2023,Jul,Pocket-picking,1,NA,0.77,7
+2023,Aug,Pocket-picking,NA,NA,NA,8
+2023,Sep,Pocket-picking,NA,NA,NA,9
+2023,Oct,Pocket-picking,1,NA,0.77,10
+2023,Nov,Pocket-picking,NA,NA,NA,11
+2023,Dec,Pocket-picking,NA,NA,NA,12
+2024,Jan,Pocket-picking,NA,NA,NA,1
+2024,Feb,Pocket-picking,NA,NA,NA,2
+2024,Mar,Pocket-picking,NA,NA,NA,3
+2024,Apr,Pocket-picking,NA,NA,NA,4
+2024,May,Pocket-picking,NA,NA,NA,5
+2024,Jun,Pocket-picking,NA,NA,NA,6
+2024,Jul,Pocket-picking,1,NA,0.77,7
+2024,Aug,Pocket-picking,NA,NA,NA,8
+2024,Sep,Pocket-picking,NA,NA,NA,9
+2024,Oct,Pocket-picking,1,NA,0.77,10
+2024,Nov,Pocket-picking,1,NA,0.77,11
+2024,Dec,Pocket-picking,NA,NA,NA,12
+2025,Jan,Pocket-picking,1,NA,0.77,1
+2025,Feb,Pocket-picking,NA,NA,NA,2
+2025,Mar,Pocket-picking,NA,NA,NA,3
+2025,Apr,Pocket-picking,NA,NA,NA,4
+2025,May,Pocket-picking,NA,NA,NA,5
+2025,Jun,Pocket-picking,NA,NA,NA,6
+2025,Jul,Pocket-picking,NA,NA,NA,7
+2025,Aug,Pocket-picking,NA,NA,NA,8
+2025,Sep,Pocket-picking,NA,NA,NA,9
+2021,Jan,Purse-snatching,NA,NA,NA,1
+2021,Feb,Purse-snatching,1,NA,0.7899999999999999,2
+2021,Mar,Purse-snatching,NA,NA,NA,3
+2021,Apr,Purse-snatching,NA,NA,NA,4
+2021,May,Purse-snatching,NA,NA,NA,5
+2021,Jun,Purse-snatching,NA,NA,NA,6
+2021,Jul,Purse-snatching,NA,NA,NA,7
+2021,Aug,Purse-snatching,NA,NA,NA,8
+2021,Sep,Purse-snatching,1,1,0.7899999999999999,9
+2021,Oct,Purse-snatching,NA,NA,NA,10
+2021,Nov,Purse-snatching,1,NA,0.7899999999999999,11
+2021,Dec,Purse-snatching,1,NA,0.7899999999999999,12
+2022,Jan,Purse-snatching,NA,NA,NA,1
+2022,Feb,Purse-snatching,1,1,0.7799999999999999,2
+2022,Mar,Purse-snatching,NA,NA,NA,3
+2022,Apr,Purse-snatching,NA,NA,NA,4
+2022,May,Purse-snatching,NA,NA,NA,5
+2022,Jun,Purse-snatching,NA,NA,NA,6
+2022,Jul,Purse-snatching,1,1,0.7799999999999999,7
+2022,Aug,Purse-snatching,1,NA,0.7799999999999999,8
+2022,Sep,Purse-snatching,NA,NA,NA,9
+2022,Oct,Purse-snatching,2,NA,1.56,10
+2022,Nov,Purse-snatching,NA,NA,NA,11
+2022,Dec,Purse-snatching,NA,NA,NA,12
+2023,Jan,Purse-snatching,NA,NA,NA,1
+2023,Feb,Purse-snatching,NA,NA,NA,2
+2023,Mar,Purse-snatching,NA,NA,NA,3
+2023,Apr,Purse-snatching,NA,NA,NA,4
+2023,May,Purse-snatching,1,NA,0.77,5
+2023,Jun,Purse-snatching,2,1,1.54,6
+2023,Jul,Purse-snatching,NA,NA,NA,7
+2023,Aug,Purse-snatching,NA,NA,NA,8
+2023,Sep,Purse-snatching,NA,NA,NA,9
+2023,Oct,Purse-snatching,NA,NA,NA,10
+2023,Nov,Purse-snatching,NA,NA,NA,11
+2023,Dec,Purse-snatching,NA,NA,NA,12
+2024,Jan,Purse-snatching,NA,NA,NA,1
+2024,Feb,Purse-snatching,NA,NA,NA,2
+2024,Mar,Purse-snatching,NA,NA,NA,3
+2024,Apr,Purse-snatching,1,1,0.77,4
+2024,May,Purse-snatching,NA,NA,NA,5
+2024,Jun,Purse-snatching,1,NA,0.77,6
+2024,Jul,Purse-snatching,NA,NA,NA,7
+2024,Aug,Purse-snatching,2,NA,1.54,8
+2024,Sep,Purse-snatching,NA,NA,NA,9
+2024,Oct,Purse-snatching,1,NA,0.77,10
+2024,Nov,Purse-snatching,1,NA,0.77,11
+2024,Dec,Purse-snatching,2,NA,1.54,12
+2025,Jan,Purse-snatching,NA,NA,NA,1
+2025,Feb,Purse-snatching,NA,NA,NA,2
+2025,Mar,Purse-snatching,NA,NA,NA,3
+2025,Apr,Purse-snatching,NA,NA,NA,4
+2025,May,Purse-snatching,NA,NA,NA,5
+2025,Jun,Purse-snatching,NA,NA,NA,6
+2025,Jul,Purse-snatching,NA,NA,NA,7
+2025,Aug,Purse-snatching,NA,NA,NA,8
+2025,Sep,Purse-snatching,NA,NA,NA,9
+2021,Jan,Shoplifting,33,9,26.1,1
+2021,Feb,Shoplifting,27,5,21.36,2
+2021,Mar,Shoplifting,40,16,31.64,3
+2021,Apr,Shoplifting,22,3,17.4,4
+2021,May,Shoplifting,22,3,17.4,5
+2021,Jun,Shoplifting,32,7,25.31,6
+2021,Jul,Shoplifting,27,7,21.36,7
+2021,Aug,Shoplifting,37,12,29.27,8
+2021,Sep,Shoplifting,32,9,25.31,9
+2021,Oct,Shoplifting,39,15,30.85,10
+2021,Nov,Shoplifting,31,9,24.52,11
+2021,Dec,Shoplifting,36,10,28.479999999999997,12
+2022,Jan,Shoplifting,33,9,25.81,1
+2022,Feb,Shoplifting,26,5,20.33,2
+2022,Mar,Shoplifting,35,7,27.37,3
+2022,Apr,Shoplifting,39,14,30.5,4
+2022,May,Shoplifting,41,12,32.07,5
+2022,Jun,Shoplifting,40,17,31.28,6
+2022,Jul,Shoplifting,42,12,32.849999999999994,7
+2022,Aug,Shoplifting,35,10,27.37,8
+2022,Sep,Shoplifting,27,8,21.12,9
+2022,Oct,Shoplifting,28,7,21.9,10
+2022,Nov,Shoplifting,38,9,29.72,11
+2022,Dec,Shoplifting,26,2,20.33,12
+2023,Jan,Shoplifting,44,13,33.949999999999996,1
+2023,Feb,Shoplifting,22,10,16.979999999999997,2
+2023,Mar,Shoplifting,30,13,23.15,3
+2023,Apr,Shoplifting,39,7,30.09,4
+2023,May,Shoplifting,34,8,26.23,5
+2023,Jun,Shoplifting,32,12,24.69,6
+2023,Jul,Shoplifting,36,10,27.78,7
+2023,Aug,Shoplifting,41,11,31.64,8
+2023,Sep,Shoplifting,38,11,29.32,9
+2023,Oct,Shoplifting,42,10,32.41,10
+2023,Nov,Shoplifting,35,8,27.01,11
+2023,Dec,Shoplifting,35,9,27.01,12
+2024,Jan,Shoplifting,37,10,28.55,1
+2024,Feb,Shoplifting,33,11,25.459999999999997,2
+2024,Mar,Shoplifting,47,12,36.260000000000005,3
+2024,Apr,Shoplifting,56,12,43.21,4
+2024,May,Shoplifting,42,10,32.41,5
+2024,Jun,Shoplifting,33,11,25.459999999999997,6
+2024,Jul,Shoplifting,46,13,35.49,7
+2024,Aug,Shoplifting,46,13,35.49,8
+2024,Sep,Shoplifting,43,11,33.18,9
+2024,Oct,Shoplifting,44,18,33.949999999999996,10
+2024,Nov,Shoplifting,45,9,34.720000000000006,11
+2024,Dec,Shoplifting,57,21,43.98,12
+2025,Jan,Shoplifting,42,14,32.41,1
+2025,Feb,Shoplifting,43,14,33.18,2
+2025,Mar,Shoplifting,49,13,37.809999999999995,3
+2025,Apr,Shoplifting,58,20,44.75,4
+2025,May,Shoplifting,65,23,50.15,5
+2025,Jun,Shoplifting,60,19,46.3,6
+2025,Jul,Shoplifting,44,12,33.949999999999996,7
+2025,Aug,Shoplifting,9,2,6.94,8
+2025,Sep,Shoplifting,NA,NA,NA,9
+2021,Jan,Theft From Building,42,4,33.220000000000006,1
+2021,Feb,Theft From Building,17,6,13.45,2
+2021,Mar,Theft From Building,21,3,16.610000000000003,3
+2021,Apr,Theft From Building,22,1,17.4,4
+2021,May,Theft From Building,29,3,22.94,5
+2021,Jun,Theft From Building,24,4,18.979999999999997,6
+2021,Jul,Theft From Building,41,7,32.43,7
+2021,Aug,Theft From Building,41,3,32.43,8
+2021,Sep,Theft From Building,33,4,26.1,9
+2021,Oct,Theft From Building,31,4,24.52,10
+2021,Nov,Theft From Building,31,5,24.52,11
+2021,Dec,Theft From Building,35,3,27.69,12
+2022,Jan,Theft From Building,25,5,19.55,1
+2022,Feb,Theft From Building,25,2,19.55,2
+2022,Mar,Theft From Building,50,8,39.1,3
+2022,Apr,Theft From Building,32,3,25.03,4
+2022,May,Theft From Building,33,3,25.81,5
+2022,Jun,Theft From Building,38,5,29.72,6
+2022,Jul,Theft From Building,38,9,29.72,7
+2022,Aug,Theft From Building,31,2,24.24,8
+2022,Sep,Theft From Building,30,1,23.459999999999997,9
+2022,Oct,Theft From Building,27,10,21.12,10
+2022,Nov,Theft From Building,22,3,17.21,11
+2022,Dec,Theft From Building,24,1,18.77,12
+2023,Jan,Theft From Building,40,8,30.86,1
+2023,Feb,Theft From Building,29,6,22.38,2
+2023,Mar,Theft From Building,29,2,22.38,3
+2023,Apr,Theft From Building,23,1,17.75,4
+2023,May,Theft From Building,36,NA,27.78,5
+2023,Jun,Theft From Building,22,1,16.979999999999997,6
+2023,Jul,Theft From Building,34,3,26.23,7
+2023,Aug,Theft From Building,38,3,29.32,8
+2023,Sep,Theft From Building,40,4,30.86,9
+2023,Oct,Theft From Building,38,7,29.32,10
+2023,Nov,Theft From Building,26,4,20.06,11
+2023,Dec,Theft From Building,32,4,24.69,12
+2024,Jan,Theft From Building,18,3,13.89,1
+2024,Feb,Theft From Building,31,5,23.92,2
+2024,Mar,Theft From Building,19,2,14.66,3
+2024,Apr,Theft From Building,27,4,20.83,4
+2024,May,Theft From Building,25,4,19.29,5
+2024,Jun,Theft From Building,28,5,21.6,6
+2024,Jul,Theft From Building,26,2,20.06,7
+2024,Aug,Theft From Building,35,2,27.01,8
+2024,Sep,Theft From Building,18,3,13.89,9
+2024,Oct,Theft From Building,19,4,14.66,10
+2024,Nov,Theft From Building,24,1,18.52,11
+2024,Dec,Theft From Building,30,3,23.15,12
+2025,Jan,Theft From Building,15,NA,11.57,1
+2025,Feb,Theft From Building,19,3,14.66,2
+2025,Mar,Theft From Building,28,6,21.6,3
+2025,Apr,Theft From Building,11,1,8.49,4
+2025,May,Theft From Building,26,2,20.06,5
+2025,Jun,Theft From Building,16,4,12.35,6
+2025,Jul,Theft From Building,11,NA,8.49,7
+2025,Aug,Theft From Building,4,NA,3.09,8
+2025,Sep,Theft From Building,NA,NA,NA,9
+2021,Jan,Theft From Coin Operated Machine or Device,1,NA,0.7899999999999999,1
+2021,Feb,Theft From Coin Operated Machine or Device,NA,NA,NA,2
+2021,Mar,Theft From Coin Operated Machine or Device,1,NA,0.7899999999999999,3
+2021,Apr,Theft From Coin Operated Machine or Device,2,NA,1.58,4
+2021,May,Theft From Coin Operated Machine or Device,NA,NA,NA,5
+2021,Jun,Theft From Coin Operated Machine or Device,NA,NA,NA,6
+2021,Jul,Theft From Coin Operated Machine or Device,NA,NA,NA,7
+2021,Aug,Theft From Coin Operated Machine or Device,2,NA,1.58,8
+2021,Sep,Theft From Coin Operated Machine or Device,NA,NA,NA,9
+2021,Oct,Theft From Coin Operated Machine or Device,NA,NA,NA,10
+2021,Nov,Theft From Coin Operated Machine or Device,1,1,0.7899999999999999,11
+2021,Dec,Theft From Coin Operated Machine or Device,NA,NA,NA,12
+2022,Jan,Theft From Coin Operated Machine or Device,NA,NA,NA,1
+2022,Feb,Theft From Coin Operated Machine or Device,1,NA,0.7799999999999999,2
+2022,Mar,Theft From Coin Operated Machine or Device,NA,NA,NA,3
+2022,Apr,Theft From Coin Operated Machine or Device,NA,NA,NA,4
+2022,May,Theft From Coin Operated Machine or Device,NA,NA,NA,5
+2022,Jun,Theft From Coin Operated Machine or Device,NA,NA,NA,6
+2022,Jul,Theft From Coin Operated Machine or Device,NA,NA,NA,7
+2022,Aug,Theft From Coin Operated Machine or Device,NA,NA,NA,8
+2022,Sep,Theft From Coin Operated Machine or Device,NA,NA,NA,9
+2022,Oct,Theft From Coin Operated Machine or Device,NA,NA,NA,10
+2022,Nov,Theft From Coin Operated Machine or Device,NA,NA,NA,11
+2022,Dec,Theft From Coin Operated Machine or Device,NA,NA,NA,12
+2023,Jan,Theft From Coin Operated Machine or Device,NA,NA,NA,1
+2023,Feb,Theft From Coin Operated Machine or Device,NA,NA,NA,2
+2023,Mar,Theft From Coin Operated Machine or Device,1,NA,0.77,3
+2023,Apr,Theft From Coin Operated Machine or Device,1,NA,0.77,4
+2023,May,Theft From Coin Operated Machine or Device,NA,NA,NA,5
+2023,Jun,Theft From Coin Operated Machine or Device,NA,NA,NA,6
+2023,Jul,Theft From Coin Operated Machine or Device,NA,NA,NA,7
+2023,Aug,Theft From Coin Operated Machine or Device,NA,NA,NA,8
+2023,Sep,Theft From Coin Operated Machine or Device,NA,NA,NA,9
+2023,Oct,Theft From Coin Operated Machine or Device,NA,NA,NA,10
+2023,Nov,Theft From Coin Operated Machine or Device,NA,NA,NA,11
+2023,Dec,Theft From Coin Operated Machine or Device,NA,NA,NA,12
+2024,Jan,Theft From Coin Operated Machine or Device,NA,NA,NA,1
+2024,Feb,Theft From Coin Operated Machine or Device,NA,NA,NA,2
+2024,Mar,Theft From Coin Operated Machine or Device,NA,NA,NA,3
+2024,Apr,Theft From Coin Operated Machine or Device,NA,NA,NA,4
+2024,May,Theft From Coin Operated Machine or Device,NA,NA,NA,5
+2024,Jun,Theft From Coin Operated Machine or Device,NA,NA,NA,6
+2024,Jul,Theft From Coin Operated Machine or Device,NA,NA,NA,7
+2024,Aug,Theft From Coin Operated Machine or Device,NA,NA,NA,8
+2024,Sep,Theft From Coin Operated Machine or Device,NA,NA,NA,9
+2024,Oct,Theft From Coin Operated Machine or Device,NA,NA,NA,10
+2024,Nov,Theft From Coin Operated Machine or Device,NA,NA,NA,11
+2024,Dec,Theft From Coin Operated Machine or Device,1,NA,0.77,12
+2025,Jan,Theft From Coin Operated Machine or Device,NA,NA,NA,1
+2025,Feb,Theft From Coin Operated Machine or Device,NA,NA,NA,2
+2025,Mar,Theft From Coin Operated Machine or Device,NA,NA,NA,3
+2025,Apr,Theft From Coin Operated Machine or Device,NA,NA,NA,4
+2025,May,Theft From Coin Operated Machine or Device,1,NA,0.77,5
+2025,Jun,Theft From Coin Operated Machine or Device,NA,NA,NA,6
+2025,Jul,Theft From Coin Operated Machine or Device,NA,NA,NA,7
+2025,Aug,Theft From Coin Operated Machine or Device,NA,NA,NA,8
+2025,Sep,Theft From Coin Operated Machine or Device,NA,NA,NA,9
+2021,Jan,Theft From Motor Vehicle,93,5,73.57,1
+2021,Feb,Theft From Motor Vehicle,26,2,20.57,2
+2021,Mar,Theft From Motor Vehicle,27,2,21.36,3
+2021,Apr,Theft From Motor Vehicle,24,1,18.979999999999997,4
+2021,May,Theft From Motor Vehicle,40,2,31.64,5
+2021,Jun,Theft From Motor Vehicle,65,1,51.42,6
+2021,Jul,Theft From Motor Vehicle,91,6,71.98,7
+2021,Aug,Theft From Motor Vehicle,101,6,79.89,8
+2021,Sep,Theft From Motor Vehicle,71,6,56.16,9
+2021,Oct,Theft From Motor Vehicle,96,1,75.94000000000001,10
+2021,Nov,Theft From Motor Vehicle,67,4,53,11
+2021,Dec,Theft From Motor Vehicle,54,3,42.720000000000006,12
+2022,Jan,Theft From Motor Vehicle,36,2,28.16,1
+2022,Feb,Theft From Motor Vehicle,39,4,30.5,2
+2022,Mar,Theft From Motor Vehicle,77,3,60.220000000000006,3
+2022,Apr,Theft From Motor Vehicle,50,1,39.1,4
+2022,May,Theft From Motor Vehicle,68,11,53.18,5
+2022,Jun,Theft From Motor Vehicle,81,4,63.349999999999994,6
+2022,Jul,Theft From Motor Vehicle,108,4,84.47,7
+2022,Aug,Theft From Motor Vehicle,102,2,79.77,8
+2022,Sep,Theft From Motor Vehicle,130,5,101.67,9
+2022,Oct,Theft From Motor Vehicle,71,2,55.53,10
+2022,Nov,Theft From Motor Vehicle,74,3,57.87,11
+2022,Dec,Theft From Motor Vehicle,80,3,62.57,12
+2023,Jan,Theft From Motor Vehicle,61,2,47.07,1
+2023,Feb,Theft From Motor Vehicle,46,NA,35.49,2
+2023,Mar,Theft From Motor Vehicle,47,2,36.260000000000005,3
+2023,Apr,Theft From Motor Vehicle,81,2,62.5,4
+2023,May,Theft From Motor Vehicle,66,2,50.93,5
+2023,Jun,Theft From Motor Vehicle,76,6,58.64,6
+2023,Jul,Theft From Motor Vehicle,67,1,51.7,7
+2023,Aug,Theft From Motor Vehicle,91,5,70.21000000000001,8
+2023,Sep,Theft From Motor Vehicle,88,3,67.9,9
+2023,Oct,Theft From Motor Vehicle,109,NA,84.1,10
+2023,Nov,Theft From Motor Vehicle,73,2,56.33,11
+2023,Dec,Theft From Motor Vehicle,52,1,40.120000000000005,12
+2024,Jan,Theft From Motor Vehicle,28,3,21.6,1
+2024,Feb,Theft From Motor Vehicle,91,6,70.21000000000001,2
+2024,Mar,Theft From Motor Vehicle,49,3,37.809999999999995,3
+2024,Apr,Theft From Motor Vehicle,42,2,32.41,4
+2024,May,Theft From Motor Vehicle,58,3,44.75,5
+2024,Jun,Theft From Motor Vehicle,71,7,54.78,6
+2024,Jul,Theft From Motor Vehicle,59,5,45.52,7
+2024,Aug,Theft From Motor Vehicle,75,1,57.87,8
+2024,Sep,Theft From Motor Vehicle,82,1,63.27,9
+2024,Oct,Theft From Motor Vehicle,55,10,42.44,10
+2024,Nov,Theft From Motor Vehicle,67,3,51.7,11
+2024,Dec,Theft From Motor Vehicle,73,3,56.33,12
+2025,Jan,Theft From Motor Vehicle,36,6,27.78,1
+2025,Feb,Theft From Motor Vehicle,40,2,30.86,2
+2025,Mar,Theft From Motor Vehicle,56,3,43.21,3
+2025,Apr,Theft From Motor Vehicle,58,4,44.75,4
+2025,May,Theft From Motor Vehicle,53,1,40.89,5
+2025,Jun,Theft From Motor Vehicle,46,1,35.49,6
+2025,Jul,Theft From Motor Vehicle,56,5,43.21,7
+2025,Aug,Theft From Motor Vehicle,11,2,8.49,8
+2025,Sep,Theft From Motor Vehicle,NA,NA,NA,9
+2021,Jan,Theft of Motor Vehicle Parts/Accessories,33,1,26.1,1
+2021,Feb,Theft of Motor Vehicle Parts/Accessories,20,1,15.82,2
+2021,Mar,Theft of Motor Vehicle Parts/Accessories,29,NA,22.94,3
+2021,Apr,Theft of Motor Vehicle Parts/Accessories,26,1,20.57,4
+2021,May,Theft of Motor Vehicle Parts/Accessories,15,1,11.87,5
+2021,Jun,Theft of Motor Vehicle Parts/Accessories,25,NA,19.78,6
+2021,Jul,Theft of Motor Vehicle Parts/Accessories,37,NA,29.27,7
+2021,Aug,Theft of Motor Vehicle Parts/Accessories,31,2,24.52,8
+2021,Sep,Theft of Motor Vehicle Parts/Accessories,51,1,40.34,9
+2021,Oct,Theft of Motor Vehicle Parts/Accessories,33,NA,26.1,10
+2021,Nov,Theft of Motor Vehicle Parts/Accessories,41,NA,32.43,11
+2021,Dec,Theft of Motor Vehicle Parts/Accessories,25,NA,19.78,12
+2022,Jan,Theft of Motor Vehicle Parts/Accessories,22,NA,17.21,1
+2022,Feb,Theft of Motor Vehicle Parts/Accessories,25,NA,19.55,2
+2022,Mar,Theft of Motor Vehicle Parts/Accessories,22,1,17.21,3
+2022,Apr,Theft of Motor Vehicle Parts/Accessories,38,2,29.72,4
+2022,May,Theft of Motor Vehicle Parts/Accessories,20,1,15.64,5
+2022,Jun,Theft of Motor Vehicle Parts/Accessories,14,NA,10.95,6
+2022,Jul,Theft of Motor Vehicle Parts/Accessories,11,NA,8.6,7
+2022,Aug,Theft of Motor Vehicle Parts/Accessories,19,NA,14.86,8
+2022,Sep,Theft of Motor Vehicle Parts/Accessories,16,1,12.51,9
+2022,Oct,Theft of Motor Vehicle Parts/Accessories,23,NA,17.99,10
+2022,Nov,Theft of Motor Vehicle Parts/Accessories,16,NA,12.51,11
+2022,Dec,Theft of Motor Vehicle Parts/Accessories,17,NA,13.3,12
+2023,Jan,Theft of Motor Vehicle Parts/Accessories,27,1,20.83,1
+2023,Feb,Theft of Motor Vehicle Parts/Accessories,28,3,21.6,2
+2023,Mar,Theft of Motor Vehicle Parts/Accessories,19,1,14.66,3
+2023,Apr,Theft of Motor Vehicle Parts/Accessories,34,NA,26.23,4
+2023,May,Theft of Motor Vehicle Parts/Accessories,25,NA,19.29,5
+2023,Jun,Theft of Motor Vehicle Parts/Accessories,17,NA,13.12,6
+2023,Jul,Theft of Motor Vehicle Parts/Accessories,8,NA,6.17,7
+2023,Aug,Theft of Motor Vehicle Parts/Accessories,13,NA,10.03,8
+2023,Sep,Theft of Motor Vehicle Parts/Accessories,21,1,16.2,9
+2023,Oct,Theft of Motor Vehicle Parts/Accessories,13,NA,10.03,10
+2023,Nov,Theft of Motor Vehicle Parts/Accessories,13,NA,10.03,11
+2023,Dec,Theft of Motor Vehicle Parts/Accessories,13,1,10.03,12
+2024,Jan,Theft of Motor Vehicle Parts/Accessories,4,NA,3.09,1
+2024,Feb,Theft of Motor Vehicle Parts/Accessories,9,NA,6.94,2
+2024,Mar,Theft of Motor Vehicle Parts/Accessories,3,NA,2.3099999999999996,3
+2024,Apr,Theft of Motor Vehicle Parts/Accessories,8,1,6.17,4
+2024,May,Theft of Motor Vehicle Parts/Accessories,7,NA,5.4,5
+2024,Jun,Theft of Motor Vehicle Parts/Accessories,10,NA,7.72,6
+2024,Jul,Theft of Motor Vehicle Parts/Accessories,9,NA,6.94,7
+2024,Aug,Theft of Motor Vehicle Parts/Accessories,10,NA,7.72,8
+2024,Sep,Theft of Motor Vehicle Parts/Accessories,13,NA,10.03,9
+2024,Oct,Theft of Motor Vehicle Parts/Accessories,6,NA,4.63,10
+2024,Nov,Theft of Motor Vehicle Parts/Accessories,6,NA,4.63,11
+2024,Dec,Theft of Motor Vehicle Parts/Accessories,6,1,4.63,12
+2025,Jan,Theft of Motor Vehicle Parts/Accessories,9,2,6.94,1
+2025,Feb,Theft of Motor Vehicle Parts/Accessories,7,NA,5.4,2
+2025,Mar,Theft of Motor Vehicle Parts/Accessories,17,NA,13.12,3
+2025,Apr,Theft of Motor Vehicle Parts/Accessories,7,2,5.4,4
+2025,May,Theft of Motor Vehicle Parts/Accessories,10,1,7.72,5
+2025,Jun,Theft of Motor Vehicle Parts/Accessories,5,NA,3.86,6
+2025,Jul,Theft of Motor Vehicle Parts/Accessories,10,NA,7.72,7
+2025,Aug,Theft of Motor Vehicle Parts/Accessories,NA,NA,NA,8
+2025,Sep,Theft of Motor Vehicle Parts/Accessories,NA,NA,NA,9
+2021,Jan,All Other Larceny,41,7,32.43,1
+2021,Feb,All Other Larceny,37,4,29.27,2
+2021,Mar,All Other Larceny,47,5,37.18,3
+2021,Apr,All Other Larceny,37,2,29.27,4
+2021,May,All Other Larceny,34,2,26.89,5
+2021,Jun,All Other Larceny,58,5,45.879999999999995,6
+2021,Jul,All Other Larceny,63,4,49.83,7
+2021,Aug,All Other Larceny,59,6,46.67,8
+2021,Sep,All Other Larceny,49,4,38.760000000000005,9
+2021,Oct,All Other Larceny,60,6,47.46,10
+2021,Nov,All Other Larceny,61,6,48.25,11
+2021,Dec,All Other Larceny,45,6,35.6,12
+2022,Jan,All Other Larceny,44,3,34.41,1
+2022,Feb,All Other Larceny,28,1,21.9,2
+2022,Mar,All Other Larceny,35,5,27.37,3
+2022,Apr,All Other Larceny,58,10,45.36,4
+2022,May,All Other Larceny,61,6,47.71,5
+2022,Jun,All Other Larceny,51,3,39.89,6
+2022,Jul,All Other Larceny,59,7,46.14,7
+2022,Aug,All Other Larceny,65,3,50.84,8
+2022,Sep,All Other Larceny,52,6,40.67,9
+2022,Oct,All Other Larceny,55,7,43.02,10
+2022,Nov,All Other Larceny,41,4,32.07,11
+2022,Dec,All Other Larceny,49,7,38.32,12
+2023,Jan,All Other Larceny,39,2,30.09,1
+2023,Feb,All Other Larceny,37,4,28.55,2
+2023,Mar,All Other Larceny,42,4,32.41,3
+2023,Apr,All Other Larceny,46,3,35.49,4
+2023,May,All Other Larceny,50,6,38.58,5
+2023,Jun,All Other Larceny,52,7,40.120000000000005,6
+2023,Jul,All Other Larceny,58,5,44.75,7
+2023,Aug,All Other Larceny,55,5,42.44,8
+2023,Sep,All Other Larceny,69,8,53.24,9
+2023,Oct,All Other Larceny,48,3,37.04,10
+2023,Nov,All Other Larceny,38,4,29.32,11
+2023,Dec,All Other Larceny,40,2,30.86,12
+2024,Jan,All Other Larceny,37,5,28.55,1
+2024,Feb,All Other Larceny,41,4,31.64,2
+2024,Mar,All Other Larceny,44,7,33.949999999999996,3
+2024,Apr,All Other Larceny,51,5,39.349999999999994,4
+2024,May,All Other Larceny,30,5,23.15,5
+2024,Jun,All Other Larceny,58,4,44.75,6
+2024,Jul,All Other Larceny,41,8,31.64,7
+2024,Aug,All Other Larceny,39,3,30.09,8
+2024,Sep,All Other Larceny,42,7,32.41,9
+2024,Oct,All Other Larceny,45,4,34.720000000000006,10
+2024,Nov,All Other Larceny,41,2,31.64,11
+2024,Dec,All Other Larceny,21,NA,16.2,12
+2025,Jan,All Other Larceny,34,8,26.23,1
+2025,Feb,All Other Larceny,29,3,22.38,2
+2025,Mar,All Other Larceny,22,2,16.979999999999997,3
+2025,Apr,All Other Larceny,32,2,24.69,4
+2025,May,All Other Larceny,28,5,21.6,5
+2025,Jun,All Other Larceny,36,2,27.78,6
+2025,Jul,All Other Larceny,35,6,27.01,7
+2025,Aug,All Other Larceny,8,1,6.17,8
+2025,Sep,All Other Larceny,NA,NA,NA,9
+2021,Jan,Motor Vehicle Theft,46,10,36.39,1
+2021,Feb,Motor Vehicle Theft,26,7,20.57,2
+2021,Mar,Motor Vehicle Theft,18,3,14.239999999999998,3
+2021,Apr,Motor Vehicle Theft,22,2,17.4,4
+2021,May,Motor Vehicle Theft,31,4,24.52,5
+2021,Jun,Motor Vehicle Theft,30,3,23.73,6
+2021,Jul,Motor Vehicle Theft,41,7,32.43,7
+2021,Aug,Motor Vehicle Theft,43,7,34.01,8
+2021,Sep,Motor Vehicle Theft,27,4,21.36,9
+2021,Oct,Motor Vehicle Theft,51,7,40.34,10
+2021,Nov,Motor Vehicle Theft,31,4,24.52,11
+2021,Dec,Motor Vehicle Theft,21,4,16.610000000000003,12
+2022,Jan,Motor Vehicle Theft,28,1,21.9,1
+2022,Feb,Motor Vehicle Theft,29,6,22.68,2
+2022,Mar,Motor Vehicle Theft,34,4,26.59,3
+2022,Apr,Motor Vehicle Theft,30,8,23.459999999999997,4
+2022,May,Motor Vehicle Theft,52,11,40.67,5
+2022,Jun,Motor Vehicle Theft,34,5,26.59,6
+2022,Jul,Motor Vehicle Theft,45,5,35.190000000000005,7
+2022,Aug,Motor Vehicle Theft,47,9,36.760000000000005,8
+2022,Sep,Motor Vehicle Theft,54,6,42.23,9
+2022,Oct,Motor Vehicle Theft,38,6,29.72,10
+2022,Nov,Motor Vehicle Theft,41,8,32.07,11
+2022,Dec,Motor Vehicle Theft,41,6,32.07,12
+2023,Jan,Motor Vehicle Theft,25,2,19.29,1
+2023,Feb,Motor Vehicle Theft,25,8,19.29,2
+2023,Mar,Motor Vehicle Theft,27,6,20.83,3
+2023,Apr,Motor Vehicle Theft,28,4,21.6,4
+2023,May,Motor Vehicle Theft,34,3,26.23,5
+2023,Jun,Motor Vehicle Theft,49,7,37.809999999999995,6
+2023,Jul,Motor Vehicle Theft,46,4,35.49,7
+2023,Aug,Motor Vehicle Theft,48,7,37.04,8
+2023,Sep,Motor Vehicle Theft,26,8,20.06,9
+2023,Oct,Motor Vehicle Theft,78,5,60.18,10
+2023,Nov,Motor Vehicle Theft,47,5,36.260000000000005,11
+2023,Dec,Motor Vehicle Theft,29,3,22.38,12
+2024,Jan,Motor Vehicle Theft,40,9,30.86,1
+2024,Feb,Motor Vehicle Theft,55,3,42.44,2
+2024,Mar,Motor Vehicle Theft,33,5,25.459999999999997,3
+2024,Apr,Motor Vehicle Theft,38,7,29.32,4
+2024,May,Motor Vehicle Theft,31,5,23.92,5
+2024,Jun,Motor Vehicle Theft,49,6,37.809999999999995,6
+2024,Jul,Motor Vehicle Theft,38,6,29.32,7
+2024,Aug,Motor Vehicle Theft,51,2,39.349999999999994,8
+2024,Sep,Motor Vehicle Theft,49,7,37.809999999999995,9
+2024,Oct,Motor Vehicle Theft,46,7,35.49,10
+2024,Nov,Motor Vehicle Theft,38,1,29.32,11
+2024,Dec,Motor Vehicle Theft,47,4,36.260000000000005,12
+2025,Jan,Motor Vehicle Theft,15,1,11.57,1
+2025,Feb,Motor Vehicle Theft,21,8,16.2,2
+2025,Mar,Motor Vehicle Theft,25,6,19.29,3
+2025,Apr,Motor Vehicle Theft,11,2,8.49,4
+2025,May,Motor Vehicle Theft,29,4,22.38,5
+2025,Jun,Motor Vehicle Theft,30,2,23.15,6
+2025,Jul,Motor Vehicle Theft,27,2,20.83,7
+2025,Aug,Motor Vehicle Theft,3,NA,2.3099999999999996,8
+2025,Sep,Motor Vehicle Theft,NA,NA,NA,9
+2021,Jan,Stolen Property Offenses,3,3,2.3699999999999997,1
+2021,Feb,Stolen Property Offenses,2,1,1.58,2
+2021,Mar,Stolen Property Offenses,1,1,0.7899999999999999,3
+2021,Apr,Stolen Property Offenses,NA,NA,NA,4
+2021,May,Stolen Property Offenses,NA,NA,NA,5
+2021,Jun,Stolen Property Offenses,NA,NA,NA,6
+2021,Jul,Stolen Property Offenses,NA,NA,NA,7
+2021,Aug,Stolen Property Offenses,NA,NA,NA,8
+2021,Sep,Stolen Property Offenses,1,1,0.7899999999999999,9
+2021,Oct,Stolen Property Offenses,NA,NA,NA,10
+2021,Nov,Stolen Property Offenses,NA,NA,NA,11
+2021,Dec,Stolen Property Offenses,NA,NA,NA,12
+2022,Jan,Stolen Property Offenses,1,1,0.7799999999999999,1
+2022,Feb,Stolen Property Offenses,NA,NA,NA,2
+2022,Mar,Stolen Property Offenses,1,1,0.7799999999999999,3
+2022,Apr,Stolen Property Offenses,NA,NA,NA,4
+2022,May,Stolen Property Offenses,2,1,1.56,5
+2022,Jun,Stolen Property Offenses,NA,NA,NA,6
+2022,Jul,Stolen Property Offenses,2,2,1.56,7
+2022,Aug,Stolen Property Offenses,4,2,3.13,8
+2022,Sep,Stolen Property Offenses,2,1,1.56,9
+2022,Oct,Stolen Property Offenses,2,2,1.56,10
+2022,Nov,Stolen Property Offenses,NA,NA,NA,11
+2022,Dec,Stolen Property Offenses,NA,NA,NA,12
+2023,Jan,Stolen Property Offenses,1,1,0.77,1
+2023,Feb,Stolen Property Offenses,2,2,1.54,2
+2023,Mar,Stolen Property Offenses,1,1,0.77,3
+2023,Apr,Stolen Property Offenses,NA,NA,NA,4
+2023,May,Stolen Property Offenses,1,1,0.77,5
+2023,Jun,Stolen Property Offenses,3,3,2.3099999999999996,6
+2023,Jul,Stolen Property Offenses,NA,NA,NA,7
+2023,Aug,Stolen Property Offenses,NA,NA,NA,8
+2023,Sep,Stolen Property Offenses,1,1,0.77,9
+2023,Oct,Stolen Property Offenses,1,1,0.77,10
+2023,Nov,Stolen Property Offenses,NA,NA,NA,11
+2023,Dec,Stolen Property Offenses,NA,NA,NA,12
+2024,Jan,Stolen Property Offenses,NA,NA,NA,1
+2024,Feb,Stolen Property Offenses,NA,NA,NA,2
+2024,Mar,Stolen Property Offenses,2,1,1.54,3
+2024,Apr,Stolen Property Offenses,NA,NA,NA,4
+2024,May,Stolen Property Offenses,1,NA,0.77,5
+2024,Jun,Stolen Property Offenses,1,1,0.77,6
+2024,Jul,Stolen Property Offenses,NA,NA,NA,7
+2024,Aug,Stolen Property Offenses,1,1,0.77,8
+2024,Sep,Stolen Property Offenses,1,1,0.77,9
+2024,Oct,Stolen Property Offenses,NA,NA,NA,10
+2024,Nov,Stolen Property Offenses,NA,NA,NA,11
+2024,Dec,Stolen Property Offenses,1,1,0.77,12
+2025,Jan,Stolen Property Offenses,NA,NA,NA,1
+2025,Feb,Stolen Property Offenses,NA,NA,NA,2
+2025,Mar,Stolen Property Offenses,5,5,3.86,3
+2025,Apr,Stolen Property Offenses,1,NA,0.77,4
+2025,May,Stolen Property Offenses,1,1,0.77,5
+2025,Jun,Stolen Property Offenses,NA,NA,NA,6
+2025,Jul,Stolen Property Offenses,NA,NA,NA,7
+2025,Aug,Stolen Property Offenses,NA,NA,NA,8
+2025,Sep,Stolen Property Offenses,NA,NA,NA,9
+2021,Jan,Crimes Against Society,75,61,59.33,1
+2021,Feb,Crimes Against Society,73,65,57.74,2
+2021,Mar,Crimes Against Society,106,94,83.85,3
+2021,Apr,Crimes Against Society,78,67,61.7,4
+2021,May,Crimes Against Society,93,79,73.57,5
+2021,Jun,Crimes Against Society,49,36,38.760000000000005,6
+2021,Jul,Crimes Against Society,66,57,52.21,7
+2021,Aug,Crimes Against Society,81,63,64.07,8
+2021,Sep,Crimes Against Society,77,64,60.91,9
+2021,Oct,Crimes Against Society,85,74,67.24000000000001,10
+2021,Nov,Crimes Against Society,62,48,49.04,11
+2021,Dec,Crimes Against Society,69,58,54.58,12
+2022,Jan,Crimes Against Society,43,32,33.63,1
+2022,Feb,Crimes Against Society,72,66,56.309999999999995,2
+2022,Mar,Crimes Against Society,114,96,89.16,3
+2022,Apr,Crimes Against Society,88,67,68.82,4
+2022,May,Crimes Against Society,89,69,69.61,5
+2022,Jun,Crimes Against Society,94,77,73.52,6
+2022,Jul,Crimes Against Society,111,87,86.81,7
+2022,Aug,Crimes Against Society,93,81,72.73,8
+2022,Sep,Crimes Against Society,104,84,81.34,9
+2022,Oct,Crimes Against Society,97,71,75.86,10
+2022,Nov,Crimes Against Society,53,42,41.45,11
+2022,Dec,Crimes Against Society,42,30,32.849999999999994,12
+2023,Jan,Crimes Against Society,47,40,36.260000000000005,1
+2023,Feb,Crimes Against Society,52,38,40.120000000000005,2
+2023,Mar,Crimes Against Society,52,38,40.120000000000005,3
+2023,Apr,Crimes Against Society,49,42,37.809999999999995,4
+2023,May,Crimes Against Society,47,36,36.260000000000005,5
+2023,Jun,Crimes Against Society,44,35,33.949999999999996,6
+2023,Jul,Crimes Against Society,49,31,37.809999999999995,7
+2023,Aug,Crimes Against Society,46,37,35.49,8
+2023,Sep,Crimes Against Society,39,29,30.09,9
+2023,Oct,Crimes Against Society,42,29,32.41,10
+2023,Nov,Crimes Against Society,35,27,27.01,11
+2023,Dec,Crimes Against Society,33,24,25.459999999999997,12
+2024,Jan,Crimes Against Society,25,16,19.29,1
+2024,Feb,Crimes Against Society,42,32,32.41,2
+2024,Mar,Crimes Against Society,51,36,39.349999999999994,3
+2024,Apr,Crimes Against Society,40,34,30.86,4
+2024,May,Crimes Against Society,40,29,30.86,5
+2024,Jun,Crimes Against Society,53,42,40.89,6
+2024,Jul,Crimes Against Society,53,41,40.89,7
+2024,Aug,Crimes Against Society,35,28,27.01,8
+2024,Sep,Crimes Against Society,62,46,47.84,9
+2024,Oct,Crimes Against Society,44,30,33.949999999999996,10
+2024,Nov,Crimes Against Society,40,30,30.86,11
+2024,Dec,Crimes Against Society,36,30,27.78,12
+2025,Jan,Crimes Against Society,55,45,42.44,1
+2025,Feb,Crimes Against Society,37,28,28.55,2
+2025,Mar,Crimes Against Society,77,66,59.41,3
+2025,Apr,Crimes Against Society,43,36,33.18,4
+2025,May,Crimes Against Society,73,56,56.33,5
+2025,Jun,Crimes Against Society,73,55,56.33,6
+2025,Jul,Crimes Against Society,56,41,43.21,7
+2025,Aug,Crimes Against Society,4,3,3.09,8
+2025,Sep,Crimes Against Society,NA,NA,NA,9
+2021,Jan,Drug/Narcotic Violations,43,36,34.01,1
+2021,Feb,Drug/Narcotic Violations,40,39,31.64,2
+2021,Mar,Drug/Narcotic Violations,59,54,46.67,3
+2021,Apr,Drug/Narcotic Violations,47,40,37.18,4
+2021,May,Drug/Narcotic Violations,47,44,37.18,5
+2021,Jun,Drug/Narcotic Violations,25,21,19.78,6
+2021,Jul,Drug/Narcotic Violations,38,34,30.06,7
+2021,Aug,Drug/Narcotic Violations,51,41,40.34,8
+2021,Sep,Drug/Narcotic Violations,40,37,31.64,9
+2021,Oct,Drug/Narcotic Violations,42,38,33.220000000000006,10
+2021,Nov,Drug/Narcotic Violations,28,26,22.15,11
+2021,Dec,Drug/Narcotic Violations,36,32,28.479999999999997,12
+2022,Jan,Drug/Narcotic Violations,24,20,18.77,1
+2022,Feb,Drug/Narcotic Violations,33,30,25.81,2
+2022,Mar,Drug/Narcotic Violations,63,55,49.27,3
+2022,Apr,Drug/Narcotic Violations,43,36,33.63,4
+2022,May,Drug/Narcotic Violations,50,41,39.1,5
+2022,Jun,Drug/Narcotic Violations,47,40,36.760000000000005,6
+2022,Jul,Drug/Narcotic Violations,56,47,43.8,7
+2022,Aug,Drug/Narcotic Violations,49,42,38.32,8
+2022,Sep,Drug/Narcotic Violations,54,45,42.23,9
+2022,Oct,Drug/Narcotic Violations,49,38,38.32,10
+2022,Nov,Drug/Narcotic Violations,25,19,19.55,11
+2022,Dec,Drug/Narcotic Violations,17,14,13.3,12
+2023,Jan,Drug/Narcotic Violations,16,15,12.35,1
+2023,Feb,Drug/Narcotic Violations,24,20,18.52,2
+2023,Mar,Drug/Narcotic Violations,20,15,15.43,3
+2023,Apr,Drug/Narcotic Violations,18,14,13.89,4
+2023,May,Drug/Narcotic Violations,17,14,13.12,5
+2023,Jun,Drug/Narcotic Violations,18,15,13.89,6
+2023,Jul,Drug/Narcotic Violations,19,11,14.66,7
+2023,Aug,Drug/Narcotic Violations,24,19,18.52,8
+2023,Sep,Drug/Narcotic Violations,13,12,10.03,9
+2023,Oct,Drug/Narcotic Violations,22,15,16.979999999999997,10
+2023,Nov,Drug/Narcotic Violations,14,11,10.8,11
+2023,Dec,Drug/Narcotic Violations,17,14,13.12,12
+2024,Jan,Drug/Narcotic Violations,12,9,9.26,1
+2024,Feb,Drug/Narcotic Violations,17,15,13.12,2
+2024,Mar,Drug/Narcotic Violations,23,18,17.75,3
+2024,Apr,Drug/Narcotic Violations,19,16,14.66,4
+2024,May,Drug/Narcotic Violations,15,12,11.57,5
+2024,Jun,Drug/Narcotic Violations,24,21,18.52,6
+2024,Jul,Drug/Narcotic Violations,25,20,19.29,7
+2024,Aug,Drug/Narcotic Violations,19,18,14.66,8
+2024,Sep,Drug/Narcotic Violations,19,16,14.66,9
+2024,Oct,Drug/Narcotic Violations,20,17,15.43,10
+2024,Nov,Drug/Narcotic Violations,14,13,10.8,11
+2024,Dec,Drug/Narcotic Violations,12,12,9.26,12
+2025,Jan,Drug/Narcotic Violations,23,21,17.75,1
+2025,Feb,Drug/Narcotic Violations,19,15,14.66,2
+2025,Mar,Drug/Narcotic Violations,32,29,24.69,3
+2025,Apr,Drug/Narcotic Violations,19,14,14.66,4
+2025,May,Drug/Narcotic Violations,26,23,20.06,5
+2025,Jun,Drug/Narcotic Violations,33,26,25.459999999999997,6
+2025,Jul,Drug/Narcotic Violations,28,20,21.6,7
+2025,Aug,Drug/Narcotic Violations,2,2,1.54,8
+2025,Sep,Drug/Narcotic Violations,NA,NA,NA,9
+2021,Jan,Drug Equipment Violations,19,16,15.03,1
+2021,Feb,Drug Equipment Violations,15,15,11.87,2
+2021,Mar,Drug Equipment Violations,30,28,23.73,3
+2021,Apr,Drug Equipment Violations,22,20,17.4,4
+2021,May,Drug Equipment Violations,28,25,22.15,5
+2021,Jun,Drug Equipment Violations,11,9,8.7,6
+2021,Jul,Drug Equipment Violations,17,17,13.45,7
+2021,Aug,Drug Equipment Violations,19,17,15.03,8
+2021,Sep,Drug Equipment Violations,17,16,13.45,9
+2021,Oct,Drug Equipment Violations,26,26,20.57,10
+2021,Nov,Drug Equipment Violations,16,15,12.66,11
+2021,Dec,Drug Equipment Violations,23,21,18.19,12
+2022,Jan,Drug Equipment Violations,10,7,7.819999999999999,1
+2022,Feb,Drug Equipment Violations,24,24,18.77,2
+2022,Mar,Drug Equipment Violations,31,29,24.24,3
+2022,Apr,Drug Equipment Violations,25,22,19.55,4
+2022,May,Drug Equipment Violations,27,22,21.12,5
+2022,Jun,Drug Equipment Violations,31,25,24.24,6
+2022,Jul,Drug Equipment Violations,34,28,26.59,7
+2022,Aug,Drug Equipment Violations,30,27,23.459999999999997,8
+2022,Sep,Drug Equipment Violations,30,27,23.459999999999997,9
+2022,Oct,Drug Equipment Violations,33,24,25.81,10
+2022,Nov,Drug Equipment Violations,17,15,13.3,11
+2022,Dec,Drug Equipment Violations,11,10,8.6,12
+2023,Jan,Drug Equipment Violations,15,15,11.57,1
+2023,Feb,Drug Equipment Violations,12,11,9.26,2
+2023,Mar,Drug Equipment Violations,15,12,11.57,3
+2023,Apr,Drug Equipment Violations,15,14,11.57,4
+2023,May,Drug Equipment Violations,16,11,12.35,5
+2023,Jun,Drug Equipment Violations,13,12,10.03,6
+2023,Jul,Drug Equipment Violations,16,13,12.35,7
+2023,Aug,Drug Equipment Violations,11,10,8.49,8
+2023,Sep,Drug Equipment Violations,10,8,7.72,9
+2023,Oct,Drug Equipment Violations,9,9,6.94,10
+2023,Nov,Drug Equipment Violations,6,6,4.63,11
+2023,Dec,Drug Equipment Violations,5,5,3.86,12
+2024,Jan,Drug Equipment Violations,7,5,5.4,1
+2024,Feb,Drug Equipment Violations,9,8,6.94,2
+2024,Mar,Drug Equipment Violations,17,15,13.12,3
+2024,Apr,Drug Equipment Violations,8,8,6.17,4
+2024,May,Drug Equipment Violations,11,10,8.49,5
+2024,Jun,Drug Equipment Violations,14,13,10.8,6
+2024,Jul,Drug Equipment Violations,17,14,13.12,7
+2024,Aug,Drug Equipment Violations,8,6,6.17,8
+2024,Sep,Drug Equipment Violations,16,15,12.35,9
+2024,Oct,Drug Equipment Violations,6,6,4.63,10
+2024,Nov,Drug Equipment Violations,14,14,10.8,11
+2024,Dec,Drug Equipment Violations,8,7,6.17,12
+2025,Jan,Drug Equipment Violations,16,15,12.35,1
+2025,Feb,Drug Equipment Violations,8,8,6.17,2
+2025,Mar,Drug Equipment Violations,21,20,16.2,3
+2025,Apr,Drug Equipment Violations,12,12,9.26,4
+2025,May,Drug Equipment Violations,24,20,18.52,5
+2025,Jun,Drug Equipment Violations,29,23,22.38,6
+2025,Jul,Drug Equipment Violations,13,12,10.03,7
+2025,Aug,Drug Equipment Violations,1,1,0.77,8
+2025,Sep,Drug Equipment Violations,NA,NA,NA,9
+2021,Jan,Betting/Wagering,NA,NA,NA,1
+2021,Feb,Betting/Wagering,NA,NA,NA,2
+2021,Mar,Betting/Wagering,NA,NA,NA,3
+2021,Apr,Betting/Wagering,NA,NA,NA,4
+2021,May,Betting/Wagering,NA,NA,NA,5
+2021,Jun,Betting/Wagering,NA,NA,NA,6
+2021,Jul,Betting/Wagering,NA,NA,NA,7
+2021,Aug,Betting/Wagering,NA,NA,NA,8
+2021,Sep,Betting/Wagering,NA,NA,NA,9
+2021,Oct,Betting/Wagering,NA,NA,NA,10
+2021,Nov,Betting/Wagering,NA,NA,NA,11
+2021,Dec,Betting/Wagering,NA,NA,NA,12
+2022,Jan,Betting/Wagering,NA,NA,NA,1
+2022,Feb,Betting/Wagering,NA,NA,NA,2
+2022,Mar,Betting/Wagering,NA,NA,NA,3
+2022,Apr,Betting/Wagering,NA,NA,NA,4
+2022,May,Betting/Wagering,NA,NA,NA,5
+2022,Jun,Betting/Wagering,NA,NA,NA,6
+2022,Jul,Betting/Wagering,NA,NA,NA,7
+2022,Aug,Betting/Wagering,NA,NA,NA,8
+2022,Sep,Betting/Wagering,NA,NA,NA,9
+2022,Oct,Betting/Wagering,NA,NA,NA,10
+2022,Nov,Betting/Wagering,NA,NA,NA,11
+2022,Dec,Betting/Wagering,NA,NA,NA,12
+2023,Jan,Betting/Wagering,NA,NA,NA,1
+2023,Feb,Betting/Wagering,NA,NA,NA,2
+2023,Mar,Betting/Wagering,NA,NA,NA,3
+2023,Apr,Betting/Wagering,NA,NA,NA,4
+2023,May,Betting/Wagering,NA,NA,NA,5
+2023,Jun,Betting/Wagering,NA,NA,NA,6
+2023,Jul,Betting/Wagering,NA,NA,NA,7
+2023,Aug,Betting/Wagering,NA,NA,NA,8
+2023,Sep,Betting/Wagering,NA,NA,NA,9
+2023,Oct,Betting/Wagering,NA,NA,NA,10
+2023,Nov,Betting/Wagering,NA,NA,NA,11
+2023,Dec,Betting/Wagering,NA,NA,NA,12
+2024,Jan,Betting/Wagering,NA,NA,NA,1
+2024,Feb,Betting/Wagering,NA,NA,NA,2
+2024,Mar,Betting/Wagering,NA,NA,NA,3
+2024,Apr,Betting/Wagering,NA,NA,NA,4
+2024,May,Betting/Wagering,NA,NA,NA,5
+2024,Jun,Betting/Wagering,NA,NA,NA,6
+2024,Jul,Betting/Wagering,NA,NA,NA,7
+2024,Aug,Betting/Wagering,NA,NA,NA,8
+2024,Sep,Betting/Wagering,NA,NA,NA,9
+2024,Oct,Betting/Wagering,NA,NA,NA,10
+2024,Nov,Betting/Wagering,NA,NA,NA,11
+2024,Dec,Betting/Wagering,NA,NA,NA,12
+2025,Jan,Betting/Wagering,NA,NA,NA,1
+2025,Feb,Betting/Wagering,NA,NA,NA,2
+2025,Mar,Betting/Wagering,NA,NA,NA,3
+2025,Apr,Betting/Wagering,NA,NA,NA,4
+2025,May,Betting/Wagering,NA,NA,NA,5
+2025,Jun,Betting/Wagering,NA,NA,NA,6
+2025,Jul,Betting/Wagering,NA,NA,NA,7
+2025,Aug,Betting/Wagering,NA,NA,NA,8
+2025,Sep,Betting/Wagering,NA,NA,NA,9
+2021,Jan,Operating/Promoting/Assisting Gambling,NA,NA,NA,1
+2021,Feb,Operating/Promoting/Assisting Gambling,NA,NA,NA,2
+2021,Mar,Operating/Promoting/Assisting Gambling,NA,NA,NA,3
+2021,Apr,Operating/Promoting/Assisting Gambling,NA,NA,NA,4
+2021,May,Operating/Promoting/Assisting Gambling,NA,NA,NA,5
+2021,Jun,Operating/Promoting/Assisting Gambling,NA,NA,NA,6
+2021,Jul,Operating/Promoting/Assisting Gambling,NA,NA,NA,7
+2021,Aug,Operating/Promoting/Assisting Gambling,NA,NA,NA,8
+2021,Sep,Operating/Promoting/Assisting Gambling,NA,NA,NA,9
+2021,Oct,Operating/Promoting/Assisting Gambling,NA,NA,NA,10
+2021,Nov,Operating/Promoting/Assisting Gambling,NA,NA,NA,11
+2021,Dec,Operating/Promoting/Assisting Gambling,NA,NA,NA,12
+2022,Jan,Operating/Promoting/Assisting Gambling,NA,NA,NA,1
+2022,Feb,Operating/Promoting/Assisting Gambling,NA,NA,NA,2
+2022,Mar,Operating/Promoting/Assisting Gambling,NA,NA,NA,3
+2022,Apr,Operating/Promoting/Assisting Gambling,NA,NA,NA,4
+2022,May,Operating/Promoting/Assisting Gambling,NA,NA,NA,5
+2022,Jun,Operating/Promoting/Assisting Gambling,NA,NA,NA,6
+2022,Jul,Operating/Promoting/Assisting Gambling,NA,NA,NA,7
+2022,Aug,Operating/Promoting/Assisting Gambling,NA,NA,NA,8
+2022,Sep,Operating/Promoting/Assisting Gambling,NA,NA,NA,9
+2022,Oct,Operating/Promoting/Assisting Gambling,NA,NA,NA,10
+2022,Nov,Operating/Promoting/Assisting Gambling,NA,NA,NA,11
+2022,Dec,Operating/Promoting/Assisting Gambling,NA,NA,NA,12
+2023,Jan,Operating/Promoting/Assisting Gambling,NA,NA,NA,1
+2023,Feb,Operating/Promoting/Assisting Gambling,NA,NA,NA,2
+2023,Mar,Operating/Promoting/Assisting Gambling,NA,NA,NA,3
+2023,Apr,Operating/Promoting/Assisting Gambling,NA,NA,NA,4
+2023,May,Operating/Promoting/Assisting Gambling,NA,NA,NA,5
+2023,Jun,Operating/Promoting/Assisting Gambling,NA,NA,NA,6
+2023,Jul,Operating/Promoting/Assisting Gambling,NA,NA,NA,7
+2023,Aug,Operating/Promoting/Assisting Gambling,NA,NA,NA,8
+2023,Sep,Operating/Promoting/Assisting Gambling,NA,NA,NA,9
+2023,Oct,Operating/Promoting/Assisting Gambling,NA,NA,NA,10
+2023,Nov,Operating/Promoting/Assisting Gambling,NA,NA,NA,11
+2023,Dec,Operating/Promoting/Assisting Gambling,NA,NA,NA,12
+2024,Jan,Operating/Promoting/Assisting Gambling,NA,NA,NA,1
+2024,Feb,Operating/Promoting/Assisting Gambling,NA,NA,NA,2
+2024,Mar,Operating/Promoting/Assisting Gambling,NA,NA,NA,3
+2024,Apr,Operating/Promoting/Assisting Gambling,NA,NA,NA,4
+2024,May,Operating/Promoting/Assisting Gambling,NA,NA,NA,5
+2024,Jun,Operating/Promoting/Assisting Gambling,NA,NA,NA,6
+2024,Jul,Operating/Promoting/Assisting Gambling,NA,NA,NA,7
+2024,Aug,Operating/Promoting/Assisting Gambling,NA,NA,NA,8
+2024,Sep,Operating/Promoting/Assisting Gambling,NA,NA,NA,9
+2024,Oct,Operating/Promoting/Assisting Gambling,NA,NA,NA,10
+2024,Nov,Operating/Promoting/Assisting Gambling,NA,NA,NA,11
+2024,Dec,Operating/Promoting/Assisting Gambling,NA,NA,NA,12
+2025,Jan,Operating/Promoting/Assisting Gambling,NA,NA,NA,1
+2025,Feb,Operating/Promoting/Assisting Gambling,NA,NA,NA,2
+2025,Mar,Operating/Promoting/Assisting Gambling,NA,NA,NA,3
+2025,Apr,Operating/Promoting/Assisting Gambling,NA,NA,NA,4
+2025,May,Operating/Promoting/Assisting Gambling,NA,NA,NA,5
+2025,Jun,Operating/Promoting/Assisting Gambling,NA,NA,NA,6
+2025,Jul,Operating/Promoting/Assisting Gambling,NA,NA,NA,7
+2025,Aug,Operating/Promoting/Assisting Gambling,NA,NA,NA,8
+2025,Sep,Operating/Promoting/Assisting Gambling,NA,NA,NA,9
+2021,Jan,Gambling Equipment Violations,NA,NA,NA,1
+2021,Feb,Gambling Equipment Violations,NA,NA,NA,2
+2021,Mar,Gambling Equipment Violations,NA,NA,NA,3
+2021,Apr,Gambling Equipment Violations,NA,NA,NA,4
+2021,May,Gambling Equipment Violations,NA,NA,NA,5
+2021,Jun,Gambling Equipment Violations,NA,NA,NA,6
+2021,Jul,Gambling Equipment Violations,NA,NA,NA,7
+2021,Aug,Gambling Equipment Violations,NA,NA,NA,8
+2021,Sep,Gambling Equipment Violations,NA,NA,NA,9
+2021,Oct,Gambling Equipment Violations,NA,NA,NA,10
+2021,Nov,Gambling Equipment Violations,NA,NA,NA,11
+2021,Dec,Gambling Equipment Violations,NA,NA,NA,12
+2022,Jan,Gambling Equipment Violations,NA,NA,NA,1
+2022,Feb,Gambling Equipment Violations,NA,NA,NA,2
+2022,Mar,Gambling Equipment Violations,NA,NA,NA,3
+2022,Apr,Gambling Equipment Violations,NA,NA,NA,4
+2022,May,Gambling Equipment Violations,NA,NA,NA,5
+2022,Jun,Gambling Equipment Violations,NA,NA,NA,6
+2022,Jul,Gambling Equipment Violations,NA,NA,NA,7
+2022,Aug,Gambling Equipment Violations,NA,NA,NA,8
+2022,Sep,Gambling Equipment Violations,NA,NA,NA,9
+2022,Oct,Gambling Equipment Violations,NA,NA,NA,10
+2022,Nov,Gambling Equipment Violations,NA,NA,NA,11
+2022,Dec,Gambling Equipment Violations,NA,NA,NA,12
+2023,Jan,Gambling Equipment Violations,NA,NA,NA,1
+2023,Feb,Gambling Equipment Violations,NA,NA,NA,2
+2023,Mar,Gambling Equipment Violations,NA,NA,NA,3
+2023,Apr,Gambling Equipment Violations,NA,NA,NA,4
+2023,May,Gambling Equipment Violations,NA,NA,NA,5
+2023,Jun,Gambling Equipment Violations,NA,NA,NA,6
+2023,Jul,Gambling Equipment Violations,NA,NA,NA,7
+2023,Aug,Gambling Equipment Violations,NA,NA,NA,8
+2023,Sep,Gambling Equipment Violations,NA,NA,NA,9
+2023,Oct,Gambling Equipment Violations,NA,NA,NA,10
+2023,Nov,Gambling Equipment Violations,NA,NA,NA,11
+2023,Dec,Gambling Equipment Violations,NA,NA,NA,12
+2024,Jan,Gambling Equipment Violations,NA,NA,NA,1
+2024,Feb,Gambling Equipment Violations,NA,NA,NA,2
+2024,Mar,Gambling Equipment Violations,NA,NA,NA,3
+2024,Apr,Gambling Equipment Violations,NA,NA,NA,4
+2024,May,Gambling Equipment Violations,NA,NA,NA,5
+2024,Jun,Gambling Equipment Violations,NA,NA,NA,6
+2024,Jul,Gambling Equipment Violations,NA,NA,NA,7
+2024,Aug,Gambling Equipment Violations,NA,NA,NA,8
+2024,Sep,Gambling Equipment Violations,NA,NA,NA,9
+2024,Oct,Gambling Equipment Violations,NA,NA,NA,10
+2024,Nov,Gambling Equipment Violations,NA,NA,NA,11
+2024,Dec,Gambling Equipment Violations,NA,NA,NA,12
+2025,Jan,Gambling Equipment Violations,NA,NA,NA,1
+2025,Feb,Gambling Equipment Violations,NA,NA,NA,2
+2025,Mar,Gambling Equipment Violations,NA,NA,NA,3
+2025,Apr,Gambling Equipment Violations,NA,NA,NA,4
+2025,May,Gambling Equipment Violations,NA,NA,NA,5
+2025,Jun,Gambling Equipment Violations,NA,NA,NA,6
+2025,Jul,Gambling Equipment Violations,NA,NA,NA,7
+2025,Aug,Gambling Equipment Violations,NA,NA,NA,8
+2025,Sep,Gambling Equipment Violations,NA,NA,NA,9
+2021,Jan,Sports Tampering,NA,NA,NA,1
+2021,Feb,Sports Tampering,NA,NA,NA,2
+2021,Mar,Sports Tampering,NA,NA,NA,3
+2021,Apr,Sports Tampering,NA,NA,NA,4
+2021,May,Sports Tampering,NA,NA,NA,5
+2021,Jun,Sports Tampering,NA,NA,NA,6
+2021,Jul,Sports Tampering,NA,NA,NA,7
+2021,Aug,Sports Tampering,NA,NA,NA,8
+2021,Sep,Sports Tampering,NA,NA,NA,9
+2021,Oct,Sports Tampering,NA,NA,NA,10
+2021,Nov,Sports Tampering,NA,NA,NA,11
+2021,Dec,Sports Tampering,NA,NA,NA,12
+2022,Jan,Sports Tampering,NA,NA,NA,1
+2022,Feb,Sports Tampering,NA,NA,NA,2
+2022,Mar,Sports Tampering,NA,NA,NA,3
+2022,Apr,Sports Tampering,NA,NA,NA,4
+2022,May,Sports Tampering,NA,NA,NA,5
+2022,Jun,Sports Tampering,NA,NA,NA,6
+2022,Jul,Sports Tampering,NA,NA,NA,7
+2022,Aug,Sports Tampering,NA,NA,NA,8
+2022,Sep,Sports Tampering,NA,NA,NA,9
+2022,Oct,Sports Tampering,NA,NA,NA,10
+2022,Nov,Sports Tampering,NA,NA,NA,11
+2022,Dec,Sports Tampering,NA,NA,NA,12
+2023,Jan,Sports Tampering,NA,NA,NA,1
+2023,Feb,Sports Tampering,NA,NA,NA,2
+2023,Mar,Sports Tampering,NA,NA,NA,3
+2023,Apr,Sports Tampering,NA,NA,NA,4
+2023,May,Sports Tampering,NA,NA,NA,5
+2023,Jun,Sports Tampering,NA,NA,NA,6
+2023,Jul,Sports Tampering,NA,NA,NA,7
+2023,Aug,Sports Tampering,NA,NA,NA,8
+2023,Sep,Sports Tampering,NA,NA,NA,9
+2023,Oct,Sports Tampering,NA,NA,NA,10
+2023,Nov,Sports Tampering,NA,NA,NA,11
+2023,Dec,Sports Tampering,NA,NA,NA,12
+2024,Jan,Sports Tampering,NA,NA,NA,1
+2024,Feb,Sports Tampering,NA,NA,NA,2
+2024,Mar,Sports Tampering,NA,NA,NA,3
+2024,Apr,Sports Tampering,NA,NA,NA,4
+2024,May,Sports Tampering,NA,NA,NA,5
+2024,Jun,Sports Tampering,NA,NA,NA,6
+2024,Jul,Sports Tampering,NA,NA,NA,7
+2024,Aug,Sports Tampering,NA,NA,NA,8
+2024,Sep,Sports Tampering,NA,NA,NA,9
+2024,Oct,Sports Tampering,NA,NA,NA,10
+2024,Nov,Sports Tampering,NA,NA,NA,11
+2024,Dec,Sports Tampering,NA,NA,NA,12
+2025,Jan,Sports Tampering,NA,NA,NA,1
+2025,Feb,Sports Tampering,NA,NA,NA,2
+2025,Mar,Sports Tampering,NA,NA,NA,3
+2025,Apr,Sports Tampering,NA,NA,NA,4
+2025,May,Sports Tampering,NA,NA,NA,5
+2025,Jun,Sports Tampering,NA,NA,NA,6
+2025,Jul,Sports Tampering,NA,NA,NA,7
+2025,Aug,Sports Tampering,NA,NA,NA,8
+2025,Sep,Sports Tampering,NA,NA,NA,9
+2021,Jan,Pornography/Obscene Material,3,NA,2.3699999999999997,1
+2021,Feb,Pornography/Obscene Material,3,NA,2.3699999999999997,2
+2021,Mar,Pornography/Obscene Material,2,NA,1.58,3
+2021,Apr,Pornography/Obscene Material,NA,NA,NA,4
+2021,May,Pornography/Obscene Material,NA,NA,NA,5
+2021,Jun,Pornography/Obscene Material,NA,NA,NA,6
+2021,Jul,Pornography/Obscene Material,1,NA,0.7899999999999999,7
+2021,Aug,Pornography/Obscene Material,NA,NA,NA,8
+2021,Sep,Pornography/Obscene Material,2,NA,1.58,9
+2021,Oct,Pornography/Obscene Material,1,1,0.7899999999999999,10
+2021,Nov,Pornography/Obscene Material,2,1,1.58,11
+2021,Dec,Pornography/Obscene Material,NA,NA,NA,12
+2022,Jan,Pornography/Obscene Material,NA,NA,NA,1
+2022,Feb,Pornography/Obscene Material,1,NA,0.7799999999999999,2
+2022,Mar,Pornography/Obscene Material,2,1,1.56,3
+2022,Apr,Pornography/Obscene Material,3,1,2.3499999999999996,4
+2022,May,Pornography/Obscene Material,4,NA,3.13,5
+2022,Jun,Pornography/Obscene Material,2,NA,1.56,6
+2022,Jul,Pornography/Obscene Material,1,NA,0.7799999999999999,7
+2022,Aug,Pornography/Obscene Material,NA,NA,NA,8
+2022,Sep,Pornography/Obscene Material,NA,NA,NA,9
+2022,Oct,Pornography/Obscene Material,3,1,2.3499999999999996,10
+2022,Nov,Pornography/Obscene Material,1,NA,0.7799999999999999,11
+2022,Dec,Pornography/Obscene Material,3,NA,2.3499999999999996,12
+2023,Jan,Pornography/Obscene Material,3,1,2.3099999999999996,1
+2023,Feb,Pornography/Obscene Material,NA,NA,NA,2
+2023,Mar,Pornography/Obscene Material,2,NA,1.54,3
+2023,Apr,Pornography/Obscene Material,1,1,0.77,4
+2023,May,Pornography/Obscene Material,1,1,0.77,5
+2023,Jun,Pornography/Obscene Material,2,1,1.54,6
+2023,Jul,Pornography/Obscene Material,1,1,0.77,7
+2023,Aug,Pornography/Obscene Material,1,NA,0.77,8
+2023,Sep,Pornography/Obscene Material,4,3,3.09,9
+2023,Oct,Pornography/Obscene Material,1,NA,0.77,10
+2023,Nov,Pornography/Obscene Material,3,2,2.3099999999999996,11
+2023,Dec,Pornography/Obscene Material,3,1,2.3099999999999996,12
+2024,Jan,Pornography/Obscene Material,1,1,0.77,1
+2024,Feb,Pornography/Obscene Material,2,1,1.54,2
+2024,Mar,Pornography/Obscene Material,2,NA,1.54,3
+2024,Apr,Pornography/Obscene Material,2,1,1.54,4
+2024,May,Pornography/Obscene Material,4,NA,3.09,5
+2024,Jun,Pornography/Obscene Material,2,1,1.54,6
+2024,Jul,Pornography/Obscene Material,1,NA,0.77,7
+2024,Aug,Pornography/Obscene Material,4,1,3.09,8
+2024,Sep,Pornography/Obscene Material,4,NA,3.09,9
+2024,Oct,Pornography/Obscene Material,2,NA,1.54,10
+2024,Nov,Pornography/Obscene Material,1,NA,0.77,11
+2024,Dec,Pornography/Obscene Material,1,NA,0.77,12
+2025,Jan,Pornography/Obscene Material,2,1,1.54,1
+2025,Feb,Pornography/Obscene Material,4,1,3.09,2
+2025,Mar,Pornography/Obscene Material,3,1,2.3099999999999996,3
+2025,Apr,Pornography/Obscene Material,1,NA,0.77,4
+2025,May,Pornography/Obscene Material,4,2,3.09,5
+2025,Jun,Pornography/Obscene Material,NA,NA,NA,6
+2025,Jul,Pornography/Obscene Material,1,NA,0.77,7
+2025,Aug,Pornography/Obscene Material,NA,NA,NA,8
+2025,Sep,Pornography/Obscene Material,NA,NA,NA,9
+2021,Jan,Prostitution,NA,NA,NA,1
+2021,Feb,Prostitution,NA,NA,NA,2
+2021,Mar,Prostitution,NA,NA,NA,3
+2021,Apr,Prostitution,NA,NA,NA,4
+2021,May,Prostitution,NA,NA,NA,5
+2021,Jun,Prostitution,NA,NA,NA,6
+2021,Jul,Prostitution,NA,NA,NA,7
+2021,Aug,Prostitution,NA,NA,NA,8
+2021,Sep,Prostitution,NA,NA,NA,9
+2021,Oct,Prostitution,NA,NA,NA,10
+2021,Nov,Prostitution,NA,NA,NA,11
+2021,Dec,Prostitution,NA,NA,NA,12
+2022,Jan,Prostitution,NA,NA,NA,1
+2022,Feb,Prostitution,NA,NA,NA,2
+2022,Mar,Prostitution,1,NA,0.7799999999999999,3
+2022,Apr,Prostitution,NA,NA,NA,4
+2022,May,Prostitution,1,1,0.7799999999999999,5
+2022,Jun,Prostitution,NA,NA,NA,6
+2022,Jul,Prostitution,NA,NA,NA,7
+2022,Aug,Prostitution,NA,NA,NA,8
+2022,Sep,Prostitution,NA,NA,NA,9
+2022,Oct,Prostitution,NA,NA,NA,10
+2022,Nov,Prostitution,NA,NA,NA,11
+2022,Dec,Prostitution,NA,NA,NA,12
+2023,Jan,Prostitution,NA,NA,NA,1
+2023,Feb,Prostitution,NA,NA,NA,2
+2023,Mar,Prostitution,NA,NA,NA,3
+2023,Apr,Prostitution,NA,NA,NA,4
+2023,May,Prostitution,NA,NA,NA,5
+2023,Jun,Prostitution,NA,NA,NA,6
+2023,Jul,Prostitution,NA,NA,NA,7
+2023,Aug,Prostitution,NA,NA,NA,8
+2023,Sep,Prostitution,1,NA,0.77,9
+2023,Oct,Prostitution,NA,NA,NA,10
+2023,Nov,Prostitution,NA,NA,NA,11
+2023,Dec,Prostitution,NA,NA,NA,12
+2024,Jan,Prostitution,NA,NA,NA,1
+2024,Feb,Prostitution,NA,NA,NA,2
+2024,Mar,Prostitution,NA,NA,NA,3
+2024,Apr,Prostitution,NA,NA,NA,4
+2024,May,Prostitution,NA,NA,NA,5
+2024,Jun,Prostitution,NA,NA,NA,6
+2024,Jul,Prostitution,NA,NA,NA,7
+2024,Aug,Prostitution,NA,NA,NA,8
+2024,Sep,Prostitution,NA,NA,NA,9
+2024,Oct,Prostitution,NA,NA,NA,10
+2024,Nov,Prostitution,NA,NA,NA,11
+2024,Dec,Prostitution,NA,NA,NA,12
+2025,Jan,Prostitution,NA,NA,NA,1
+2025,Feb,Prostitution,1,NA,0.77,2
+2025,Mar,Prostitution,NA,NA,NA,3
+2025,Apr,Prostitution,NA,NA,NA,4
+2025,May,Prostitution,NA,NA,NA,5
+2025,Jun,Prostitution,NA,NA,NA,6
+2025,Jul,Prostitution,3,2,2.3099999999999996,7
+2025,Aug,Prostitution,NA,NA,NA,8
+2025,Sep,Prostitution,NA,NA,NA,9
+2021,Jan,Assisting or Promoting Prostitution,NA,NA,NA,1
+2021,Feb,Assisting or Promoting Prostitution,NA,NA,NA,2
+2021,Mar,Assisting or Promoting Prostitution,NA,NA,NA,3
+2021,Apr,Assisting or Promoting Prostitution,NA,NA,NA,4
+2021,May,Assisting or Promoting Prostitution,NA,NA,NA,5
+2021,Jun,Assisting or Promoting Prostitution,NA,NA,NA,6
+2021,Jul,Assisting or Promoting Prostitution,NA,NA,NA,7
+2021,Aug,Assisting or Promoting Prostitution,NA,NA,NA,8
+2021,Sep,Assisting or Promoting Prostitution,NA,NA,NA,9
+2021,Oct,Assisting or Promoting Prostitution,NA,NA,NA,10
+2021,Nov,Assisting or Promoting Prostitution,NA,NA,NA,11
+2021,Dec,Assisting or Promoting Prostitution,NA,NA,NA,12
+2022,Jan,Assisting or Promoting Prostitution,NA,NA,NA,1
+2022,Feb,Assisting or Promoting Prostitution,NA,NA,NA,2
+2022,Mar,Assisting or Promoting Prostitution,NA,NA,NA,3
+2022,Apr,Assisting or Promoting Prostitution,NA,NA,NA,4
+2022,May,Assisting or Promoting Prostitution,NA,NA,NA,5
+2022,Jun,Assisting or Promoting Prostitution,NA,NA,NA,6
+2022,Jul,Assisting or Promoting Prostitution,NA,NA,NA,7
+2022,Aug,Assisting or Promoting Prostitution,NA,NA,NA,8
+2022,Sep,Assisting or Promoting Prostitution,NA,NA,NA,9
+2022,Oct,Assisting or Promoting Prostitution,NA,NA,NA,10
+2022,Nov,Assisting or Promoting Prostitution,NA,NA,NA,11
+2022,Dec,Assisting or Promoting Prostitution,NA,NA,NA,12
+2023,Jan,Assisting or Promoting Prostitution,NA,NA,NA,1
+2023,Feb,Assisting or Promoting Prostitution,NA,NA,NA,2
+2023,Mar,Assisting or Promoting Prostitution,NA,NA,NA,3
+2023,Apr,Assisting or Promoting Prostitution,NA,NA,NA,4
+2023,May,Assisting or Promoting Prostitution,NA,NA,NA,5
+2023,Jun,Assisting or Promoting Prostitution,NA,NA,NA,6
+2023,Jul,Assisting or Promoting Prostitution,NA,NA,NA,7
+2023,Aug,Assisting or Promoting Prostitution,NA,NA,NA,8
+2023,Sep,Assisting or Promoting Prostitution,NA,NA,NA,9
+2023,Oct,Assisting or Promoting Prostitution,NA,NA,NA,10
+2023,Nov,Assisting or Promoting Prostitution,NA,NA,NA,11
+2023,Dec,Assisting or Promoting Prostitution,NA,NA,NA,12
+2024,Jan,Assisting or Promoting Prostitution,NA,NA,NA,1
+2024,Feb,Assisting or Promoting Prostitution,NA,NA,NA,2
+2024,Mar,Assisting or Promoting Prostitution,NA,NA,NA,3
+2024,Apr,Assisting or Promoting Prostitution,NA,NA,NA,4
+2024,May,Assisting or Promoting Prostitution,NA,NA,NA,5
+2024,Jun,Assisting or Promoting Prostitution,NA,NA,NA,6
+2024,Jul,Assisting or Promoting Prostitution,NA,NA,NA,7
+2024,Aug,Assisting or Promoting Prostitution,NA,NA,NA,8
+2024,Sep,Assisting or Promoting Prostitution,NA,NA,NA,9
+2024,Oct,Assisting or Promoting Prostitution,NA,NA,NA,10
+2024,Nov,Assisting or Promoting Prostitution,NA,NA,NA,11
+2024,Dec,Assisting or Promoting Prostitution,NA,NA,NA,12
+2025,Jan,Assisting or Promoting Prostitution,NA,NA,NA,1
+2025,Feb,Assisting or Promoting Prostitution,NA,NA,NA,2
+2025,Mar,Assisting or Promoting Prostitution,NA,NA,NA,3
+2025,Apr,Assisting or Promoting Prostitution,NA,NA,NA,4
+2025,May,Assisting or Promoting Prostitution,NA,NA,NA,5
+2025,Jun,Assisting or Promoting Prostitution,NA,NA,NA,6
+2025,Jul,Assisting or Promoting Prostitution,NA,NA,NA,7
+2025,Aug,Assisting or Promoting Prostitution,NA,NA,NA,8
+2025,Sep,Assisting or Promoting Prostitution,NA,NA,NA,9
+2021,Jan,Purchasing Prostitution,NA,NA,NA,1
+2021,Feb,Purchasing Prostitution,NA,NA,NA,2
+2021,Mar,Purchasing Prostitution,NA,NA,NA,3
+2021,Apr,Purchasing Prostitution,NA,NA,NA,4
+2021,May,Purchasing Prostitution,NA,NA,NA,5
+2021,Jun,Purchasing Prostitution,NA,NA,NA,6
+2021,Jul,Purchasing Prostitution,NA,NA,NA,7
+2021,Aug,Purchasing Prostitution,NA,NA,NA,8
+2021,Sep,Purchasing Prostitution,NA,NA,NA,9
+2021,Oct,Purchasing Prostitution,NA,NA,NA,10
+2021,Nov,Purchasing Prostitution,NA,NA,NA,11
+2021,Dec,Purchasing Prostitution,NA,NA,NA,12
+2022,Jan,Purchasing Prostitution,NA,NA,NA,1
+2022,Feb,Purchasing Prostitution,NA,NA,NA,2
+2022,Mar,Purchasing Prostitution,NA,NA,NA,3
+2022,Apr,Purchasing Prostitution,NA,NA,NA,4
+2022,May,Purchasing Prostitution,NA,NA,NA,5
+2022,Jun,Purchasing Prostitution,NA,NA,NA,6
+2022,Jul,Purchasing Prostitution,NA,NA,NA,7
+2022,Aug,Purchasing Prostitution,NA,NA,NA,8
+2022,Sep,Purchasing Prostitution,NA,NA,NA,9
+2022,Oct,Purchasing Prostitution,1,NA,0.7799999999999999,10
+2022,Nov,Purchasing Prostitution,NA,NA,NA,11
+2022,Dec,Purchasing Prostitution,NA,NA,NA,12
+2023,Jan,Purchasing Prostitution,NA,NA,NA,1
+2023,Feb,Purchasing Prostitution,NA,NA,NA,2
+2023,Mar,Purchasing Prostitution,NA,NA,NA,3
+2023,Apr,Purchasing Prostitution,NA,NA,NA,4
+2023,May,Purchasing Prostitution,NA,NA,NA,5
+2023,Jun,Purchasing Prostitution,NA,NA,NA,6
+2023,Jul,Purchasing Prostitution,NA,NA,NA,7
+2023,Aug,Purchasing Prostitution,NA,NA,NA,8
+2023,Sep,Purchasing Prostitution,NA,NA,NA,9
+2023,Oct,Purchasing Prostitution,NA,NA,NA,10
+2023,Nov,Purchasing Prostitution,NA,NA,NA,11
+2023,Dec,Purchasing Prostitution,NA,NA,NA,12
+2024,Jan,Purchasing Prostitution,NA,NA,NA,1
+2024,Feb,Purchasing Prostitution,NA,NA,NA,2
+2024,Mar,Purchasing Prostitution,NA,NA,NA,3
+2024,Apr,Purchasing Prostitution,NA,NA,NA,4
+2024,May,Purchasing Prostitution,NA,NA,NA,5
+2024,Jun,Purchasing Prostitution,NA,NA,NA,6
+2024,Jul,Purchasing Prostitution,NA,NA,NA,7
+2024,Aug,Purchasing Prostitution,NA,NA,NA,8
+2024,Sep,Purchasing Prostitution,NA,NA,NA,9
+2024,Oct,Purchasing Prostitution,NA,NA,NA,10
+2024,Nov,Purchasing Prostitution,NA,NA,NA,11
+2024,Dec,Purchasing Prostitution,NA,NA,NA,12
+2025,Jan,Purchasing Prostitution,NA,NA,NA,1
+2025,Feb,Purchasing Prostitution,NA,NA,NA,2
+2025,Mar,Purchasing Prostitution,NA,NA,NA,3
+2025,Apr,Purchasing Prostitution,NA,NA,NA,4
+2025,May,Purchasing Prostitution,NA,NA,NA,5
+2025,Jun,Purchasing Prostitution,NA,NA,NA,6
+2025,Jul,Purchasing Prostitution,NA,NA,NA,7
+2025,Aug,Purchasing Prostitution,NA,NA,NA,8
+2025,Sep,Purchasing Prostitution,NA,NA,NA,9
+2021,Jan,Weapon Law Violations,10,9,7.91,1
+2021,Feb,Weapon Law Violations,15,11,11.87,2
+2021,Mar,Weapon Law Violations,15,12,11.87,3
+2021,Apr,Weapon Law Violations,9,7,7.119999999999999,4
+2021,May,Weapon Law Violations,18,10,14.239999999999998,5
+2021,Jun,Weapon Law Violations,13,6,10.28,6
+2021,Jul,Weapon Law Violations,10,6,7.91,7
+2021,Aug,Weapon Law Violations,11,5,8.7,8
+2021,Sep,Weapon Law Violations,18,11,14.239999999999998,9
+2021,Oct,Weapon Law Violations,13,8,10.28,10
+2021,Nov,Weapon Law Violations,16,6,12.66,11
+2021,Dec,Weapon Law Violations,10,5,7.91,12
+2022,Jan,Weapon Law Violations,9,5,7.04,1
+2022,Feb,Weapon Law Violations,13,11,10.17,2
+2022,Mar,Weapon Law Violations,15,11,11.73,3
+2022,Apr,Weapon Law Violations,17,8,13.3,4
+2022,May,Weapon Law Violations,7,5,5.470000000000001,5
+2022,Jun,Weapon Law Violations,12,12,9.39,6
+2022,Jul,Weapon Law Violations,20,12,15.64,7
+2022,Aug,Weapon Law Violations,14,12,10.95,8
+2022,Sep,Weapon Law Violations,20,12,15.64,9
+2022,Oct,Weapon Law Violations,11,8,8.6,10
+2022,Nov,Weapon Law Violations,10,8,7.819999999999999,11
+2022,Dec,Weapon Law Violations,11,6,8.6,12
+2023,Jan,Weapon Law Violations,12,9,9.26,1
+2023,Feb,Weapon Law Violations,16,7,12.35,2
+2023,Mar,Weapon Law Violations,15,11,11.57,3
+2023,Apr,Weapon Law Violations,14,12,10.8,4
+2023,May,Weapon Law Violations,13,10,10.03,5
+2023,Jun,Weapon Law Violations,10,7,7.72,6
+2023,Jul,Weapon Law Violations,11,5,8.49,7
+2023,Aug,Weapon Law Violations,10,8,7.72,8
+2023,Sep,Weapon Law Violations,11,6,8.49,9
+2023,Oct,Weapon Law Violations,9,4,6.94,10
+2023,Nov,Weapon Law Violations,12,8,9.26,11
+2023,Dec,Weapon Law Violations,8,4,6.17,12
+2024,Jan,Weapon Law Violations,5,1,3.86,1
+2024,Feb,Weapon Law Violations,14,8,10.8,2
+2024,Mar,Weapon Law Violations,9,3,6.94,3
+2024,Apr,Weapon Law Violations,11,9,8.49,4
+2024,May,Weapon Law Violations,10,7,7.72,5
+2024,Jun,Weapon Law Violations,13,7,10.03,6
+2024,Jul,Weapon Law Violations,10,7,7.72,7
+2024,Aug,Weapon Law Violations,4,3,3.09,8
+2024,Sep,Weapon Law Violations,22,14,16.979999999999997,9
+2024,Oct,Weapon Law Violations,16,7,12.35,10
+2024,Nov,Weapon Law Violations,11,3,8.49,11
+2024,Dec,Weapon Law Violations,15,11,11.57,12
+2025,Jan,Weapon Law Violations,13,7,10.03,1
+2025,Feb,Weapon Law Violations,5,4,3.86,2
+2025,Mar,Weapon Law Violations,19,14,14.66,3
+2025,Apr,Weapon Law Violations,11,10,8.49,4
+2025,May,Weapon Law Violations,19,11,14.66,5
+2025,Jun,Weapon Law Violations,10,6,7.72,6
+2025,Jul,Weapon Law Violations,11,7,8.49,7
+2025,Aug,Weapon Law Violations,1,NA,0.77,8
+2025,Sep,Weapon Law Violations,NA,NA,NA,9
+2021,Jan,Animal Cruelty,NA,NA,NA,1
+2021,Feb,Animal Cruelty,NA,NA,NA,2
+2021,Mar,Animal Cruelty,NA,NA,NA,3
+2021,Apr,Animal Cruelty,NA,NA,NA,4
+2021,May,Animal Cruelty,NA,NA,NA,5
+2021,Jun,Animal Cruelty,NA,NA,NA,6
+2021,Jul,Animal Cruelty,NA,NA,NA,7
+2021,Aug,Animal Cruelty,NA,NA,NA,8
+2021,Sep,Animal Cruelty,NA,NA,NA,9
+2021,Oct,Animal Cruelty,3,1,2.3699999999999997,10
+2021,Nov,Animal Cruelty,NA,NA,NA,11
+2021,Dec,Animal Cruelty,NA,NA,NA,12
+2022,Jan,Animal Cruelty,NA,NA,NA,1
+2022,Feb,Animal Cruelty,1,1,0.7799999999999999,2
+2022,Mar,Animal Cruelty,2,NA,1.56,3
+2022,Apr,Animal Cruelty,NA,NA,NA,4
+2022,May,Animal Cruelty,NA,NA,NA,5
+2022,Jun,Animal Cruelty,2,NA,1.56,6
+2022,Jul,Animal Cruelty,NA,NA,NA,7
+2022,Aug,Animal Cruelty,NA,NA,NA,8
+2022,Sep,Animal Cruelty,NA,NA,NA,9
+2022,Oct,Animal Cruelty,NA,NA,NA,10
+2022,Nov,Animal Cruelty,NA,NA,NA,11
+2022,Dec,Animal Cruelty,NA,NA,NA,12
+2023,Jan,Animal Cruelty,1,NA,0.77,1
+2023,Feb,Animal Cruelty,NA,NA,NA,2
+2023,Mar,Animal Cruelty,NA,NA,NA,3
+2023,Apr,Animal Cruelty,1,1,0.77,4
+2023,May,Animal Cruelty,NA,NA,NA,5
+2023,Jun,Animal Cruelty,1,NA,0.77,6
+2023,Jul,Animal Cruelty,2,1,1.54,7
+2023,Aug,Animal Cruelty,NA,NA,NA,8
+2023,Sep,Animal Cruelty,NA,NA,NA,9
+2023,Oct,Animal Cruelty,1,1,0.77,10
+2023,Nov,Animal Cruelty,NA,NA,NA,11
+2023,Dec,Animal Cruelty,NA,NA,NA,12
+2024,Jan,Animal Cruelty,NA,NA,NA,1
+2024,Feb,Animal Cruelty,NA,NA,NA,2
+2024,Mar,Animal Cruelty,NA,NA,NA,3
+2024,Apr,Animal Cruelty,NA,NA,NA,4
+2024,May,Animal Cruelty,NA,NA,NA,5
+2024,Jun,Animal Cruelty,NA,NA,NA,6
+2024,Jul,Animal Cruelty,NA,NA,NA,7
+2024,Aug,Animal Cruelty,NA,NA,NA,8
+2024,Sep,Animal Cruelty,1,1,0.77,9
+2024,Oct,Animal Cruelty,NA,NA,NA,10
+2024,Nov,Animal Cruelty,NA,NA,NA,11
+2024,Dec,Animal Cruelty,NA,NA,NA,12
+2025,Jan,Animal Cruelty,1,1,0.77,1
+2025,Feb,Animal Cruelty,NA,NA,NA,2
+2025,Mar,Animal Cruelty,2,2,1.54,3
+2025,Apr,Animal Cruelty,NA,NA,NA,4
+2025,May,Animal Cruelty,NA,NA,NA,5
+2025,Jun,Animal Cruelty,1,NA,0.77,6
+2025,Jul,Animal Cruelty,NA,NA,NA,7
+2025,Aug,Animal Cruelty,NA,NA,NA,8
+2025,Sep,Animal Cruelty,NA,NA,NA,9
+2021,Jan,Missing,NA,NA,NA,1
+2021,Feb,Missing,NA,NA,NA,2
+2021,Mar,Missing,NA,NA,NA,3
+2021,Apr,Missing,NA,NA,NA,4
+2021,May,Missing,NA,NA,NA,5
+2021,Jun,Missing,NA,NA,NA,6
+2021,Jul,Missing,NA,NA,NA,7
+2021,Aug,Missing,NA,NA,NA,8
+2021,Sep,Missing,NA,NA,NA,9
+2021,Oct,Missing,NA,NA,NA,10
+2021,Nov,Missing,NA,NA,NA,11
+2021,Dec,Missing,NA,NA,NA,12
+2022,Jan,Missing,NA,NA,NA,1
+2022,Feb,Missing,NA,NA,NA,2
+2022,Mar,Missing,NA,NA,NA,3
+2022,Apr,Missing,NA,NA,NA,4
+2022,May,Missing,NA,NA,NA,5
+2022,Jun,Missing,NA,NA,NA,6
+2022,Jul,Missing,NA,NA,NA,7
+2022,Aug,Missing,NA,NA,NA,8
+2022,Sep,Missing,NA,NA,NA,9
+2022,Oct,Missing,NA,NA,NA,10
+2022,Nov,Missing,NA,NA,NA,11
+2022,Dec,Missing,NA,NA,NA,12
+2023,Jan,Missing,NA,NA,NA,1
+2023,Feb,Missing,NA,NA,NA,2
+2023,Mar,Missing,NA,NA,NA,3
+2023,Apr,Missing,NA,NA,NA,4
+2023,May,Missing,NA,NA,NA,5
+2023,Jun,Missing,NA,NA,NA,6
+2023,Jul,Missing,NA,NA,NA,7
+2023,Aug,Missing,NA,NA,NA,8
+2023,Sep,Missing,NA,NA,NA,9
+2023,Oct,Missing,NA,NA,NA,10
+2023,Nov,Missing,NA,NA,NA,11
+2023,Dec,Missing,NA,NA,NA,12
+2024,Jan,Missing,NA,NA,NA,1
+2024,Feb,Missing,NA,NA,NA,2
+2024,Mar,Missing,NA,NA,NA,3
+2024,Apr,Missing,NA,NA,NA,4
+2024,May,Missing,NA,NA,NA,5
+2024,Jun,Missing,NA,NA,NA,6
+2024,Jul,Missing,NA,NA,NA,7
+2024,Aug,Missing,NA,NA,NA,8
+2024,Sep,Missing,NA,NA,NA,9
+2024,Oct,Missing,NA,NA,NA,10
+2024,Nov,Missing,NA,NA,NA,11
+2024,Dec,Missing,NA,NA,NA,12
+2025,Jan,Missing,NA,NA,NA,1
+2025,Feb,Missing,NA,NA,NA,2
+2025,Mar,Missing,NA,NA,NA,3
+2025,Apr,Missing,NA,NA,NA,4
+2025,May,Missing,NA,NA,NA,5
+2025,Jun,Missing,NA,NA,NA,6
+2025,Jul,Missing,NA,NA,NA,7
+2025,Aug,Missing,NA,NA,NA,8
+2025,Sep,Missing,NA,NA,NA,9
