@@ -9,6 +9,11 @@ To do any kind of join, you need to have a column or columns in your tables that
 
 There are several types of joins you can perform in R, and each returns a slightly different set of results. Regardless of which join function you choose, the arguments will be the same. To learn more about the different kinds of joins, check out [this presentation](https://docs.google.com/presentation/d/1_rlOBML0-cseRSDwNbJljGmpMs2UiteseKoyhr10Y2A/edit?usp=sharing). The last slide also talks about syntax.
 
+This first code chunk makes sure the "working directory" of the file is the base folder, where the .Rproj file lives:
+```{r setup, include=FALSE}
+knitr::opts_knit$set(root.dir = here::here())
+```
+
 ```{r}
 library(tidyverse)
 ```

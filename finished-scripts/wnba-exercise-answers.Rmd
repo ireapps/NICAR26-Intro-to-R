@@ -3,6 +3,11 @@ title: "R Notebook"
 output: 
 ---
 
+This first code chunk makes sure the "working directory" of the file is the base folder, where the .Rproj file lives:
+```{r setup, include=FALSE}
+knitr::opts_knit$set(root.dir = here::here())
+```
+
 ```{r}
 library(tidyverse)
 ```

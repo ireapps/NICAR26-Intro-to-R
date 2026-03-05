@@ -29,6 +29,6 @@ All the data we'll use is in the [data](data) folder (where you should always ke
 - [Peruse the RStudio Cheatsheets](rstudio_cheatsheets)
 - [Review the primary functions for data analysis](tipsheets/R-Functions.pdf)
 - [Review basic newsroom math formulas](tipsheets/Newsroom-Math-Crib-Sheet.pdf) (h/t Steve Doig)
-- [See the various types of joins you can do in R](https://docs.google.com/presentation/d/1CbQiwMVWIgzh5dsNQQE76MTLhFaxqXvAJMyDFA5n0SU/edit?usp=sharing)
+- [See the various types of joins you can do in R](https://docs.google.com/presentation/d/1_rlOBML0-cseRSDwNbJljGmpMs2UiteseKoyhr10Y2A/edit?usp=sharing)
 
 
