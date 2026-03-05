@@ -1,7 +1,6 @@
 # Introduction to R
 
-### Link to this repository:
-#### [bit.ly/nicar26-R](https://bit.ly/nicar26-R)
+### Link to this repository:  [bit.ly/nicar26-R](https://bit.ly/nicar26-R)
 
 ### Class Requirements
 - This material will make sense if you have a good understanding of the basics of data analysis: sorting, filtering and grouping, whether in spreadsheets or in a database manager program.
