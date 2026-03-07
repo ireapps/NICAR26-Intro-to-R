@@ -1,0 +1,182 @@
+---
+title: "Introduction to R and RStudio"
+output: html_notebook
+---
+
+Welcome to R! This script introduces the building blocks of coding in R: creating variables, understanding data types, and using the pipe operator to build data pipelines.
+
+
+## Part 1: Variables
+
+A **variable** stores a value so you can refer to it later. In R, you create a variable using the assignment operator `<-`. Think of it as an arrow pointing a name at a value.
+
+```{r}
+# A numeric variable
+rank <- 17
+
+# A character (text) variable — always use quotes
+song_title <- "Baile Inolvidable"
+
+# A logical variable — only TRUE or FALSE
+is_number_one <- FALSE
+```
+
+Type the name of any variable and run the line to see its value:
+
+```{r}
+rank
+song_title
+is_number_one
+```
+
+You can do math with numeric variables:
+
+```{r}
+peak_position <- 2
+chart_fall <- peak_position - rank
+chart_fall
+```
+
+A few things to know:
+- Variable names cannot start with a number or contain spaces. Use underscores: `my_variable`, not `my variable`.
+- R is case-sensitive: `Song` and `song` are different variables.
+- Comments inside of code chunks start with `#` — R ignores everything after the `#` on that line.
+
+---
+
+## Part 2: Vectors
+
+A **vector** is a collection of values of the same type. Create one with `c()`, which stands for "combine":
+
+```{r}
+# A numeric vector of chart positions
+chart_positions <- c(1, 2, 3, 4, 5)
+
+# A character vector of performer names
+performers <- c("Ella Langley", "Olivia Dean", "Alex Warren", "Taylor Swift","Bruno Mars")
+```
+
+R has several built-in functions that work on vectors:
+
+```{r}
+length(chart_positions)   # how many values are in the vector
+sum(chart_positions)      # add them all up
+mean(chart_positions)     # average
+min(chart_positions)      # lowest value
+max(chart_positions)      # highest value
+```
+
+---
+
+## Part 3: Reading Data
+
+Real analysis starts with loading a dataset. The `read_csv()` function reads a comma-separated file into R and stores it as a **data frame** — a table with rows and columns.
+
+Load the tidyverse, a collection of packages designed for data analysis:
+
+```{r}
+library(tidyverse)
+```
+
+
+We'll use Billboard Hot 100 chart data from the `data` folder:
+
+```{r}
+hot_100 <- read_csv("data/hot-100-current.csv")
+```
+
+The name on the left of `<-` is up to you. Pick something short and descriptive.
+
+---
+
+## Part 4: Exploring Your Data
+
+Before you analyze, get to know your data. These functions give you a quick overview:
+
+```{r}
+# A compact summary of all columns and their data types
+glimpse(hot_100)
+```
+
+The `glimpse()` output shows each column name, its type (`<chr>` = character, `<dbl>` = numeric, `<date>` = date), and a preview of the first few values.
+
+```{r}
+# Show the first 6 rows
+head(hot_100)
+```
+
+```{r}
+# Count rows and columns
+nrow(hot_100)
+ncol(hot_100)
+```
+
+```{r}
+# List all column names
+names(hot_100)
+```
+
+The hot_100 data frame has these columns:
+- `chart_week` — date of the chart
+- `current_week` — chart position this week (1 = #1)
+- `title` — song title
+- `performer` — artist name
+- `last_week` — chart position last week
+- `peak_pos` — highest chart position ever reached
+- `wks_on_chart` — total weeks on the chart
+
+---
+
+## Part 5: The Pipe Operator
+
+The pipe `%>%` is one of the most important tools in the tidyverse. It takes the output of one function and passes it as the input to the next function. Read it as **"and then"**.
+
+**Keyboard shortcut:** On Mac, press `Cmd + Shift + M` to type `%>%`. On Windows/Linux, use `Ctrl + Shift + M`.
+
+With the pipe, you write left to right in the order things happen:
+
+```{r}
+# With the pipe, getting the first 10 rows
+hot_100 %>% head(10)
+```
+
+The real power of the pipe is chaining multiple steps into a readable pipeline:
+
+```{r}
+# Take hot_100, then pass it to head() for the first 10 rows
+hot_100 %>%
+  filter(chart_week == as.Date("2026-02-14")) %>% 
+  arrange(desc(wks_on_chart)) %>% 
+  select(current_week, title, performer, wks_on_chart)
+```
+
+---
+
+
+## Practice
+
+Try answering these questions by writing code in the chunks below.
+
+**1. Create a variable called `my_name` that stores your first name as a character:**
+
+```{r}
+
+```
+
+**2. Create a numeric vector called `ages` containing the five numbers of the ages of people around you, then find the mean:**
+
+```{r}
+
+```
+
+**3. Use `glimpse()` on `hot_100` — how many rows does the dataset have?**
+
+```{r}
+
+```
+
+**4. Use `select()` and the pipe to show only the `title`, `performer`, and `peak_pos` columns from `hot_100`:**
+
+```{r}
+
+```
