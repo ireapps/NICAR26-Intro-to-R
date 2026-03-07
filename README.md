@@ -27,6 +27,8 @@ At the end of the class we'll put the finished scripts in the folder `finished-s
 ### Data
 All the data we'll use is in the [data](data) folder (where you should always keep data!)
 
+Access the Google sheets dataset [here](https://docs.google.com/spreadsheets/d/1YctIvE6PBjYujA-Y-bPUcIhF8C1BxUyD4woG2Loskdo/edit?gid=0#gid=0) or copy and paste this link into your browser: https://docs.google.com/spreadsheets/d/1YctIvE6PBjYujA-Y-bPUcIhF8C1BxUyD4woG2Loskdo/edit?gid=0#gid=0 
+
 ### Additional Materials
 - [Peruse the RStudio Cheatsheets](rstudio_cheatsheets)
 - [Review the primary functions for data analysis](tipsheets/R-Functions.pdf)
