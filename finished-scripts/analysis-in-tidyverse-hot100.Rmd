@@ -1,0 +1,173 @@
+---
+title: "Analysis functions in Tidyverse with Hot 100"
+output: 
+---
+
+At the top of every script in your first code chunk, best practice is to load all the packages that you need for your script.
+
+Packages need to be installed once on your computer before you can use them; then to use them in a script, use the library() function. To install a package, use install.packages().
+
+We primarily use the [tidyverse](https://www.tidyverse.org) to work with data, written primarily by Hadley Wickham of Posit (who also maintains RStudio). The Tidyverse is a suite of packages, and you can install them all at once by running the following code on your computer:
+
+```{r}
+install.packages("tidyverse")
+```
+
+Now to use the functions that come with the Tidyverse code, we need to load tidyverse into our script:
+
+```{r}
+library(tidyverse)
+```
+
+One of the packages, [dplyr](dplyr.tidyverse.org) somes with many useful functions for importing and analyzing data:
+
+-   read_csv() : import flat text files that are comma delimited into a "tibble" (a tidyverse table).
+-   arrange() : sort table data by a particular column or columns.
+-   filter() : pull out a subset of table data with one or multiple criteria.
+-   count() : quickly get a list of all unique values in a column and how many rows are associated with each value.
+-   summarise() : use summary functions to calculate basic statistics about your data as a whole, or the groups you create in group_by().
+-   group_by() : group the rows of your table based on the values in a column or columns so you can apply summary functions to those groups.
+
+
+To start, we'll import a CSV file in our "data" folder. Because we're using an R Project (by opening RStudio using the .RProj file), R is already looking inside that project folder. We just need to tell it to step into the data folder and look for a particular CSV.
+
+The data we'll start with a dataset of Billboard's Hot 100 data. Billboard releases the top 100 songs (according to their mysterious methodology) every week. This dataset is scraped and archived by Christian McDonald at UT Austin (github.com/utdata):
+```{r}
+read_csv("data/hot-100-current.csv")
+```
+
+Run that code and R will spit out the table (tibble) below the code chunk. You'll see that the data has 352,400 rows and 7 columns (352400 x 7). R will also paginate the results so you're only seeing ten rows at a time (flip through all the rows at the bottom of the table). 
+
+Remember, results of your code either print below the code chunk (as above) or get stored in the environment. To work with this dataset further, we want to store it in the environment. So add the assignment operator `<-` and a variable name in front of the read_csv() function: 
+```{r}
+hot100 <- read_csv("data/hot-100-current.csv")
+```
+
+Now you'll see it in the environment.
+
+## arrange() ##
+
+Working through the functions mentioned above, try arrange(). Sort the data by the column *wks_on_chart*. To do this, start with the variable name and then pipe it into the function you want to use. The shortcut for the pipe character is `cmd+option+m` (`ctrl+shift+m` on a PC):
+```{r}
+hot100 %>% arrange(wks_on_chart)
+```
+
+We're seeing the songs that have been on the charts the *least* on top; by default arrange() uses ascending or alphabetical order. To reverse the order, add the desc() function inside arrange():
+```{r}
+hot100 %>% arrange(desc(wks_on_chart))
+```
+
+As of mid February, "Lose Control" by Teddy Swims has been on the charts the longest - for 112 weeks. 
+
+You can also use two columns in your arrange(), but think through the order. If you want to sort by chart_week and wks_on_chart (to see the longest running song each week), you need to put chart_week first. If you put wks_on_chart first, the chart_week sort will only come into play when there are multiple songs that have been on the chart for the same amount of time. 
+```{r}
+hot100 %>% arrange(desc(chart_week), desc(wks_on_chart))
+```
+
+For the most recent week in this data (2/14/2026), the song on the charts that had been there the longest was "Mutt" by Leon Thomas, at 52 weeks. (Lose Control by Teddy Swims doesn't show up because it wasn't on the charts that week). 
+
+Note that just using `arrange()` returns all the rows and columns, with reordered rows. 
+
+## filter() ##
+
+The filter() function takes one or more criteria to create a subset of your data. To see only chart appearances by "Olivia Dean", pipe hot100 into the filter() function and choose only rows where the value in column *performer* is equal to "Olivia Dean". To do this, use == instead of =; two equal signs tests for equality, one equal sign is used for assignment.
+```{r}
+hot100 %>% filter(performer == "Olivia Dean")
+```
+
+You can use the pipe to string together multiple functions, creating a pipeline for your data:
+
+```{r}
+hot100 %>% filter(performer == "Olivia Dean") %>%  arrange(desc(wks_on_chart))
+```
+
+To use multiple criteria you should use boolean logic: separate them with AND or OR. In tidyverse, these are represented as & and |. 
+So to look for the Olivia Dean OR Olivia Rodrigo: 
+```{r}
+hot100 %>% 
+  filter(performer=="Olivia Dean" | performer=="Olivia Rodrigo")
+```
+
+You can use line returns in your code to make it more readable; be sure to add line returns at the start of a function, so that pipes are always at the end of a line:
+```{r}
+hot100 %>% 
+  filter(performer=="Olivia Dean" | performer=="Olivia Rodrigo") %>% 
+  arrange(desc(wks_on_chart))
+```
+
+When filtering, remember that OR *broadens* your results, AND *narrows* them. So adding `| performer == "Olivia Rodrigo"` to your original filter returns MORE results. If we add another element using &, we'll get fewer results:  
+```{r}
+hot100 %>% 
+  filter(performer=="Olivia Dean" & current_week <= 10)
+```
+
+12 of Olivia Dean's appearances have been in the top 10. 
+
+This is a good time to point out that R is very case sensitive: function names, variable names, column names, text you're searching for: it must all match exactly with very few exceptions. If you try using Filter() it will not work.
+
+## count() ##
+
+So how did we know that the Olivia Dean was written in the data as "Olivia Dean"? There are several ways to determine what the values look like in a column. Usually you do this when you're vetting your data, before you start analyzing. You can use the count() function to see what the unique values are in a column and how many rows are associated with each value: 
+```{r}
+hot100 %>% count(performer)
+```
+
+There are many many unique performers in this dataset. Additionally, this shows us that sometimes names aren't consistent (see `$uicideBoy$` and `$uicideboy$`. And sometimes artists collaborate, so `Olivia Dean` and `Olivia Dean featuring Bad Bunny` will show up as two different performers (because computers are very literal). 
+
+You can also use the distinct() function, which returns the unique values in a column without counting rows:
+```{r}
+hot100 %>% distinct(performer)
+```
+
+Finally, you can search for a key word or words using str_detect() - this is part of the stringr package. This returns the full rows from your data:
+```{r}
+hot100 %>% filter(str_detect(performer, "Olivia Dean"))
+```
+
+Now try using that on the list of performers to see how many iterations of "Olivia Dean" there are: 
+```{r}
+hot100 %>% 
+  count(performer) %>% 
+  filter(str_detect(performer, "Olivia Dean"))
+```
+Just one. But if we try the same thing for someone who collaborates a lot, like Beyonce, it will look quite different: 
+```{r}
+hot100 %>% 
+  count(performer) %>% 
+  filter(str_detect(performer, "Beyonce"))
+```
+
+
+## summarise() ##
+
+The summarise() function allows you to run summary functions (e.g. sum(), mean(), median(), n()) on your data, distilling it down into one number. To find the average wks_on_chart, use mean() inside of summarise():
+```{r}
+hot100 %>% summarise(avg_weeks = mean(wks_on_chart))
+```
+That means that on any given week, the average song has already been on the charts for 9 weeks.
+
+You can use any summary function inside summarise(). This dataset isn't great for summing, but try it out on some other datasets. 
+
+Because sum(), mean(), etc are base R functions, they can't receive information from pipes. So summarise() prepares the data for you. You can calculate multiple descriptive statistics at once. It's also best practice to name the resulting calculations for reasons that will make more sense later. 
+
+## group_by() ##
+
+To group your rows into larger groups for further analysis, use group_by(). What if we want to get an average wks_on_chart for each artist, rather than the dataset as a whole? To compare performers, we need to put `performer` in `group_by()`: 
+
+```{r}
+hot100 %>% 
+  group_by(performer) %>% 
+  summarise(avg_weeks = mean(wks_on_chart)) %>% 
+  arrange(desc(avg_weeks))
+```
+
+When Nat King Cole has an appearance on the charts, his songs are more likely to have been there a while. 
+
+To add the total number of appearances for each performer, add the summary function n():
+```{r}
+hot100 %>% 
+  group_by(performer) %>% 
+  summarise(avg_weeks = mean(wks_on_chart), appearances = n()) %>% 
+  arrange(desc(avg_weeks))
+```
+
